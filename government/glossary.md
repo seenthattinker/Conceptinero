@@ -1,628 +1,7 @@
-<div class="par iparys_inherited">
 
-<div class="global-header">
-
--   [Skip to main
-    content](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#wb-cont){.wb-sl}
--   [Skip to "About
-    government"](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#wb-info){.wb-sl}
--   [Switch to basic HTML
-    version](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html?wbdisable=true){.wb-sl}
-
-<div id="wb-bnr" class="container">
-
-<div class="row">
-
-<div id="wb-lng"
-class="section col-xs-3 col-sm-12 pull-right text-right">
-
-Language selection {#language-selection .wb-inv}
-------------------
-
-<div class="row">
-
-<div class="col-md-12">
-
--   [[Français]{.hidden-xs}
-    fr](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher"
-typeof="GovernmentOrganization">
-
-[![Government of
-Canada](./SR&ED%20Glossary%20-%20Canada.ca_files/sig-blk-en.svg) [ /
-[Gouvernement du Canada]{lang="fr"}
-]{.wb-inv}](https://www.canada.ca/en.html)
-
-</div>
-
-<div id="wb-srch"
-class="section col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
-
-Search
-------
-
-<div class="form-group wb-srch-qry">
-
-Search Canada.ca
-
-</div>
-
-<div class="form-group submit">
-
-[]{.glyphicon-search .glyphicon}[Search]{.wb-inv}
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="container">
-
-Menu {#menu .wb-inv}
-----
-
-[Main ]{.wb-inv}Menu []{.expicon .glyphicon .glyphicon-chevron-down}
--   [Jobs and the
-    workplace](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Jobs[: home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/jobs.html)
-    -   -   [Find a
-        job](https://www.canada.ca/en/services/jobs/opportunities.html)
-    -   [Training](https://www.canada.ca/en/services/jobs/training.html)
-    -   [Hire and manage
-        employees](https://www.canada.ca/business-management)
-    -   [Starting a business](https://www.canada.ca/start-business)
-    -   [Workplace
-        standards](https://www.canada.ca/en/services/jobs/workplace.html)
-    -   [Pensions and
-        retirement](https://www.canada.ca/en/services/finance/pensions.html)
-    -   [Employment Insurance and
-        leave](https://www.canada.ca/en/services/benefits/ei.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [View your Records of
-            Employment](https://www.canada.ca/en/employment-social-development/programs/ei/ei-list/ei-roe/access-roe.html)
-        -   [Apply for a Social Insurance Number
-            (SIN)](https://www.canada.ca/en/employment-social-development/services/sin.html)
-        -   [Hire a temporary foreign
-            worker](https://www.canada.ca/en/employment-social-development/services/foreign-workers.html)
-        -   [Immigrate as a skilled
-            worker](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html)
-
--   [Immigration and
-    citizenship](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Immigration[ and citizenship]{.hidden-xs .hidden-sm}[:
-        home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/immigration-citizenship.html)
-    -   -   [My
-        application](https://www.canada.ca/en/immigration-refugees-citizenship/services/application.html)
-    -   [Visit](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html)
-    -   [Immigrate](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html)
-    -   [Work](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html)
-    -   [Study](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html)
-    -   [Citizenship](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship.html)
-    -   [New
-        immigrants](https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants.html)
-    -   [Canadians](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians.html)
-    -   [Refugees and
-        asylum](https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees.html)
-    -   [Enforcement and
-        violations](https://www.canada.ca/en/services/immigration-citizenship/enforcement-violations.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Sign in or create an account to apply
-            online](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html)
-        -   [Check your application
-            status](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html)
-        -   [Check application processing
-            times](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html)
-        -   [Find an application
-            form](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides.html)
-        -   [Pay your
-            fees](http://www.cic.gc.ca/english/information/fees/index.asp)
-        -   [Find out if you need an eTA or a visa to visit
-            Canada](http://www.cic.gc.ca/english/visit/visas.asp)
-        -   [Have questions? Find answers in the Help
-            Centre](http://www.cic.gc.ca/english/helpcentre/index-featured-can.asp)
-
--   [Travel and
-    tourism](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Travel[ and tourism]{.hidden-xs .hidden-sm}[:
-        home]{.visible-xs-inline
-        .visible-sm-inline}](https://travel.gc.ca/)
-    -   -   [Travel advice and
-        advisories](https://travel.gc.ca/travelling/advisories)
-    -   [Canadian attractions, events and
-        experiences](https://travel.gc.ca/canadian-tourism)
-    -   [Canadian
-        passports](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html)
-    -   [Travelling abroad](https://travel.gc.ca/travelling)
-    -   [Air travel](https://travel.gc.ca/air)
-    -   [Returning to Canada](https://travel.gc.ca/returning)
-    -   [Assistance abroad](https://travel.gc.ca/assistance)
-    -   [Stay connected](https://travel.gc.ca/stay-connected)
-    -   [Visit Canada](https://www.canada.ca/visit)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Consent letter for children travelling
-            abroad](https://travel.gc.ca/travelling/children/consent-letter)
-        -   [Canada - U.S. border wait
-            times](http://www.cbsa-asfc.gc.ca/bwt-taf/menu-eng.html)
-        -   [Register as a Canadian
-            abroad](https://travel.gc.ca/travelling/registration)
-        -   [Apply for
-            NEXUS](http://www.cbsa-asfc.gc.ca/prog/nexus/application-demande-eng.html)
-        -   [What you can bring home to
-            Canada](https://travel.gc.ca/returning/customs/what-you-can-bring-home-to-canada)
-        -   [Contact an embassy or
-            consulate](https://travel.gc.ca/assistance/embassies-consulates)
-        -   [Cannabis and international
-            travel](https://travel.gc.ca/travelling/cannabis-and-international-travel)
-
--   [Business and
-    industry](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Business[ and industry]{.hidden-xs .hidden-sm}[:
-        home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/business.html)
-    -   -   [Starting a
-        business](https://www.canada.ca/en/services/business/start.html)
-    -   [Business grants and
-        financing](https://www.canada.ca/en/services/business/grants.html)
-    -   [Business
-        taxes](https://www.canada.ca/en/services/business/taxes.html)
-    -   [Federal
-        corporations](https://www.canada.ca/en/services/business/federal-corporations.html)
-    -   [Hiring and managing
-        employees](https://www.canada.ca/en/services/business/hire.html)
-    -   [International trade and
-        investment](https://www.canada.ca/en/services/business/trade.html)
-    -   [Permits, licences and
-        regulations](https://www.canada.ca/en/services/business/permits.html)
-    -   [Doing business with
-        government](https://www.canada.ca/en/services/business/doing-business.html)
-    -   [R&D and
-        innovation](https://www.canada.ca/en/services/science/innovation.html)
-    -   [Research and business
-        intelligence](https://www.canada.ca/en/services/business/research.html)
-    -   [Intellectual property and
-        copyright](https://www.canada.ca/en/services/business/ip.html)
-    -   [Maintaining your
-        business](https://www.canada.ca/en/services/business/maintaingrowimprovebusiness.html)
-    -   [Protecting your
-        business](https://www.canada.ca/en/services/business/protecting.html)
-    -   [Insolvency for
-        business](https://www.canada.ca/en/services/business/bankruptcy.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Find a
-            corporation](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA)
-        -   [Report your imported
-            goods](https://www.cbsa-asfc.gc.ca/prog/manif/portal-portail-eng.html)
-        -   [Search for
-            trademarks](https://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/home?lang=eng)
-        -   [Review custom tariffs for importing
-            goods](https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2018/html/tblmod-1-eng.html)
-        -   [Find a
-            patent](http://www.ic.gc.ca/opic-cipo/cpd/eng/introduction.html)
-        -   [Import and export from
-            Canada](https://www.cbsa-asfc.gc.ca/comm-eng.html)
-        -   [Name a
-            business](http://www.ic.gc.ca/eic/site/075.nsf/eng/home)
-        -   [Make changes to your corporation (Online Filing
-            Centre)](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/hm.html?locale=en_CA)
-
--   [Benefits](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Benefits[: home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/benefits.html)
-    -   -   [Employment Insurance and
-        leave](https://www.canada.ca/en/services/benefits/ei.html)
-    -   [Family and caregiving
-        benefits](https://www.canada.ca/en/services/benefits/family.html)
-    -   [Public
-        pensions](https://www.canada.ca/en/services/benefits/publicpensions.html)
-    -   [Education and student
-        aid](https://www.canada.ca/en/services/benefits/education.html)
-    -   [Housing
-        benefits](https://www.canada.ca/en/services/benefits/housing.html)
-    -   [Disability
-        benefits](https://www.canada.ca/en/services/benefits/disability.html)
-    -   [Benefits
-        finder](https://benefitsfinder.services.gc.ca/hm?GoCTemplateCulture=en-CA)
-    -   [Benefit payment
-        dates](https://www.canada.ca/en/services/benefits/calendar.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Apply for Employment
-            Insurance](https://www.canada.ca/en/services/benefits/ei/ei-regular-benefit.html)
-        -   [Apply for student loans and
-            grants](https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans.html)
-        -   [Sign in to a Government of Canada online
-            account](https://www.canada.ca/en/government/sign-in-online-account.html)
-        -   [Sign up for direct
-            deposit](https://www.tpsgc-pwgsc.gc.ca/recgen/txt/depot-deposit-eng.html)
-        -   [Submit your EI
-            report](https://www.canada.ca/en/services/benefits/ei/ei-internet-reporting.html)
-        -   [Child and family benefits
-            calculators](http://www.cra-arc.gc.ca/bnfts/clcltr/cfbc-eng.html)
-
--   [Health](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Health[: home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/health.html)
-    -   -   [Food and
-        nutrition](https://www.canada.ca/en/services/health/food-nutrition.html)
-    -   [Diseases and
-        conditions](https://www.canada.ca/en/public-health/services/diseases.html)
-    -   [Vaccines and
-        immunization](https://www.canada.ca/en/public-health/topics/immunization-vaccines.html)
-    -   [Drug and health
-        products](https://www.canada.ca/en/services/health/drug-health-products.html)
-    -   [Product
-        safety](https://www.canada.ca/en/services/health/product-safety.html)
-    -   [Health risks and
-        safety](https://www.canada.ca/en/services/health/health-risks-safety.html)
-    -   [Healthy
-        living](https://www.canada.ca/en/services/health/healthy-living.html)
-    -   [Indigenous
-        health](https://www.canada.ca/en/services/health/aboriginal-health.html)
-    -   [Health system and
-        services](https://www.canada.ca/en/services/health/health-system-services.html)
-    -   [Science, research and
-        data](https://www.canada.ca/en/services/health/science-research-data.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Licensed cultivators, processors and seller of
-            cannabis](https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/industry-licensees-applicants/licensed-cultivators-processors-sellers.html)
-        -   [Food and product recalls and safety
-            alerts](http://healthycanadians.gc.ca/recall-alert-rappel-avis/index-eng.php)
-        -   [Canada's food
-            guide](https://www.canada.ca/en/health-canada/services/canada-food-guides.html)
-
--   [Taxes](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Taxes[: home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/taxes.html)
-    -   -   [Income
-        tax](https://www.canada.ca/en/services/taxes/income-tax.html)
-    -   [GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html)
-    -   [Payroll](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html)
-    -   [Business
-        number](https://www.canada.ca/en/services/taxes/business-number.html)
-    -   [Savings and pension
-        plans](https://www.canada.ca/en/services/taxes/savings-and-pension-plans.html)
-    -   [Child and family
-        benefits](https://www.canada.ca/en/services/taxes/child-and-family-benefits.html)
-    -   [Excise taxes, duties, and
-        levies](https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies.html)
-    -   [Charities and
-        giving](https://www.canada.ca/en/services/taxes/charities.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [My
-            Account](https://www.canada.ca/en/revenue-agency/services/e-services/e-services-individuals/account-individuals.html)
-        -   [My Business
-            Account](https://www.canada.ca/en/revenue-agency/services/e-services/e-services-businesses/business-account.html)
-        -   [Represent a
-            Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html)
-        -   [File a GST/HST return
-            (NETFILE)](https://www.canada.ca/en/revenue-agency/services/e-services/e-services-businesses/gst-hst-netfile.html)
-        -   [Make a payment to the Canada Revenue
-            Agency](https://www.canada.ca/en/revenue-agency/services/make-a-payment-canada-revenue-agency.html)
-        -   [Find the next benefit payment
-            date](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/benefit-payment-dates.html)
-
--   [Environment and natural
-    resources](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Environment[ and natural resources]{.hidden-xs .hidden-sm}[:
-        home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/environment.html)
-    -   -   [Weather, climate and
-        hazards](https://www.canada.ca/en/services/environment/weather.html)
-    -   [Energy](https://www.canada.ca/en/services/environment/energy.html)
-    -   [Natural
-        resources](https://www.canada.ca/en/services/environment/natural-resources.html)
-    -   [Agricultural
-        practices](https://www.canada.ca/en/services/environment/agricultural-practices.html)
-    -   [Fisheries](https://www.canada.ca/en/services/environment/fisheries.html)
-    -   [Wildlife, plants and
-        species](https://www.canada.ca/en/services/environment/wildlife-plants-species.html)
-    -   [Pollution and waste
-        management](https://www.canada.ca/en/services/environment/pollution-waste-management.html)
-    -   [Environmental conservation and
-        protection](https://www.canada.ca/en/services/environment/conservation.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Local weather
-            forecast](https://weather.gc.ca/canada_e.html)
-        -   [Fuel-efficient
-            vehicles](https://www.nrcan.gc.ca/energy/efficiency/transportation/20996)
-        -   [Home energy efficiency](https://www.nrcan.gc.ca/homes)
-        -   [Species at
-            risk](https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry.html)
-        -   [Prepare for severe
-            weather](https://www.canada.ca/en/environment-climate-change/services/seasonal-weather-hazards.html)
-
--   [National security and
-    defence](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [[National security and defence]{.hidden-xs .hidden-sm}[Defence:
-        home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/defence.html)
-    -   -   [National
-        security](https://www.canada.ca/en/services/defence/nationalsecurity.html)
-    -   [Canadian Armed
-        Forces](https://www.canada.ca/en/services/defence/caf.html)
-    -   [Defence equipment purchases and
-        upgrades](https://www.canada.ca/en/services/defence/defence-equipment-purchases-upgrades.html)
-    -   [Transportation
-        security](http://www.tc.gc.ca/en/services/transportation-security.html)
-    -   [Securing the
-        border](https://www.canada.ca/en/services/defence/securingborder.html)
-    -   [Cyber
-        security](https://www.canada.ca/en/services/defence/cybersecurity.html)
-    -   [Jobs in national security and
-        defence](https://www.canada.ca/en/services/defence/jobs.html)
-    -   [Services and benefits for the
-        military](https://www.canada.ca/en/government/publicservice/benefitsmilitary.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Jobs in the Canadian Armed
-            Forces](https://forces.ca/en/careers/)
-        -   [Military
-            ranks](https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/insignia-flags/ranks/rank-appointment-insignia.html)
-        -   [Defence
-            equipment](https://www.canada.ca/en/services/defence/caf/equipment.html)
-        -   [Current list of terrorist
-            entities](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cntr-trrrsm/lstd-ntts/crrnt-lstd-ntts-en.aspx)
-        -   [Join the Cadets](http://www.cadets.ca/en/join/cadets.page)
-        -   [Canada's Defence
-            policy](http://dgpaapp.forces.gc.ca/en/canada-defence-policy/index.asp)
-
--   [Culture, history and
-    sport](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Culture[, history and sport]{.hidden-xs .hidden-sm}[:
-        home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/culture.html)
-    -   -   [Funding - Culture, history and
-        sport](https://www.canada.ca/en/canadian-heritage/services/funding.html)
-    -   [Events, celebrations and
-        commemorations](https://www.canada.ca/en/services/culture/events-celebrations-commemorations.html)
-    -   [Cultural landmarks and
-        attractions](https://www.canada.ca/en/services/culture/cultural-attractions.html)
-    -   [Canadian identity and
-        society](https://www.canada.ca/en/services/culture/canadian-identity-society.html)
-    -   [Sport](https://www.canada.ca/en/services/culture/sport.html)
-    -   [History and
-        heritage](https://www.canada.ca/en/services/culture/history-heritage.html)
-    -   [Arts and
-        media](https://www.canada.ca/en/services/culture/arts-media.html)
-    -   [Cultural youth
-        programs](https://www.canada.ca/en/services/culture/cultural-youth-programs.html)
-    -   [Cultural trade and
-        investment](https://www.canada.ca/en/services/culture/cultural-trade-investment.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Visit the Canadian Virtual War
-            Memorial](http://www.veterans.gc.ca/eng/remembrance/memorials/canadian-virtual-war-memorial)
-        -   [Anthems and symbols of
-            Canada](https://www.canada.ca/en/services/culture/canadian-identity-society/anthems-symbols.html)
-        -   [Find a CRTC
-            decision](https://crtc.gc.ca/eng/8045/d2018.htm)
-        -   [Research your family
-            history](http://www.bac-lac.gc.ca/eng/search/Pages/ancestors-search.aspx)
-        -   [Search census
-            records](http://www.bac-lac.gc.ca/eng/census/Pages/census.aspx)
-        -   [Landmarks and attractions in Canada's
-            capital](https://www.canada.ca/en/services/culture/cultural-attractions/attractions-canada-capital.html)
-
--   [Policing, justice and
-    emergencies](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Policing[, justice and emergencies]{.hidden-xs .hidden-sm}[:
-        home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/policing.html)
-    -   -   [Policing](https://www.canada.ca/en/services/policing/police/index.html)
-    -   [Justice](https://www.canada.ca/en/services/policing/justice.html)
-    -   [Emergencies](https://www.canada.ca/en/services/policing/emergencies.html)
-    -   [Corrections](https://www.canada.ca/en/services/policing/corrections.html)
-    -   [Parole, record suspension, expungement and
-        clemency](https://www.canada.ca/en/services/policing/parole.html)
-    -   [Victims of
-        crime](https://www.canada.ca/en/services/policing/victims.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Apply/Renew a firearms
-            licence](http://www.rcmp-grc.gc.ca/cfp-pcaf/online_en-ligne/index-eng.htm)
-        -   [Get a criminal records
-            check](http://www.rcmp-grc.gc.ca/en/criminal-record-checks)
-        -   [Apply for a criminal record
-            suspension](https://www.canada.ca/en/parole-board/services/record-suspensions/official-pbc-application-guide-and-forms.html)
-        -   [What to do during an
-            emergency](https://www.getprepared.gc.ca/cnt/hzd/drng-en.aspx)
-        -   [Know the law on impaired
-            driving](https://www.canada.ca/en/services/policing/police/community-safety-policing/impaired-driving.html)
-        -   [Help solve a
-            crime](https://www.canada.ca/en/services/policing/police/help-solve-crime.html)
-
--   [Transport and
-    infrastructure](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Transport[ and infrastructure]{.hidden-xs .hidden-sm}[:
-        home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/transport.html)
-    -   -   [Aviation](http://www.tc.gc.ca/en/services/aviation.html)
-    -   [Marine
-        transportation](http://www.tc.gc.ca/en/services/marine.html)
-    -   [Road transportation](http://www.tc.gc.ca/en/services/road.html)
-    -   [Rail transportation](http://www.tc.gc.ca/en/services/rail.html)
-    -   [Dangerous
-        goods](http://www.tc.gc.ca/en/services/dangerous-goods.html)
-    -   [Infrastructure](http://www.tc.gc.ca/en/services/infrastructure.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Drone
-            safety](http://www.tc.gc.ca/en/services/aviation/drone-safety.html)
-        -   [What you can't bring on an
-            airplane](http://www.tc.gc.ca/eng/aviationsecurity/page-147.htm)
-        -   [Register your
-            vessel](http://www.tc.gc.ca/eng/marinesafety/oep-vesselreg-menu-728.htm)
-        -   [Child car seat
-            safety](http://www.tc.gc.ca/en/services/road/child-car-seat-safety.html)
-        -   [Transporting dangerous goods -
-            Regulations](http://www.tc.gc.ca/eng/tdg/clear-tofc-211.htm)
-        -   [Canadian Aviation
-            Regulations](http://www.tc.gc.ca/eng/acts-regulations/regulations-sor96-433.htm)
-
--   [Canada and the
-    world](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Canada and the world[: home]{.visible-xs-inline
-        .visible-sm-inline}](http://international.gc.ca/world-monde/index.aspx?lang=eng)
-    -   -   [International offices and emergency
-        contacts](http://international.gc.ca/world-monde/offices-bureaux/index.aspx?lang=eng)
-    -   [Study, work and travel
-        worldwide](http://international.gc.ca/world-monde/study_work_travel-etude_travail_voyage/index.aspx?lang=eng)
-    -   [Funding for international
-        initiatives](http://international.gc.ca/world-monde/funding-financement/index.aspx?lang=eng)
-    -   [Global issues and international
-        assistance](http://international.gc.ca/world-monde/issues_development-enjeux_developpement/index.aspx?lang=eng)
-    -   [International trade and
-        investment](http://www.canada.ca/en/services/business/trade/index.html)
-    -   [International
-        relations](http://international.gc.ca/world-monde/international_relations-relations_internationales/index.aspx?lang=eng)
-    -   [Information by countries and
-        territories](http://international.gc.ca/world-monde/country-pays/index.aspx?lang=eng)
-    -   [Stories](https://international.gc.ca/world-monde/stories-histoires/index.aspx?lang=eng)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Find a Canadian scholarship as an international
-            student](http://scholarships-bourses.gc.ca/scholarships-bourses/non_can/opportunities-opportunites.aspx?lang=eng)
-        -   [Find international study or research opportunities in
-            Canada](http://educanada.ca/index.aspx?lang=eng)
-        -   [Contact an embassy or
-            consulate](https://travel.gc.ca/assistance/embassies-consulates)
-        -   [Authenticate a
-            document](https://www.international.gc.ca/gac-amc/about-a_propos/services/authentication-authentification/step-etape-1.aspx?lang=eng)
-        -   [Contact a foreign representative in
-            Canada](http://international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
-        -   [International treaties signed by
-            Canada](http://treaty-accord.gc.ca/index.aspx)
-
--   [Money and
-    finances](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [[Money and finances]{.hidden-xs .hidden-sm}[Finance:
-        home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/finance.html)
-    -   -   [Managing your
-        money](https://www.canada.ca/en/services/finance/manage.html)
-    -   [Debt and
-        borrowing](https://www.canada.ca/en/services/finance/debt.html)
-    -   [Savings and
-        investments](https://www.canada.ca/en/services/finance/savings.html)
-    -   [Education
-        funding](https://www.canada.ca/en/services/finance/educationfunding.html)
-    -   [Pensions and
-        retirement](https://www.canada.ca/en/services/finance/pensions.html)
-    -   [Protection from frauds and
-        scams](https://www.canada.ca/en/services/finance/fraud.html)
-    -   [Financial tools and
-        calculators](https://www.canada.ca/en/services/finance/tools.html)
-    -   [Financial literacy
-        programs](https://www.canada.ca/en/financial-consumer-agency/services/financial-literacy-programs.html)
-    -   [Consumer
-        affairs](https://www.canada.ca/en/services/finance/consumer-affairs.html)
-    -   [Insolvency](https://www.canada.ca/en/services/finance/bankruptcy.html)
-    -   [Taxes](https://www.canada.ca/en/services/taxes.html)
-    -   [Government
-        finances](https://www.canada.ca/en/government/system/finances.html)
-    -   [Business grants and
-        financing](https://www.canada.ca/en/services/business/grants.html)
-    -   [Financial and money services
-        regulation](https://www.canada.ca/en/services/business/permits/federallyregulatedindustrysectors/financialservicesregulation.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [Find a bankruptcy or insolvency
-            record](https://www.ic.gc.ca/app/scr/bsf-osb/ins/login.html?lang=eng)
-        -   [Student
-            loans](https://www.canada.ca/en/services/jobs/education/student-financial-aid/student-loan.html)
-        -   [Set up direct
-            deposit](https://www.tpsgc-pwgsc.gc.ca/recgen/txt/depot-deposit-eng.html)
-        -   [Mortgages](https://www.canada.ca/en/financial-consumer-agency/services/mortgages.html)
-        -   [Credit report and
-            scores](https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score.html)
-        -   [Make a
-            budget](http://itools-ioutils.fcac-acfc.gc.ca/BC-CB/NetInc-RevNet-eng.aspx)
-        -   [Rates and contribution
-            limits](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html)
-
--   [Science and
-    innovation](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-    -   [Science[ and innovation]{.hidden-xs .hidden-sm}[:
-        home]{.visible-xs-inline
-        .visible-sm-inline}](https://www.canada.ca/en/services/science.html)
-    -   -   [Research funding and
-        awards](https://www.canada.ca/en/services/science/researchfunding.html)
-    -   [Science
-        subjects](https://www.canada.ca/en/services/science/sciencesubjects.html)
-    -   [Open data, statistics and
-        archives](https://www.canada.ca/en/services/science/open-data.html)
-    -   [Research institutes and
-        facilities](https://www.canada.ca/en/services/science/institutes.html)
-    -   [R&D and
-        innovation](https://www.canada.ca/en/services/science/innovation.html)
-    -   [Intellectual property and
-        copyright](https://www.canada.ca/en/services/business/ip.html)
-    -   [Directory of scientists and research
-        professionals](https://www.canada.ca/en/services/science/scientistsdirectory.html)
-    -   [Science education
-        resources](https://www.canada.ca/en/services/science/educationalresources.html)
-    -   -   [Most
-        requested](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#)
-        -   [National building
-            codes](https://www.nrc-cnrc.gc.ca/eng/publications/codes_centre/2015_national_building_code.html)
-        -   [Official time across
-            Canada](https://www.nrc-cnrc.gc.ca/eng/services/time/web_clock.html#tzpanel-4)
-        -   [Check sunrise and sunset
-            times](https://www.nrc-cnrc.gc.ca/eng/services/sunrise/index.html)
-        -   [Grants for technological innovation
-            (IRAP)](https://www.nrc-cnrc.gc.ca/eng/irap/services/financial_assistance.html)
-        -   [Federal Science
-            Library](https://science-libraries.canada.ca/eng/home/)
-        -   [Live view of northern lights
-            cam](http://asc-csa.gc.ca/eng/astronomy/auroramax/hd-480.asp)
-
-</div>
-
-You are here: {#you-are-here .wb-inv}
--------------
-
-<div class="container">
-
-1.  [Canada.ca](https://www.canada.ca/en.html)
-2.  [Taxes](https://www.canada.ca/en/services/taxes.html)
-3.  [Income
-    tax](https://www.canada.ca/en/services/taxes/income-tax.html)
-4.  [Corporation income
-    tax](https://www.canada.ca/en/services/taxes/income-tax/corporation-income-tax.html)
-5.  [Scientific Research and Experimental Development Tax Incentive
-    Program](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html)
-
-</div>
-
-</div>
-
-</div>
-
-SR&ED Glossary {#wb-cont property="name" dir="ltr"}
+SR&ED Glossary 
 ==============
 
-<div>
-
-<div class="mwsbodytext text parbase section">
 
 Date: July 15, 2015
 
@@ -633,52 +12,8 @@ forms and guides, when administering the SR&ED legislation under the
 federal *Income Tax Act* and the *Income Tax Regulations*. The SR&ED
 Glossary does not replace the law, either enacted or proposed.**
 
-[**A**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g1)
-**–**
-[**B**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g2)
-**–**
-[**C**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g3)
-**–**
-[**D**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g4)
-**–**
-[**E**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g5)
-**–**
-[**F**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g6)
-**–**
-[**G**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g7)
-**–**
-[**H**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g8)
-**–**
-[**I**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g9)
-** – J  –**
-[**K**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g11)
-**– L –**
-[**M**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g13)
-**–**
-[**N**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g14)
-**–**
-[**O**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g15)
-**–**
-[**P**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g16)
-**–**
-[**Q**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g17)
-**–**
-[**R**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g18)
-**–**
-[**S**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g19)
-**–**
-[**T**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g20)
-**– U –**
-[**V**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g22)
-** – W – X –**
-[**Y**](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#g25)
-**– Z**
 
-</div>
-
-<div class="mwsbodytext text parbase section">
-
-A {#g1}
+A 
 -
 
 **Adjusted selling cost** / [Coût de vente
@@ -795,7 +130,7 @@ Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publi
 
 <div class="mwsbodytext text parbase section">
 
-B {#g2}
+B 
 -
 
 **Basic research** / [Recherche
@@ -852,7 +187,7 @@ in a generic sense to refer to all of the above terms.
 
 <div class="mwsbodytext text parbase section">
 
-C {#g3}
+C 
 -
 
 **Canadian-controlled private corporation (CCPC)** / [Société privée
@@ -996,7 +331,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-D {#g4}
+D 
 -
 
 **Data collection / routine data collection** / [Collecte de données /
@@ -1139,7 +474,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-E {#g5}
+E 
 -
 
 **ED+CP (experimental development in conjunction or simultaneously with
@@ -1321,7 +656,7 @@ technical aspects of the SR&ED project.
 
 <div class="mwsbodytext text parbase section">
 
-F {#g6}
+F 
 -
 
 **Filing-due date** / [Date d’échéance de
@@ -1372,7 +707,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-G {#g7}
+G 
 -
 
 **General-purpose office equipment or furniture (GPOEF)** / [Mobilier ou
@@ -1409,7 +744,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-H {#g8}
+H 
 -
 
 **Humanities** / [Sciences
@@ -1455,7 +790,7 @@ The following are the explanation of changes to this term as of April
 
 <div class="mwsbodytext text parbase section">
 
-I {#g9}
+I 
 -
 
 **In Canada (for SR&ED expenditures)** / [Au Canada (pour les dépenses
@@ -1574,7 +909,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-K {#g11}
+K 
 -
 
 **Key individuals** / [Personnes
@@ -1589,7 +924,7 @@ aspects of the project.
 
 <div class="mwsbodytext text parbase section">
 
-M {#g13}
+M 
 -
 
 **Market research** / [Étude de
@@ -1673,7 +1008,7 @@ means of mathematical tools, principles, methods, or techniques.
 
 <div class="mwsbodytext text parbase section">
 
-N {#g14}
+N 
 -
 
 **Non-arm's length (NAL)** / [Lien de
@@ -1700,7 +1035,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-O {#g15}
+O 
 -
 
 **On behalf of (SR&ED undertaken)** / [Pour le compte de (RS&DE
@@ -1761,7 +1096,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-P {#g16}
+P 
 -
 
 **Pilot plant** / [Usine
@@ -2015,7 +1350,7 @@ A public authority is generally an entity that:
 
 <div class="mwsbodytext text parbase section">
 
-Q {#g17}
+Q 
 -
 
 **Qualified individuals** / [Personnes
@@ -2130,7 +1465,7 @@ definition of
 
 <div class="mwsbodytext text parbase section">
 
-R {#g18}
+R 
 -
 
 **Related benefits** / [Avantages
@@ -2208,7 +1543,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-S {#g19}
+S 
 -
 
 **Salary base** / [Base
@@ -2694,7 +2029,7 @@ The following is the explanation of changes to this term as of April 24,
 
 <div class="mwsbodytext text parbase section">
 
-T {#g20}
+T 
 -
 
 **Taxable benefits** / [Avantages
@@ -2782,7 +2117,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-V {#g22}
+V 
 -
 
 **Virtually valueless** / [Presque sans
@@ -2794,7 +2129,7 @@ Virtually valueless means a value that is 10% or less of the cost.
 
 <div class="mwsbodytext text parbase section">
 
-Y {#g25}
+Y 
 -
 
 **Year’s maximum pensionable earnings (YMPE)** / [Maximum des gains
@@ -2921,7 +2256,7 @@ data-wb-share="{&quot;lnkClass&quot;: &quot;btn btn-default btn-block&quot;}">
 <div id="shr-pg0"
 class="section shr-pg mfp-hide modal-dialog modal-content overlay-def">
 
-Share this page {#share-this-page .modal-title}
+Share this page 
 ---------------
 
 <div class="modal-body">
@@ -2967,7 +2302,7 @@ No endorsement of any products or services is expressed or implied.
 </div>
 
 [[]{.glyphicon .glyphicon-share}Share this
-page](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#shr-pg0){#wb-auto-7
+page](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#shr-pg0)
 .shr-opn .wb-lbx .btn .btn-default .btn-block .wb-lbx-inited .wb-init}
 
 </div>
@@ -2991,7 +2326,7 @@ Date modified:
 
 <div class="landscape">
 
-About government {#about-government .wb-inv}
+About government 
 ----------------
 
 -   [Contact
@@ -3017,7 +2352,7 @@ About government {#about-government .wb-inv}
 
 <div class="row">
 
-About this site {#about-this-site .wb-inv}
+About this site 
 ---------------
 
 -   [Social media](https://www.canada.ca/en/social.html)
@@ -3051,4 +2386,4 @@ Canada](./SR&ED%20Glossary%20-%20Canada.ca_files/wmms-blk.svg)
 
 </div>
 
-[ ]{#wb-rsz .wb-init}
+[ ]
