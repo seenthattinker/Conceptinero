@@ -132,7 +132,7 @@ respectively.
 
 
 
-### 1.1 How SR&ED is carried out 
+###How SR&ED is carried out 
 
 The definition of SR&ED describes **how** SR&ED is performed—a
 *[systematic investigation or
@@ -185,7 +185,7 @@ be given to why the work was carried out.
 
 
 
-### 1.2 Why SR&ED is carried out 
+###Why SR&ED is carried out 
 
 The definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -329,7 +329,7 @@ extent work meets the definition of SR&ED:
 Step 1: Determine if there is SR&ED
 
 In this step, the details of the work are examined to the point where
-the five questions (described in Section 2.1 below) can be answered.
+the five questions (described in Section below) can be answered.
 
 Step 2: Determine the extent of eligible work
 
@@ -340,7 +340,7 @@ work is SR&ED.
 
 
 
-### 2.1 Step 1: Determine if there is SR&ED 
+###Step 1: Determine if there is SR&ED 
 
 Determining if there is SR&ED means showing that there is a:
 
@@ -1245,7 +1245,7 @@ claim.
 
 
 
-### 2.2 Step 2: Determine the extent of eligible work 
+###Step 2: Determine the extent of eligible work 
 
 The method used to assess whether there is SR&ED is described in
 [section
@@ -1520,7 +1520,7 @@ SR&ED.
 
 
 
-### 3.1 Characteristics of an SR&ED project 
+###Characteristics of an SR&ED project 
 
 Every project claimed must fall within the definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -1579,7 +1579,7 @@ expenditures to the project.
 
 
 
-### 3.2 Company project versus SR&ED project 
+###Company project versus SR&ED project 
 
 A distinction must be drawn between a company project and an SR&ED
 project. *Company project* is a generic term referring to undertakings
@@ -1615,7 +1615,7 @@ research](https://www.canada.ca/en/revenue-agency/services/scientific-research-e
 
 
 
-### 3.3 Duration of an SR&ED project 
+###Duration of an SR&ED project 
 
 The start of the SR&ED project is identified as the point at which
 the [scientific or technological
@@ -1777,7 +1777,7 @@ for SR&ED Investment Tax Credits Policy:
     or technological knowledge base.* The change is to clarify that the
     concept applies equally to basic research, applied research, and
     experimental development.
-7.  The reference to the three criteria, in Section 2.1 has been
+7.  The reference to the three criteria, in Sectionhas been
     removed. That text was intended to aid the transition from the three
     criteria to the five questions when the Eligibility of Work for
     SR&ED Investment Tax Credits Policy ** was released in 2012. All
