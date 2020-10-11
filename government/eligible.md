@@ -1,6 +1,6 @@
 
 
-Eligibility of Work for SR&ED Investment Tax Credits Policy {#wb-cont property="name" dir="ltr"}
+Eligibility of Work for SR&ED Investment Tax Credits Policy 
 ===========================================================
 
 
@@ -8,6 +8,13 @@ Eligibility of Work for SR&ED Investment Tax Credits Policy {#wb-cont property="
 
 
 Date: April 24, 2015
+
+
+
+This is a replica of the government's website material. 
+Our notes are separated from the main text as follows,
+
+>**Conceptinero** This is our input. 
 
 
 
@@ -50,33 +57,14 @@ performed, are familiar with, or are responsible for the work.
 
 
 
-
-
-
-
-
-
-
-------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-1.0 What is SR&ED? {#s1_0 tabindex="-1"}
+What is SR&ED? 
 ------------------
 
 Scientific research and experimental development (SR&ED) is defined for
 income tax purposes in subsection 248(1) of the *Income Tax Act* as
 follows:
 
-"ʽscientific research and experimental developmentʼ means systematic
+Scientific research and experimental development means systematic
 investigation or search that is carried out in a field of science or
 technology by means of experiment or analysis and that is
 
@@ -117,10 +105,10 @@ product or the commercial use of a new or improved process,
 
 \(j) style changes, or
 
-\(k) routine data collection;"
+\(k) routine data collection;
 
-What is generally understood to be "research and development", or "R&D",
-is not necessarily "SR&ED". SR&ED is carried out in a certain way and
+What is generally understood to be *research and development*, or *R&D*,
+is not necessarily *SR&ED*. SR&ED is carried out in a certain way and
 for specific reasons. The definition of SR&ED describes how
 ([section 1.1](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s1_1)
 below) and why
@@ -128,12 +116,12 @@ below) and why
 below) SR&ED work is carried out.
 
 **Note**\
-"Eligible" and "ineligible" (including the forms "eligibility" and
-"ineligibility") are widely used in the SR&ED program, although
-the Act does not define these terms. For this document, "eligible" or
-"ineligible", without any other qualifier, means work that meets or does
+*Eligible* and *ineligible* (including the forms *eligibility* and
+*ineligibility*) are widely used in the SR&ED program, although
+the Act does not define these terms. For this document, *eligible* or
+*ineligible*, without any other qualifier, means work that meets or does
 not meet the definition of SR&ED in subsection 248(1) of the Act. In
-addition, "uncertainty" and "advancement" without any other qualifiers
+addition, *uncertainty* and *advancement* without any other qualifiers
 refer to [scientific or technological
 uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
 and [scientific or technological
@@ -144,10 +132,10 @@ respectively.
 
 
 
-### 1.1 How SR&ED is carried out {#s1_1}
+### 1.1 How SR&ED is carried out 
 
 The definition of SR&ED describes **how** SR&ED is performed—a
-"[systematic investigation or
+*[systematic investigation or
 search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
 that is carried out in a field
 of [science](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scn)
@@ -155,7 +143,7 @@ or [technology](https://www.canada.ca/en/revenue-agency/services/scientific-res
 by means of
 [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
 or
-[analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss)."
+[analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss).*
 
 Most work, especially research and development, is carried out
 systematically. It follows known design methods, techniques, procedures,
@@ -181,10 +169,10 @@ search](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 is common to all work, including scientific,
 [engineering](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ngnrng)
 or other development, that involves SR&ED. And, it is recognized that in
-an industrial context, a "possible solution to the problem" may be
+an industrial context, a *possible solution to the problem* may be
 considered a
 [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss),
-and "building and testing of a prototype" may be considered part of the
+and *building and testing of a prototype* may be considered part of the
 [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
 or
 [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss).
@@ -197,7 +185,7 @@ be given to why the work was carried out.
 
 
 
-### 1.2 Why SR&ED is carried out {#s1_2}
+### 1.2 Why SR&ED is carried out 
 
 The definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -247,7 +235,7 @@ Depending on the purpose of the work, SR&ED can involve:
 
 
 
-#### 1.2.1 Basic research {#s1_2_1}
+#### 1.2.1 Basic research 
 
 [Basic
 research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch)
@@ -276,7 +264,7 @@ demonstrated that these particles existed, and measured their properties
 
 
 
-#### 1.2.2 Applied research {#s1_2_2}
+#### 1.2.2 Applied research 
 
 [Applied
 research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch)
@@ -301,7 +289,7 @@ made.
 
 
 
-#### 1.2.3 Experimental development {#s1_2_3}
+#### 1.2.3 Experimental development 
 
 [Experimental
 development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt)
@@ -332,7 +320,7 @@ and principles).
 
 
 
-2.0 Methodology to determine if work meets the definition of SR&ED {#s2_0}
+Methodology to determine if work meets the definition of SR&ED 
 ------------------------------------------------------------------
 
 The following 2-step methodology can be used to determine if and to what
@@ -352,11 +340,11 @@ work is SR&ED.
 
 
 
-### 2.1 Step 1: Determine if there is SR&ED {#s2_1}
+### 2.1 Step 1: Determine if there is SR&ED 
 
 Determining if there is SR&ED means showing that there is a:
 
-"[systematic investigation or
+*[systematic investigation or
 search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
 that is carried out in a field
 of [science](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scn)
@@ -385,7 +373,7 @@ namely, work undertaken for the purpose of achieving [technological
 advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
 for the purpose of creating new, or improving existing, materials,
 devices, products or processes, including incremental improvements
-thereto,"
+thereto,*
 
 The method to establish this involves answering the following five
 questions:
@@ -436,10 +424,10 @@ five questions in order to determine if there is SR&ED.
 
 
 
-#### 2.1.1 Was there a scientific or a technological uncertainty? {#s2_1_1}
+#### 2.1.1 Was there a scientific or a technological uncertainty? 
 
 [Scientific or technological
-uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty){#s211p1} means
+uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
 whether a given result or objective can be achieved or how to achieve
 it, is not known or determined on the basis of generally available
 scientific or technological knowledge or experience. Specifically, it is
@@ -464,7 +452,7 @@ search](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 and implies recognition of the need for advancement.
 
 [Technological
-uncertainties](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty){#s211p12}
+uncertainties](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
 may arise from shortcomings or limitations of the current state
 of [technology](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tchnlgy)
 that prevent a new or improved capability from being developed. In other
@@ -477,7 +465,7 @@ problem.
 
 
 
-### Example 1: Technological uncertainty {#example-1-technological-uncertainty .panel-title}
+### Example 1: Technological uncertainty 
 
 
 
@@ -608,7 +596,7 @@ to resolve the problem.
 
 
 
-### Example 2: Technical problem versus technological uncertainty {#example-2-technical-problem-versus-technological-uncertainty .panel-title}
+### Example 2: Technical problem versus technological uncertainty 
 
 
 
@@ -736,7 +724,7 @@ process.
 
 
 
-### Example 3: Cost targets leading to technological uncertainty {#example-3-cost-targets-leading-to-technological-uncertainty .panel-title}
+### Example 3: Cost targets leading to technological uncertainty 
 
 
 
@@ -858,7 +846,7 @@ uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-researc
 
 
 
-### Example 4: Development based on existing scientific or technological knowledge {#example-4-development-based-on-existing-scientific-or-technological-knowledge .panel-title}
+### Example 4: Development based on existing scientific or technological knowledge 
 
 
 
@@ -892,8 +880,8 @@ adjustments involve using optimization techniques for variables such as
 light, temperature, carbon dioxide, and humidity. You also develop and
 implement management protocols to optimize the control of nutrient
 levels, de-leafing, thinning, and other operational practices. These
-adjustments and management protocols are often called the "development
-of cultural management strategies" or "crop husbandry strategies."
+adjustments and management protocols are often called the *development
+of cultural management strategies* or *crop husbandry strategies.*
 
 Based on the results from your controllable zone, you start commercial
 production.
@@ -950,14 +938,14 @@ associated SR&ED project.
 
 
 
-#### 2.1.2 Did the effort involve formulating hypotheses specifically aimed at reducing or eliminating that uncertainty? {#s2_1_2}
+#### 2.1.2 Did the effort involve formulating hypotheses specifically aimed at reducing or eliminating that uncertainty? 
 
 Formulating
 a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
 designed to resolve the [scientific or technological
 uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
 is an essential step and requires observing and understanding the
-subject matter of the problem. Here, "hypothesis" means an idea,
+subject matter of the problem. Here, *hypothesis* means an idea,
 consistent with known facts, that serves as a starting point for further
 investigation to prove or disprove that idea. The meaning of the term
 hypothesis is applied in the most general sense and is sufficiently
@@ -967,7 +955,7 @@ broad to apply to an industrial context as well.
 
 
 
-#### 2.1.3 Was the overall approach adopted consistent with a systematic investigation or search, including formulating and testing the hypotheses by means of experiment or analysis? {#s2_1_3}
+#### 2.1.3 Was the overall approach adopted consistent with a systematic investigation or search, including formulating and testing the hypotheses by means of experiment or analysis? 
 
 In SR&ED, it is expected that a planned approach is formulated; that is:
 
@@ -1048,7 +1036,7 @@ of a systematic plan. The objective in such a case is to resolve a
 functional problem rather than to address a problem in the
 underlying [technology](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tchnlgy)
 that may have caused this functional problem. The lesson learned in each
-attempt of trial and error is simply that "an option did not work."
+attempt of trial and error is simply that *an option did not work.*
 There is no
 further [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss)
 of the reason why it did not work to make the lesson applicable in a
@@ -1067,7 +1055,7 @@ search](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 
 
-#### 2.1.4 Was the overall approach undertaken for the purpose of achieving a scientific or a technological advancement? {#s2_1_4}
+#### 2.1.4 Was the overall approach undertaken for the purpose of achieving a scientific or a technological advancement? 
 
 [Scientific or technological
 advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
@@ -1127,7 +1115,7 @@ important.
 
 
 
-### Example 5: Creating new materials, devices, products or processes without technological advancement {#example-5-creating-new-materials-devices-products-or-processes-without-technological-advancement .panel-title}
+### Example 5: Creating new materials, devices, products or processes without technological advancement 
 
 
 
@@ -1216,7 +1204,7 @@ technological knowledge base.
 
 
 
-#### 2.1.5 Was a record of the hypotheses tested and the results kept as the work progressed? {#s2_1_5}
+#### 2.1.5 Was a record of the hypotheses tested and the results kept as the work progressed? 
 
 A record of the
 [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss),
@@ -1257,7 +1245,7 @@ claim.
 
 
 
-### 2.2 Step 2: Determine the extent of eligible work {#s2_2}
+### 2.2 Step 2: Determine the extent of eligible work 
 
 The method used to assess whether there is SR&ED is described in
 [section
@@ -1275,7 +1263,7 @@ Specifically, the definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
 states:
 
-"and, in applying this definition in respect of a taxpayer, includes
+*and, in applying this definition in respect of a taxpayer, includes
 
 \(d) work undertaken by or [on behalf
 of](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nbhlf)
@@ -1334,7 +1322,7 @@ changes](https://www.canada.ca/en/revenue-agency/services/scientific-research-ex
 or
 
 \(k) [routine data
-collection](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dtcllctn);"
+collection](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dtcllctn);*
 
 The following sections provide additional details on how to determine
 the extent of SR&ED work based on the definition of SR&ED in the Act.
@@ -1343,7 +1331,7 @@ the extent of SR&ED work based on the definition of SR&ED in the Act.
 
 
 
-#### 2.2.1 Support work {#s2_2_1}
+#### 2.2.1 Support work 
 
 The work identified in paragraph (d) of the definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -1365,7 +1353,7 @@ Canada](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 it falls within the meaning of SR&ED.
 
 [Support
-work](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprtwrk){#s221p2}
+work](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprtwrk)
 must be the following:
 
 -   It must be [commensurate with the
@@ -1419,7 +1407,7 @@ must be the following:
 
 
 
-### Example 6: Commensurate with the needs and directly in support {#example-6-commensurate-with-the-needs-and-directly-in-support .panel-title}
+### Example 6: Commensurate with the needs and directly in support 
 
 
 
@@ -1477,7 +1465,7 @@ investment tax credits.)
 
 
 
-#### 2.2.2 Excluded work {#s2_2_2}
+#### 2.2.2 Excluded work 
 
 The work identified in paragraphs (e) to (k) of the definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -1518,21 +1506,21 @@ or was it done for some other reason?
 
 
 
-3.0 SR&ED project {#s3_0}
+3.0 SR&ED project 
 -----------------
 
 [Form T661, Scientific Research and Experimental Development (SR&ED)
 Expenditures
 Claim](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html),
 requires SR&ED work to be claimed as SR&ED projects. As a result,
-claimants should be aware of the meaning of "project" in the context of
+claimants should be aware of the meaning of *project* in the context of
 SR&ED.
 
 
 
 
 
-### 3.1 Characteristics of an SR&ED project {#s3_1}
+### 3.1 Characteristics of an SR&ED project 
 
 Every project claimed must fall within the definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -1591,10 +1579,10 @@ expenditures to the project.
 
 
 
-### 3.2 Company project versus SR&ED project {#s3_2}
+### 3.2 Company project versus SR&ED project 
 
 A distinction must be drawn between a company project and an SR&ED
-project. "Company project" is a generic term referring to undertakings
+project. *Company project* is a generic term referring to undertakings
 by a company to have an impact on its business; for example, building
 new facilities or expanding facilities, developing new products and
 product lines, changing business practices, upgrading processes and
@@ -1627,7 +1615,7 @@ research](https://www.canada.ca/en/revenue-agency/services/scientific-research-e
 
 
 
-### 3.3 Duration of an SR&ED project {#s3_3}
+### 3.3 Duration of an SR&ED project 
 
 The start of the SR&ED project is identified as the point at which
 the [scientific or technological
@@ -1702,11 +1690,11 @@ undertaken to resolve it.
 
 
 
-SR&ED in a production or manufacturing environment {#s4_0}
+SR&ED in a production or manufacturing environment 
 ------------------------------------------------------
 
 SR&ED in a production or manufacturing environment is referred to as
-"shop floor SR&ED." It occurs in a variety of industry sectors and is
+*shop floor SR&ED.* It occurs in a variety of industry sectors and is
 mostly [experimental
 development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt)
 in nature. However, [basic
@@ -1758,35 +1746,35 @@ situations:
 
 
 
-Appendix A {#ppx1}
+Appendix A 
 ----------
 
 
 
 
 
-### Explanation of changes {#ppx1_1}
+### Explanation of changes 
 
 The following are the explanation of changes to the Eligibility of Work
 for SR&ED Investment Tax Credits Policy:
 
-1.  The term "scientific method" has been removed. Although the term has
+1.  The term *scientific method* has been removed. Although the term has
     been removed, the fundamental concepts remain in policy and are
-    embodied in the term "systematic investigation or search."
+    embodied in the term *systematic investigation or search.*
 2.  The use of the five questions to establish if there is SR&ED is now
-    referred to as a "method." Originally referred to as an "approach",
-    this has been changed to distinguish it from the "approach" referred
+    referred to as a *method.* Originally referred to as an *approach*,
+    this has been changed to distinguish it from the *approach* referred
     to within the five questions.
-3.  Question 1 of the five questions has been shortened by removing "-
-    an uncertainty that could not be removed by standard practice." This
+3.  Question 1 of the five questions has been shortened by removing *-
+    an uncertainty that could not be removed by standard practice.* This
     phrase was redundant to the question.
 4.  Question 3 of the five questions has been modified to remove the
-    term "scientific method." Reference to modifying the hypothesis has
+    term *scientific method.* Reference to modifying the hypothesis has
     also been removed to simplify the question.
 5.  Question 4 of the five questions has been modified to explicitly
     allow for advancement not yet achieved.
-6.  The term "technology base or level" has been changed to "scientific
-    or technological knowledge base." The change is to clarify that the
+6.  The term *technology base or level* has been changed to *scientific
+    or technological knowledge base.* The change is to clarify that the
     concept applies equally to basic research, applied research, and
     experimental development.
 7.  The reference to the three criteria, in Section 2.1 has been
@@ -1797,7 +1785,7 @@ for SR&ED Investment Tax Credits Policy:
 8.  Six new examples have been added. These examples illustrate concepts
     found in policy and are meant to aid the understanding of these
     concepts.
-9.  The term "standard practice" has been removed to remove any
+9.  The term *standard practice* has been removed to remove any
     confusion.
 10. Section 2.1.5 has been rewritten to better express the difference
     between the records referred to in Question 5 of the five questions
