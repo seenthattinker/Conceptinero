@@ -235,7 +235,7 @@ Depending on the purpose of the work, SR&ED can involve:
 
 
 
-#### 1.2.1 Basic research 
+#### Basic research 
 
 [Basic
 research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch)
@@ -264,7 +264,7 @@ demonstrated that these particles existed, and measured their properties
 
 
 
-#### 1.2.2 Applied research 
+#### Applied research 
 
 [Applied
 research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch)
@@ -289,7 +289,7 @@ made.
 
 
 
-#### 1.2.3 Experimental development 
+#### Experimental development 
 
 [Experimental
 development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt)
@@ -417,14 +417,13 @@ industry, and access to technical resources. It is expected that any
 company making a claim for SR&ED will have or will access the expertise
 necessary to carry out that work.
 
-Sections 2.1.1 – 2.1.5 provide additional details in relation to the
-five questions in order to determine if there is SR&ED.
 
 
 
 
 
-#### 2.1.1 Was there a scientific or a technological uncertainty? 
+
+#### Was there a scientific or a technological uncertainty? 
 
 [Scientific or technological
 uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
@@ -938,7 +937,7 @@ associated SR&ED project.
 
 
 
-#### 2.1.2 Did the effort involve formulating hypotheses specifically aimed at reducing or eliminating that uncertainty? 
+#### Did the effort involve formulating hypotheses specifically aimed at reducing or eliminating that uncertainty? 
 
 Formulating
 a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
@@ -955,7 +954,7 @@ broad to apply to an industrial context as well.
 
 
 
-#### 2.1.3 Was the overall approach adopted consistent with a systematic investigation or search, including formulating and testing the hypotheses by means of experiment or analysis? 
+#### Was the overall approach adopted consistent with a systematic investigation or search, including formulating and testing the hypotheses by means of experiment or analysis? 
 
 In SR&ED, it is expected that a planned approach is formulated; that is:
 
@@ -1055,7 +1054,7 @@ search](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 
 
-#### 2.1.4 Was the overall approach undertaken for the purpose of achieving a scientific or a technological advancement? 
+#### Was the overall approach undertaken for the purpose of achieving a scientific or a technological advancement? 
 
 [Scientific or technological
 advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
@@ -1204,7 +1203,7 @@ technological knowledge base.
 
 
 
-#### 2.1.5 Was a record of the hypotheses tested and the results kept as the work progressed? 
+#### Was a record of the hypotheses tested and the results kept as the work progressed? 
 
 A record of the
 [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss),
@@ -1331,7 +1330,7 @@ the extent of SR&ED work based on the definition of SR&ED in the Act.
 
 
 
-#### 2.2.1 Support work 
+#### Support work 
 
 The work identified in paragraph (d) of the definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -1465,7 +1464,7 @@ investment tax credits.)
 
 
 
-#### 2.2.2 Excluded work 
+#### Excluded work 
 
 The work identified in paragraphs (e) to (k) of the definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
