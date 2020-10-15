@@ -107,6 +107,10 @@ product or the commercial use of a new or improved process,
 
 \(k) routine data collection;
 
+
+
+![](https://github.com/seenthattinker/Conceptinero/blob/master/images/stred.svg)
+
 What is generally understood to be *research and development*, or *R&D*,
 is not necessarily *SR&ED*. SR&ED is carried out in a certain way and
 for specific reasons. The definition of SR&ED describes how
