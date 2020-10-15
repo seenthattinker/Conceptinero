@@ -113,11 +113,9 @@ product or the commercial use of a new or improved process,
 
 What is generally understood to be *research and development*, or *R&D*,
 is not necessarily *SR&ED*. SR&ED is carried out in a certain way and
-for specific reasons. The definition of SR&ED describes how
-([section 1.1](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s1_1)
-below) and why
-([section 1.2](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s1_2)
-below) SR&ED work is carried out.
+for specific reasons. The definition of SR&ED describes [how](#how-sr&ed-is-carried-out)
+and
+[why](#why-sr&ed-is-carried-out) SR&ED work is carried out.
 
 **Note**\
 *Eligible* and *ineligible* (including the forms *eligibility* and
