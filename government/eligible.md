@@ -4,7 +4,7 @@ Eligibility of Work for SR&ED Investment Tax Credits Policy
 ===========================================================
 
 
-
+The main SR&ED website is ![SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html)
 
 
 Date: April 24, 2015
