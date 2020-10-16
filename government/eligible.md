@@ -1,6 +1,6 @@
 
 
-.. image::
+.. image::https://github.com/seenthattinker/Conceptinero/blob/master/images/conceptinero-funding-ideas-logo-white-383w.webp
 
 Eligibility of Work for SR&ED Investment Tax Credits Policy 
 ===========================================================
