@@ -1,10 +1,8 @@
 
+![](https://github.com/seenthattinker/Conceptinero/blob/master/images/conceptinero-funding-ideas-logo-white-383w.webp)
 
 Eligibility of Work for SR&ED Investment Tax Credits Policy 
 ===========================================================
-
-
-.. image:: https://github.com/seenthattinker/Conceptinero/blob/master/images/conceptinero-funding-ideas-logo-white-383w.webp
 
 
 The main SR&ED website is [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html)
