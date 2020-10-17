@@ -5,7 +5,7 @@ Eligibility of Work for SR&ED Investment Tax Credits Policy
 ===========================================================
 
 
-The main SR&ED website is [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html)
+The main SR&ED website is [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program.html).
 
 
 
@@ -85,7 +85,10 @@ What is generally understood to be *research and development*, or *R&D*,
 is not necessarily *SR&ED*. SR&ED is carried out in a certain way and
 for specific reasons. The definition of SR&ED describes how and why SR&ED work is carried out.
 
-![Attention] *Eligible* and *ineligible* (including the forms *eligibility* and *ineligibility*) are widely used in the SR&ED program, although 
+
+
+
+*Eligible* and *ineligible* (including the forms *eligibility* and *ineligibility*) are widely used in the SR&ED program, although 
 the Act does not define these terms. For this document, *eligible* or *ineligible*, without any other qualifier, means work that meets or does not meet 
 the definition of SR&ED in subsection 248(1) of the Act. In addition, *uncertainty* and *advancement* without any other qualifiers refer to scientific or 
 technological uncertainty and scientific or technological advancement respectively.
@@ -184,6 +187,8 @@ uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-researc
 the advancement is the targeted outcome of the SR&ED work while the uncertainty is the impetus for the SR&ED work. Therefore, an attempt to achieve 
 advancement is an attempt to resolve uncertainty.
 
+![why](https://github.com/seenthattinker/Conceptinero/blob/master/images/why.svg)
+
 Depending on the purpose of the work, SR&ED can involve:
 
 1. [basic research](https://www.canada.ca/en/revenue1.agency/services/scientific1.research1.experimental1.development1.tax1.incentive1.program/glossary.html#bscrsrch)
@@ -204,7 +209,7 @@ include [third-party payments](https://www.canada.ca/en/revenue-agency/services
 to, for example, universities, research institutes, and consortia. The
 results of basic research are usually published in scientific journals.
 
-One example of [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch) is 
+![Example] One example of [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch) is 
 research in the field of elementary particles. This work had its origin as 
 a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss) 
 in theoretical physics or scientific models of the structure of matter. Originally there was no physical evidence that the hypothetical particles existed, 
@@ -222,7 +227,7 @@ is also work undertaken for the [advancement of scientific knowledge](https://ww
 but with a specific practical application in view. Like [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch),
 the results could be published in scientific journals.
 
-The discovery of the principle of the transistor, that is, the ability
+![Example] The discovery of the principle of the transistor, that is, the ability
 to control the conductivity of a semiconductor, can be considered an
 example of applied research. A private company did this particular work.
 Its research objective was to gain knowledge of the properties of
@@ -244,7 +249,7 @@ is work undertaken for the purpose of achieving [technological advancement](htt
 for the purpose of creating new, or improving existing, materials,
 devices, products, or processes, including incremental improvements.
 
-One example of [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt)
+![Example] One example of [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt)
 is the work that came about from the discovery of the principle of the
 transistor. It resulted in the development of devices that used this
 principle to create solid-state amplifiers and other devices. The
@@ -260,6 +265,8 @@ transistor. Developing a transistor after discovering the principle of
 the transistor did not advance scientific knowledge. It did, however,
 advance technology (the practical application of scientific knowledge
 and principles).
+
+![work](https://github.com/seenthattinker/Conceptinero/blob/master/images/work.svg)
 
 
 
@@ -1739,4 +1746,6 @@ for SR&ED Investment Tax Credits Policy:
 
 [Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg 
 
-[Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/download.jpeg
+[Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/dart.png
+
+[Example]:https://github.com/seenthattinker/Conceptinero/blob/master/images/example.png
