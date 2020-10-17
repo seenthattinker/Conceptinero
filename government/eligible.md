@@ -86,9 +86,7 @@ is not necessarily *SR&ED*. SR&ED is carried out in a certain way and
 for specific reasons. The definition of SR&ED describes how and why SR&ED work is carried out.
 
 
-
-
-*Eligible* and *ineligible* (including the forms *eligibility* and *ineligibility*) are widely used in the SR&ED program, although 
+![Attention] *Eligible* and *ineligible* (including the forms *eligibility* and *ineligibility*) are widely used in the SR&ED program, although 
 the Act does not define these terms. For this document, *eligible* or *ineligible*, without any other qualifier, means work that meets or does not meet 
 the definition of SR&ED in subsection 248(1) of the Act. In addition, *uncertainty* and *advancement* without any other qualifiers refer to scientific or 
 technological uncertainty and scientific or technological advancement respectively.
