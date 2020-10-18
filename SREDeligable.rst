@@ -1,15 +1,44 @@
+
+
+
+![Note] Five Questions Approach
+
+
+
+
+
+
+The Canada Revenue Agency (CRA) put forward a transparent assessment process in 2012.
+The *ambiguity* of the previous legislation created court challenges which forced the CRA to adapt.
+The five question approach was further refined in 2015.
+The CRA defined the process as five questions.
+You must articulate your technology,
+your business journey,
+and your management process so that the CRA sees the five questions answered clearly and concisely with *yes*.
+
+
+
+The five question approach is crystallized in the technical description of the work and the support documentation you submit with it.
+
+
+![Note] The support documentation is any foundation documents, like an architecture blueprint, a functional specification, a technical specification, a GitHub workspace, or any other collaborative space designed, created, and maintained to support the technology for which you seek SR&ED tax credit. Active work spaces that track changes are ideal because they document the project.
+
+
+For each technological uncertainty:
+
+1.  Articulate the feature, program, or functionality you tried to implement.
+
+3.  Articulate the characteristic or capability in the underlying technology that was the root cause of the problem.
+
+4.  Explain why the solution to the root cause of the problem was not apparent to personnel familiar with the technology.
+
+5.  Provide a detailed listing of: activities, including experimental development activities (raising a question, designing and executing an experiment, or collecting and analysing results), the support activities, performers, timeframe, and hours.
+
+6.  Articulate new technological knowledge formed as a basis of the above experimental development process.
+
+
 SR&ED Software Eligibility Checklist
 ============================================
-
-:Authors:
-  Kevin Kelper,
-  Bruce MacDonald
-
-:Version: 1.0
-:Date: September 15, 2020
-
-
-
 
 In order for your project to be eligible for SR&ED the development activities you performed need to meet very specific eligibility criteria.
 
@@ -18,7 +47,7 @@ We need to focus on those development activities that involved *technological pr
 such as the the application of known,
 conventional or standard programming solutions or techniques.
 
-.. tip:: Even if you had no prior experience in a particular area |---| it was new to us |---| but you applied appropriate *due diligence* and found a ready-made solution, then it would not be eligible, even if you had a steep learning curve.
+![Attention]Even if you had no prior experience in a particular area &mdash; it was new to us &mdash; but you applied appropriate *due diligence* and found a ready-made solution, then it would not be eligible, even if you had a steep learning curve.
 
 
 
@@ -27,7 +56,7 @@ A good verification that your problem could not be solved through known techniqu
 or contacted the software application's technical support and they couldn't provide you with a solution.
 
 
-.. note:: An email from Microsoft stating *Our software does not support the type of activity you are trying to accomplish* is excellent evidence that your activity is not routine, or, if searching through forums, you posts from other developers with similar issues for which they reported no solution could be found.
+![Note]An email from Microsoft stating *Our software does not support the type of activity you are trying to accomplish* is excellent evidence that your activity is not routine, or, if searching through forums, you posts from other developers with similar issues for which they reported no solution could be found.
 
 SR&ED eligible solutions to these types of technological problems can include analysis,
 simulation,
@@ -37,7 +66,7 @@ testing,
 and the like,
 to overcome uncertainties.
 They can also involve evaluating alternative approaches
-|---|
+&mdash;
 method A v. method B v. method C.
 
 Determining SR&ED Eligible Activities
@@ -53,18 +82,8 @@ greater throughput,
 more concurrent users,
 or similar?
 
-#. Were you seeking to achieve advancements at a *technological* level
-|---|
-databases,
-interfaces,
-source code,
-algorithms,
-operating systems,
-or similar
-|---|
-and not on a functional level,
-as in,
-the tasks the software performed?
+1. Were you seeking to achieve advancements at a *technological* level &mdash; databases, interfaces, source code, algorithms, operating systems, or 
+similar &mdash; and not on a functional level, as in, the tasks the software performed?
 
 Did you have to overcome *constraints* or limitations:
 
@@ -90,7 +109,7 @@ Did you have to overcome *constraints* or limitations:
 
 - Did the creation of a new graphical user interface (GUI) pose any *unusual* technological or human-factors challenges, for example, you needed to have an interface that would improve operator speed by a factor of two?
 
-.. note:: Developing a new or improved GUI is usually *not* eligible for SR&ED, regardless of complexity.
+![Note]Developing a new or improved GUI is usually *not* eligible for SR&ED, regardless of complexity.
 
 Describing the SR&ED Process
 ------------------------------------
@@ -99,11 +118,7 @@ Once we identify the technological problems that you had to solve,
 we need to describe the activities you performed in order to attempt to solve those problems,
 even if they were unsuccessful.
 
-Describing the unsuccessful attempts is critical to prove that the problems you encountered could not be solved through known,
-conventional,
-or standard programming solutions or techniques.
-We are not only interested in the solution that finally fixed the problem,
-but the failures that led you to discover a working solution.
+Describing the unsuccessful attempts is critical to prove that the problems you encountered could not be solved through known, conventional, or standard programming solutions or techniques. We are not only interested in the solution that finally fixed the problem, but the failures that led you to discover a working solution.
 
 During the development did you perform any of the below activities.
 If so,
@@ -151,4 +166,8 @@ and things like this.
 
 
 
-.. |---| unicode:: U+2014
+[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg 
+
+[Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/attention.jpeg
+
+[Example]:https://github.com/seenthattinker/Conceptinero/blob/master/images/example.png
