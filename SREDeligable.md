@@ -81,25 +81,25 @@ similar &mdash; and not on a functional level, as in, the tasks the software per
 
 Did you have to overcome *constraints* or limitations:
 
-1.Limited memory or CPU cache, requiring a constrained *footprint* for the code
+1. Limited memory or CPU cache, requiring a constrained *footprint* for the code
 
-1.Limited computing resources, for example, code had to run on a low-powered CPU
+1. Limited computing resources, for example, code had to run on a low-powered CPU
 
-1.Limited physical size or form-factor that constrained your options
+1. Limited physical size or form-factor that constrained your options
 
-1.Response time, for example, the end-to-end computing time had to meet real-time targets
+1. Response time, for example, the end-to-end computing time had to meet real-time targets
 
-1.Concurrency, for example, system had to work for 10,000 concurrent users;
+1. Concurrency, for example, system had to work for 10,000 concurrent users;
 
-1.Scalability, for example, failed at 20 messages/second but needed to support 2000/sec
+1. Scalability, for example, failed at 20 messages/second but needed to support 2000/sec
 
-1.Stability and reliability requirements, for example, 99.99% uptime
+1. Stability and reliability requirements, for example, 99.99% uptime
 
-1.Compatibility with legacy software or hardware
+1. Compatibility with legacy software or hardware
 
-1.Interoperability under different operating systems, for example, Windows, Linux, or another.
+1. Interoperability under different operating systems, for example, Windows, Linux, or another.
 
-1.Did you have to overcome *system-level uncertainties*,for example, challenges caused by attempting to make two or more independent modules function together in some novel way?
+1. Did you have to overcome *system-level uncertainties*,for example, challenges caused by attempting to make two or more independent modules function together in some novel way?
 
 - Did the creation of a new graphical user interface (GUI) pose any *unusual* technological or human-factors challenges, for example, you needed to have an interface that would improve operator speed by a factor of two?
 
