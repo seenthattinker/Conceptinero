@@ -1,5 +1,4 @@
-Conceptinero Eligibility Brief
-=======================================
+
 
 
 ![Note] Five Questions Approach
@@ -39,7 +38,7 @@ For each technological uncertainty:
 
 
 SR&ED Software Eligibility Checklist
------------------------------------------
+============================================
 
 In order for your project to be eligible for SR&ED the development activities you performed need to meet very specific eligibility criteria.
 
@@ -48,7 +47,7 @@ We need to focus on those development activities that involved *technological pr
 such as the the application of known,
 conventional or standard programming solutions or techniques.
 
-![Attention]Even if you had no prior experience in a particular area &mdash; it was new to us &mdash; but you applied appropriate *due diligence* and found a ready-made solution, then it would not be eligible, even if you had a steep learning curve.
+![Attention] Even if you had no prior experience in a particular area &mdash; it was new to us &mdash; but you applied appropriate *due diligence* and found a ready-made solution, then it would not be eligible, even if you had a steep learning curve.
 
 
 
@@ -57,7 +56,7 @@ A good verification that your problem could not be solved through known techniqu
 or contacted the software application's technical support and they couldn't provide you with a solution.
 
 
-![Note]An email from Microsoft stating *Our software does not support the type of activity you are trying to accomplish* is excellent evidence that your activity is not routine, or, if searching through forums, you posts from other developers with similar issues for which they reported no solution could be found.
+![Note] An email from Microsoft stating *Our software does not support the type of activity you are trying to accomplish* is excellent evidence that your activity is not routine, or, if searching through forums, you posts from other developers with similar issues for which they reported no solution could be found.
 
 SR&ED eligible solutions to these types of technological problems can include analysis,
 simulation,
@@ -88,25 +87,25 @@ similar &mdash; and not on a functional level, as in, the tasks the software per
 
 Did you have to overcome *constraints* or limitations:
 
-- Limited memory or CPU cache, requiring a constrained *footprint* for the code
+1.Limited memory or CPU cache, requiring a constrained *footprint* for the code
 
-- Limited computing resources, for example, code had to run on a low-powered CPU
+1.Limited computing resources, for example, code had to run on a low-powered CPU
 
-- Limited physical size or form-factor that constrained your options
+1.Limited physical size or form-factor that constrained your options
 
-- Response time, for example, the end-to-end computing time had to meet real-time targets
+1.Response time, for example, the end-to-end computing time had to meet real-time targets
 
-- Concurrency, for example, system had to work for 10,000 concurrent users;
+1.Concurrency, for example, system had to work for 10,000 concurrent users;
 
-- Scalability, for example, failed at 20 messages/second but needed to support 2000/sec
+1.Scalability, for example, failed at 20 messages/second but needed to support 2000/sec
 
-- Stability and reliability requirements, for example, 99.99% uptime
+1.Stability and reliability requirements, for example, 99.99% uptime
 
-- Compatibility with legacy software or hardware
+1.Compatibility with legacy software or hardware
 
-- Interoperability under different operating systems, for example, Windows, Linux, or another.
+1.Interoperability under different operating systems, for example, Windows, Linux, or another.
 
-- Did you have to overcome *system-level uncertainties*,for example, challenges caused by attempting to make two or more independent modules function together in some novel way?
+1.Did you have to overcome *system-level uncertainties*,for example, challenges caused by attempting to make two or more independent modules function together in some novel way?
 
 - Did the creation of a new graphical user interface (GUI) pose any *unusual* technological or human-factors challenges, for example, you needed to have an interface that would improve operator speed by a factor of two?
 
@@ -132,21 +131,21 @@ did you perform any of the following activities:
 
 1.  Research into alternative solutions or approaches
 
-#.  Analysis, simulation, experimentation or prototyping
+1.  Analysis, simulation, experimentation or prototyping
 
-#.  Development and testing of prototype software modules
+1.  Development and testing of prototype software modules
 
-#.  Incremental system integration and testing
+1.  Incremental system integration and testing
 
-#.  Testing on one platform before porting to the final target platform
+1.  Testing on one platform before porting to the final target platform
 
-#.  Mock-ups of limited-sized systems or networks
+1.  Mock-ups of limited-sized systems or networks
 
-#.  Stress tests to simulate loads on the network
+1.  Stress tests to simulate loads on the network
 
-#.  Systematic experimental probing of an inadequately specified interface
+1.  Systematic experimental probing of an inadequately specified interface
 
-#.  Field trials of *alpha* versions of the software, for example, pre-release versions.
+1.  Field trials of *alpha* versions of the software, for example, pre-release versions.
 
 As a result of these activities,
 did the software undergo iterative design changes,
