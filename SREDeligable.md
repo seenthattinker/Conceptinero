@@ -1,4 +1,5 @@
-
+Conceptinero Eligibility Brief
+=======================================
 
 
 ![Note] Five Questions Approach
@@ -38,7 +39,7 @@ For each technological uncertainty:
 
 
 SR&ED Software Eligibility Checklist
-============================================
+-----------------------------------------
 
 In order for your project to be eligible for SR&ED the development activities you performed need to meet very specific eligibility criteria.
 
