@@ -43,7 +43,7 @@ SR&ED Software Eligibility Checklist
 In order for your project to be eligible for SR&ED the development activities you performed need to meet very specific eligibility criteria.
 
 
-We need to focus on those development activities that involved *technological problems* where the *solution could not be found* by following *routine* approaches,
+We need to focus on those development activities that involved *technological problems* where the *solution could not be found* by following *routine*approaches,
 such as the the application of known,
 conventional or standard programming solutions or techniques.
 
@@ -74,13 +74,7 @@ Determining SR&ED Eligible Activities
 
 Below are some questions that can help you determine what activities in your development process could be SR&ED eligible.
 
-1. Did the project involve developing completely new theoretical algorithms or methods?
-Did you stretch the *technological* envelope?
-Were you attempting to achieve one or more performance specifications that were beyond your existing capabilities:
-faster response time,
-greater throughput,
-more concurrent users,
-or similar?
+1. Did the project involve developing completely new theoretical algorithms or methods? Did you stretch the *technological* envelope? Were you 		attempting to achieve one or more performance specifications that were beyond your existing capabilities: faster response time, greater throughput, more concurrent users, or similar?
 
 1. Were you seeking to achieve advancements at a *technological* level &mdash; databases, interfaces, source code, algorithms, operating systems, or 
 similar &mdash; and not on a functional level, as in, the tasks the software performed?
