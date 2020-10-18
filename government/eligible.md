@@ -276,26 +276,23 @@ Methodology to determine if work meets the definition of SR&ED
 The following two-step methodology can be used to determine if and to what
 extent work meets the definition of SR&ED:
 
-Step 1: Determine if there is SR&ED
+1. Determine if there is SR&ED
 
-In this step, the details of the work are examined to the point where
-the five questions can be answered.
+![Note] In this step, the details of the work are examined to the point where the five questions can be answered.
 
-Step 2: Determine the extent of eligible work
+2. Determine the extent of eligible work
 
-In this step, the details of the work are examined to determine what
-work is SR&ED.
+![Note] In this step, the details of the work are examined to determine what work is SR&ED.
 
 
 
 
 
-### Step 1: Determine if there is SR&ED 
+### Determine if there is SR&ED 
 
 Determining if there is SR&ED means showing that there is a:
 
-*[systematic investigation or
-search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
+[Systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
 that is carried out in a field
 of [science](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scn)
 or [technology](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tchnlgy)
@@ -328,44 +325,27 @@ thereto,*
 The method to establish this involves answering the following five
 questions:
 
-1.  Was there a [scientific or a technological
-    uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)?
-2.  Did the effort involve
-    formulating [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
-    specifically aimed at reducing or eliminating that uncertainty?
-3.  Was the overall approach adopted consistent with a [systematic
-    investigation or
-    search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv),
-    including formulating and testing the
-    [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
-    by means of
-    [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
-    or
-    [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss)?
-4.  Was the overall approach undertaken for the purpose of achieving a
-    [scientific or a technological
-    advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)?
-5.  Was a record of the hypotheses tested and the results kept as the
-    work progressed?
+1. Was there a [scientific or a technological uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)?
+2. Did the effort involve formulating [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
+   specifically aimed at reducing or eliminating that uncertainty?
+3. Was the overall approach adopted consistent with a [systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv),
+   including formulating and testing the [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
+   by means of [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
+   or [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss)?
+4. Was the overall approach undertaken for the purpose of achieving a [scientific or a technological advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)?
+5. Was a record of the hypotheses tested and the results kept as the work progressed?
 
-These questions follow the progression of SR&ED work from identifying
-the uncertainty, through carrying out the work for its resolution, to
-the resulting advancement. They are also interrelated, with question 1
-and question 4 looking at why the work was done and questions 2, 3, and
-5 looking at how the work was done. Because of the relationships between
-the questions, the five questions should be considered jointly across
-the entire body of work being evaluated.
+These questions follow the progression of SR&ED work from identifying the uncertainty, through carrying out the work for its resolution, to the resulting 
+advancement. They are also interrelated, with question 1 and question 4 looking at why the work was done and questions 2, 3, and 5 looking at how the work 
+was done. Because of the relationships between the questions, the five questions should be considered jointly across the entire body of work being 
+evaluated.
 
 There is SR&ED if the answer to each of the questions is yes.
 
-With respect to the five preceding questions, consideration must be
-given to the [scientific or technological knowledge
-base](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tbslvl)
-and the business environment of the individual company. Business
-environment characteristics include business size, competition, area of
-industry, and access to technical resources. It is expected that any
-company making a claim for SR&ED will have or will access the expertise
-necessary to carry out that work.
+With respect to the five preceding questions, consideration must be given to the [scientific or technological knowledge 
+base](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tbslvl) and the 
+business environment of the individual company. Business environment characteristics include business size, competition, area of industry, and access to 
+technical resources. It is expected that any company making a claim for SR&ED will have or will access the expertise necessary to carry out that work.
 
 
 
@@ -373,39 +353,35 @@ necessary to carry out that work.
 
 
 
-### # Was there a scientific or a technological uncertainty? 
+### Was there a scientific or a technological uncertainty? 
 
-[Scientific or technological
-uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
-whether a given result or objective can be achieved or how to achieve
-it, is not known or determined on the basis of generally available
-scientific or technological knowledge or experience. Specifically, it is
-uncertain if the goals can be achieved at all or what alternatives (for
-example, paths, routes, approaches, equipment configurations, system
-architectures, or circuit techniques) will enable the goals to be met
-based on the existing [scientific or technological knowledge
-base](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tbslvl).
-There is [scientific
-uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
-in [basic
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch)
-or [applied
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch).
-There is [technological
-uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
-in [experimental
-development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt).
-Recognition of the uncertainty is an integral step in the [systematic
-investigation or
-search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
-and implies recognition of the need for advancement.
+[Scientific or technological 
+uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) 
+whether a given result or objective can be achieved or how to achieve it, is not known or determined on the basis of generally available scientific or 
+technological knowledge or experience. Specifically, it is uncertain if the goals can be achieved at all or what alternatives (for example, paths, routes, 
+approaches, equipment configurations, system architectures, or circuit techniques) will enable the goals to be met based on the existing [scientific or 
+technological knowledge 
+base](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tbslvl). There 
+is [scientific 
+uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) 
+in [basic 
+research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch) or 
+[applied 
+research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch). 
+There is [technological 
+uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) in 
+[experimental 
+development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt). 
+Recognition of the uncertainty is an integral step in the [systematic investigation or 
+search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv) and 
+implies recognition of the need for advancement.
 
-[Technological
-uncertainties](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
-may arise from shortcomings or limitations of the current state
-of [technology](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tchnlgy)
-that prevent a new or improved capability from being developed. In other
-words, the current state of technology may be insufficient to resolve a
+
+[Technological 
+uncertainties](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) 
+may arise from shortcomings or limitations of the current state 
+of [technology](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tchnlgy) 
+that prevent a new or improved capability from being developed. In other words, the current state of technology may be insufficient to resolve a
 problem.
 
 
