@@ -1,12 +1,8 @@
+![](https://github.com/seenthattinker/Conceptinero/blob/master/images/conceptinero-funding-ideas-logo-white-383w.webp)
+
 SR&ED Technical Audit Pointers
 ======================================
 
-:Authors:
-  Kevin Kelper,
-  Bruce MacDonald
-
-:Version: 1.0
-:Date: September 15, 2020
 
 
 
@@ -23,14 +19,14 @@ Who Conducts The Audit
 
 
 Technical audits are performed by a Research and Technology Advisor (RTA)
-|---|
+&mdash;
 usually highly trained and educated themselves.
 Most RTAs have an engineering or science background,
 with private sector work experience.
 The CRA tries to match your claim
-|---|
+&mdash;
 based on the field of science
-|---|
+&mdash;
 with an RTA’s training and experience.
 
 RTAs are often accompanied by a Financial Reviewer (FR).
@@ -46,12 +42,9 @@ Audit Process
 
 
 The audit process has been codified by CRA in a lengthy manual used by all RTAs as of June 2010.
-This 166-page document is called `Claim Review Manual for Research and Technology Advisors <www.cra-arc.gc.ca/txcrdt/sred-rsde/pblctns/ntr-tchrvw-eng.html>`_.
+This 166-page document is called [Claim Review Manual for Research and Technology Advisors] (www.cra-arc.gc.ca/txcrdt/sred-rsde/pblctns/ntr-tchrvw-eng.html).
 
-.. tip:: An edited version is available for taxpayers.
-
-
-`The SR&ED Technical Review: A Guide for Claimants <www.cra-arc.gc.ca/txcrdt/sred-rsde/pblctns/tchrvw-cmmnt-eng.html>`_.
+![Note] An edited version is available for taxpayers. [The SR&ED Technical Review: A Guide for Claimants] (www.cra-arc.gc.ca/txcrdt/sred-rsde/pblctns/tchrvw-cmmnt-eng.html).
 
 RTAs are now required to follow this somewhat rigid process,
 leaving little flexibility.
@@ -65,9 +58,9 @@ for each project,
 and in their own words,
 the following things:
 
-#. Technological Advancements (‘Lessons Learned’)
-#. Technological Uncertainties
-#. Systematic Experimental or Analytical Methodology
+1. Technological Advancements (‘Lessons Learned’)
+1. Technological Uncertainties
+1. Systematic Experimental or Analytical Methodology
 
 Organize the supporting documentation and have it handy in the meeting room.
 Plan to have lunch brought in during the audit.
@@ -132,7 +125,7 @@ Occasionally,
 they will be satisfied with the tour alone,
 but don’t depend on this.
 
-.. tip:: Be prepared to defend every project.
+![Note] Be prepared to defend every project.
 
 
 Listen carefully to what the auditor is asking.
@@ -144,27 +137,30 @@ Use them as guides regarding advances,
 uncertainties,
 and methodology.
 
-.. tip:: These are your words. We’ve just summarized them.
+![Note] These are your words. We’ve just summarized them.
 
 
 Be prepared to state the following in your own words for each project:
 
-The Advancement
-  For example, we were seeking to improve process efficiency and increase operator safety by eliminating airborne toxins.
+1. The Advancement
+  
+![Note] For example, we were seeking to improve process efficiency and increase operator safety by eliminating airborne toxins.
 
-The Uncertainties
-  There was no clearly defined way of accomplishing this goal. First, there was no ready-made solution available. Second, a number of alternative paths had to be evaluated,
+1. The Uncertainties
+  
+![Note] There was no clearly defined way of accomplishing this goal. First, there was no ready-made solution available. Second, a number of alternative paths had to be evaluated,
   for example, liquid vs. powder, barrier, vacuum. And lastly, even if we implemented any of these alternatives, the results weren’t guaranteed.
 
-What Was Done/What Was Learned
-  Liquids proved unfeasible. Built and tested a prototype barrier. Experimented with inlet sizes. Implemented a vacuum system. Designed a customized *de-clumper*. After all this, we failed to realize the goal because a full-scale test showed that efficiency actually decreased.
+1. What Was Done/What Was Learned
+  
+![Note] Liquids proved unfeasible. Built and tested a prototype barrier. Experimented with inlet sizes. Implemented a vacuum system. Designed a customized *de-clumper*. After all this, we failed to realize the goal because a full-scale test showed that efficiency actually decreased.
 
 Emphasize analysis,
 experimentation,
 prototyping,
 testing,
 and new knowledge gained
-|---|
+&mdash;
 these are the elements of a qualifying SR&ED project.
 
 Have a piece of supporting documentation in mind, so that if asked, you can get to it quickly.
@@ -226,12 +222,12 @@ either directly doing or supervising the experimental work.
 
 Similarly,
 the use of material and capital equipment
-|---|
+&mdash;
 although these are cost related issues
-|---|
+&mdash;
 are sometimes challenged by the RTA.
 
-.. tip:: Have documentation ready to counteract any such challenges.
+![Attention] Have documentation ready to counteract any such challenges.
 
 
 SR&ED Support Activities
@@ -258,21 +254,21 @@ specifically to perform the related basic research, applied research, or experim
 development work undertaken in Canada.
 
 
-It must be with respect to one of the eight categories of work listed below:
+It must be with respect to one of the eight categories of work listed below
 
-- engineering;
-- design;
-- operations research;
-- mathematical analysis;
-- computer programming;
-- data collection;
-- testing; or
-- psychological research.
+1.engineering;
+1.design;
+1.operations research;
+1.mathematical analysis;
+1.computer programming;
+1.data collection;
+1.testing; or
+1.psychological research.
 
 
 
-Excluded Activities
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+###Excluded Activities
+
 
 
 The definition is broad-ranging,
@@ -280,11 +276,11 @@ and it can apply to many different types of businesses,
 but the law specifically excludes certain activities from SR&ED tax incentives.
 Among the activities that don’t qualify are:
 
-- market research you do before you start your project
-- promotions
-- social science research projects
-- humanities research projects
-- and style changes.
+1.market research you do before you start your project
+1.promotions
+1.social science research projects
+1.humanities research projects
+1.and style changes.
 
 You also may not count routine tasks such as testing,
 quality control,
@@ -301,7 +297,7 @@ Additional Audit Pointers
 
 
 Systematic approach
-|---|
+&mdash;
 planned ahead of time,
 conducted by qualified staff,
 trial and error,
@@ -319,31 +315,31 @@ Experimental Development
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Things at the technological Level:
-- throughput
-- speed
-- response time
-- technological risks & constraints
-- limited bandwidth
-- limited computing power
-- repeatability
-- reliability
-- bug fixes
-- coding
-- and engineering are actually support activities.
+1.throughput
+1.speed
+1.response time
+1.technological risks & constraints
+1.limited bandwidth
+1.limited computing power
+1.repeatability
+1.reliability
+1.bug fixes
+1.coding
+1.and engineering are actually support activities.
 
 Things at the functional Level:
 
-- what the code does
-- Programmatic risk
-- business risk
-- marketing risk
-- t- - oo costly
-- too complicated
-- not enough time
-- advancement in functionality feature extensions.
+1.what the code does
+1.Programmatic risk
+1.business risk
+1.marketing risk
+1.too costly
+1.too complicated
+1.not enough time
+1.advancement in functionality feature extensions.
 
 The earliest possible moment when the uncertainty was recognized
-|---|
+&mdash;
 ideally from the outset of the project.
 The stoic engineer recognition that not everything is SR&ED.
 Every single thing in the project was SR&ED.
@@ -360,25 +356,21 @@ Conclusion
 4. If you believe the auditor has been truly unfair, there is an appeal process, although it should rarely come to that.
 
 
-Common Misconceptions
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-New product development, by itself, is always eligible.
-
-No
-  Not if achievable entirely through standard practice. Engineering, design and programming constitute SR&ED.
-
-No
-  Not unless they support eligible experimental development. Projects qualify if they’re time-consuming, costly, complex, or difficult.
-
-No
-  These things are irrelevant unless all three eligibility criteria are met. Uncertainties related to budget, scheduling, marketing, and the like, matter.
-
-No
-  Not unless they lead to at least one technological uncertainty, novelty, innovation or uniqueness |---| *first of its kind* |---| always demonstrates a technological advancement.
-
-No
-  Because these are not necessarily the outcome of experimental development.
+### Common Misconceptions
 
 
-.. |---| unicode:: U+2014
+New product development, by itself, is always eligible. Wrong.
+
+
+1. Not if achievable entirely through standard practice. Engineering, design and programming constitute SR&ED.
+1. Not unless they support eligible experimental development. Projects qualify if they’re time-consuming, costly, complex, or difficult.
+1. These things are irrelevant unless all three eligibility criteria are met. Uncertainties related to budget, scheduling, marketing, and the like, matter.
+1. Not unless they lead to at least one technological uncertainty, novelty, innovation or uniqueness &mdash; *first of its kind* &mdash; always demonstrates a technological advancement.
+1. Because these are not necessarily the outcome of experimental development.
+
+
+[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg 
+
+[Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/attention.jpeg
+
+[Example]:https://github.com/seenthattinker/Conceptinero/blob/master/images/example.png
