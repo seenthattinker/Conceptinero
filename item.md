@@ -2,16 +2,6 @@ Item of SRED work
 =======================
 
 
-:Authors: Kevin Kelper, Bruce MacDonald
-
-:Version:   1.0
-
-:Date:    September 15, 2020
-
-
-
-
-
 Project Details
 ---------------------
 
@@ -110,16 +100,10 @@ Issues
   Underline technology issues, not product functions and features.
 
 
-.. tip::
+|tip| You need to express the specific constraints or technological barriers. Use specific technical terminology.
 
-   You need to express the specific constraints or technological barriers.
+### Possible Constraints
 
-.. note::
-
-   Use specific technical terminology.
-
-Possible Constraints
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  Volume of data (Process more than 150 terabytes of data)
 -  Footprint (Consume less than 100k of memory)
@@ -132,5 +116,4 @@ Possible Constraints
 -  Open Source Tools and Plug-ins did not work as intended (Needed to develop new uses/extend capabilities.
 
 
-.. include:: <isonum.txt>
-.. |---| unicode:: U+2014
+.. |tip| replace:: .. image::https://github.com/seenthattinker/Conceptinero/blob/master/images/tip.png
