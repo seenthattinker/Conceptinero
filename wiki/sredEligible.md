@@ -289,12 +289,11 @@ namely, work undertaken for the purpose of achieving [technological advancement
 for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements
 thereto,
 
-![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/)
+![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/systemicInvestigation.svg)
 
 The method to establish this involves answering the following five questions:
 
-1.  Was there a [scientific or a technological
-    uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)?
+1.  Was there a [scientific or a technological uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)?
 2.  Did the effort involve
     formulating [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
     specifically aimed at reducing or eliminating that uncertainty?
