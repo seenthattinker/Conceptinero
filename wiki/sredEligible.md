@@ -275,9 +275,7 @@ work is SR&ED.
 
 ### Determine if there is SR&ED
 
-Determining if there is SR&ED means showing that there is a:
-
-[Systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
+Determining if there is SR&ED means showing that there is a [systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
 that is carried out in a field of [science](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scn)
 or [technology](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tchnlgy)
 by means of [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
@@ -291,7 +289,7 @@ namely, work undertaken for the purpose of achieving [technological advancement
 for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements
 thereto,
 
-![systemicInvestigation](/home/bruce/Conceptinero/images/systemicInvestigation.svg)
+![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/)
 
 The method to establish this involves answering the following five questions:
 
