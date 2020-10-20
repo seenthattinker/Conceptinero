@@ -289,7 +289,7 @@ namely, work undertaken for the purpose of achieving [technological advancement
 for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements
 thereto,
 
-
+![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/systemicInvestigation.svg)
 
 The method to establish this involves answering the following five questions:
 
@@ -311,7 +311,9 @@ The method to establish this involves answering the following five questions:
     work progressed?
 
 
-![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/systemicInvestigation.svg)
+![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/fiveQuestions.svg)
+
+
 
 These questions follow the progression of SR&ED work from identifying
 the uncertainty, through carrying out the work for its resolution, to
@@ -340,31 +342,7 @@ necessary to carry out that work.
 
 ### Was there a scientific or a technological uncertainty?
 
-[Scientific or technological
-uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
-whether a given result or objective can be achieved or how to achieve
-it, is not known or determined on the basis of generally available
-scientific or technological knowledge or experience. Specifically, it is
-uncertain if the goals can be achieved at all or what alternatives (for
-example, paths, routes, approaches, equipment configurations, system
-architectures, or circuit techniques) will enable the goals to be met
-based on the existing [scientific or technological knowledge
-base](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tbslvl).
-There is [scientific
-uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
-in [basic
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch)
-or [applied
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch).
-There is [technological
-uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
-in [experimental
-development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt).
-Recognition of the uncertainty is an integral step in the [systematic
-investigation or
-search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
-and implies recognition of the need for advancement.
-
+[Scientific or technological uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) whether a given result or objective can be achieved or how to achieve it, is not known or determined on the basis of generally available scientific or technological knowledge or experience. Specifically, it is uncertain if the goals can be achieved at all or what alternatives (for example, paths, routes, approaches, equipment configurations, system architectures, or circuit techniques) will enable the goals to be met based on the existing [scientific or technological knowledge base](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tbslvl). There is [scientific uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) in [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch) or [applied research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch). There is [technological uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) in [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt). Recognition of the uncertainty is an integral step in the [systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv) and implies recognition of the need for advancement.
 [Technological
 uncertainties](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
 may arise from shortcomings or limitations of the current state
