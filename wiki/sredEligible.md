@@ -289,7 +289,7 @@ namely, work undertaken for the purpose of achieving [technological advancement
 for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements
 thereto,
 
-![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/systemicInvestigation.svg)
+
 
 The method to establish this involves answering the following five questions:
 
@@ -297,9 +297,7 @@ The method to establish this involves answering the following five questions:
 2.  Did the effort involve
     formulating [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
     specifically aimed at reducing or eliminating that uncertainty?
-3.  Was the overall approach adopted consistent with a [systematic
-    investigation or
-    search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv),
+3.  Was the overall approach adopted consistent with a [systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv),
     including formulating and testing the
     [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
     by means of
@@ -311,6 +309,9 @@ The method to establish this involves answering the following five questions:
     advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)?
 5.  Was a record of the hypotheses tested and the results kept as the
     work progressed?
+
+
+![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/systemicInvestigation.svg)
 
 These questions follow the progression of SR&ED work from identifying
 the uncertainty, through carrying out the work for its resolution, to
@@ -337,7 +338,7 @@ necessary to carry out that work.
 
 
 
-### # Was there a scientific or a technological uncertainty?
+### Was there a scientific or a technological uncertainty?
 
 [Scientific or technological
 uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
