@@ -1,7 +1,7 @@
 
 ![](https://github.com/seenthattinker/Conceptinero/blob/master/images/conceptinero-funding-ideas-logo-white-383w.webp)
 
-Eligibility of Work for SR&ED Investment Tax Credits Policy 
+Eligibility of Work for SR&ED Investment Tax Credits Policy
 ===========================================================
 
 
@@ -10,10 +10,10 @@ The main SR&ED website is [SR&ED](https://www.canada.ca/en/revenue-agency/servic
 
 
 
-This is a replica of the government's website material. 
+This is a replica of the government's website material.
 Our notes are separated from the main text as follows,
 
-![Note] This is a note. When you see this icon Conceptinero is commenting on the content. 
+![Note] This is a note. When you see this icon Conceptinero is commenting on the content.
 
 
 
@@ -28,7 +28,7 @@ performed, are familiar with, or are responsible for the work.
 
 
 
-What is SR&ED? 
+What is SR&ED?
 ------------------
 
 Scientific research and experimental development (SR&ED) is defined for
@@ -88,16 +88,16 @@ for specific reasons. The definition of SR&ED describes how and why SR&ED work 
 
 
 
-*Eligible* and *ineligible* (including the forms *eligibility* and *ineligibility*) are widely used in the SR&ED program, although 
-the Act does not define these terms. For this document, *eligible* or *ineligible*, without any other qualifier, means work that meets or does not meet 
-the definition of SR&ED in subsection 248(1) of the Act. In addition, *uncertainty* and *advancement* without any other qualifiers refer to scientific or 
+*Eligible* and *ineligible* (including the forms *eligibility* and *ineligibility*) are widely used in the SR&ED program, although
+the Act does not define these terms. For this document, *eligible* or *ineligible*, without any other qualifier, means work that meets or does not meet
+the definition of SR&ED in subsection 248(1) of the Act. In addition, *uncertainty* and *advancement* without any other qualifiers refer to scientific or
 technological uncertainty and scientific or technological advancement respectively.
 
 
 
 
 
-### How SR&ED is carried out 
+### How SR&ED is carried out
 
 The definition of SR&ED describes **how** SR&ED is performed—a
 *[systematic investigation or
@@ -152,7 +152,7 @@ be given to why the work was carried out.
 
 
 
-### Why SR&ED is carried out 
+### Why SR&ED is carried out
 
 The definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -177,14 +177,14 @@ must be seeking [scientific or technological
 advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
 for it to be SR&ED.
 
-Work for the [advancement of scientific 
-knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt) or 
-for the purpose of [technological 
-advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt) 
-implies an attempt to resolve what is called [scientific 
-uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) or 
-[technological uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty). Basically, 
-the advancement is the targeted outcome of the SR&ED work while the uncertainty is the impetus for the SR&ED work. Therefore, an attempt to achieve 
+Work for the [advancement of scientific
+knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt) or
+for the purpose of [technological
+advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
+implies an attempt to resolve what is called [scientific
+uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) or
+[technological uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty). Basically,
+the advancement is the targeted outcome of the SR&ED work while the uncertainty is the impetus for the SR&ED work. Therefore, an attempt to achieve
 advancement is an attempt to resolve uncertainty.
 
 ![why](https://github.com/seenthattinker/Conceptinero/blob/master/images/why.svg)
@@ -199,7 +199,7 @@ Depending on the purpose of the work, SR&ED can involve:
 
 
 
-### Basic research 
+### Basic research
 
 [Basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch)
 is work undertaken for the [advancement of scientific knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
@@ -209,18 +209,18 @@ include [third-party payments](https://www.canada.ca/en/revenue-agency/services
 to, for example, universities, research institutes, and consortia. The
 results of basic research are usually published in scientific journals.
 
-![Example] One example of [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch) is 
-research in the field of elementary particles. This work had its origin as 
-a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss) 
-in theoretical physics or scientific models of the structure of matter. Originally there was no physical evidence that the hypothetical particles existed, 
-let alone that there could be a practical value to them. At some point, experiments were devised and performed that demonstrated that these particles 
+![Example] One example of [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch) is
+research in the field of elementary particles. This work had its origin as
+a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
+in theoretical physics or scientific models of the structure of matter. Originally there was no physical evidence that the hypothetical particles existed,
+let alone that there could be a practical value to them. At some point, experiments were devised and performed that demonstrated that these particles
 existed, and measured their properties (mass and charge). The electron was one of these discoveries.
 
 
 
 
 
-### Applied research 
+### Applied research
 
 [Applied research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch)
 is also work undertaken for the [advancement of scientific knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt),
@@ -242,7 +242,7 @@ made.
 
 
 
-### Experimental development 
+### Experimental development
 
 [Experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt)
 is work undertaken for the purpose of achieving [technological advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
@@ -272,27 +272,27 @@ and principles).
 
 
 
-Methodology to determine if work meets the definition of SR&ED 
+Methodology to determine if work meets the definition of SR&ED
 ------------------------------------------------------------------
 
 The following two-step methodology can be used to determine if and to what
 extent work meets the definition of SR&ED:
 
-Step 1: Determine if there is SR&ED
+1. Determine if there is SR&ED
 
-In this step, the details of the work are examined to the point where
+>In this step, the details of the work are examined to the point where
 the five questions can be answered.
 
-Step 2: Determine the extent of eligible work
+1. Determine the extent of eligible work
 
-In this step, the details of the work are examined to determine what
+>In this step, the details of the work are examined to determine what
 work is SR&ED.
 
 
 
 
 
-### Step 1: Determine if there is SR&ED 
+### Determine if there is SR&ED
 
 Determining if there is SR&ED means showing that there is a:
 
@@ -375,7 +375,7 @@ necessary to carry out that work.
 
 
 
-### # Was there a scientific or a technological uncertainty? 
+### # Was there a scientific or a technological uncertainty?
 
 [Scientific or technological
 uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
@@ -416,7 +416,7 @@ problem.
 
 
 
-###  Example 1: Technological uncertainty 
+###  Example 1: Technological uncertainty
 
 
 
@@ -547,7 +547,7 @@ to resolve the problem.
 
 
 
-###  Example 2: Technical problem versus technological uncertainty 
+###  Example 2: Technical problem versus technological uncertainty
 
 
 
@@ -675,7 +675,7 @@ process.
 
 
 
-###  Example 3: Cost targets leading to technological uncertainty 
+###  Example 3: Cost targets leading to technological uncertainty
 
 
 
@@ -797,7 +797,7 @@ uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-researc
 
 
 
-###  Example 4: Development based on existing scientific or technological knowledge 
+###  Example 4: Development based on existing scientific or technological knowledge
 
 
 
@@ -889,7 +889,7 @@ associated SR&ED project.
 
 
 
-### # Did the effort involve formulating hypotheses specifically aimed at reducing or eliminating that uncertainty? 
+### # Did the effort involve formulating hypotheses specifically aimed at reducing or eliminating that uncertainty?
 
 Formulating
 a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
@@ -906,7 +906,7 @@ broad to apply to an industrial context as well.
 
 
 
-### # Was the overall approach adopted consistent with a systematic investigation or search, including formulating and testing the hypotheses by means of experiment or analysis? 
+### # Was the overall approach adopted consistent with a systematic investigation or search, including formulating and testing the hypotheses by means of experiment or analysis?
 
 In SR&ED, it is expected that a planned approach is formulated; that is:
 
@@ -1006,7 +1006,7 @@ search](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 
 
-### # Was the overall approach undertaken for the purpose of achieving a scientific or a technological advancement? 
+### # Was the overall approach undertaken for the purpose of achieving a scientific or a technological advancement?
 
 [Scientific or technological
 advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
@@ -1066,7 +1066,7 @@ important.
 
 
 
-###  Example 5: Creating new materials, devices, products or processes without technological advancement 
+###  Example 5: Creating new materials, devices, products or processes without technological advancement
 
 
 
@@ -1155,7 +1155,7 @@ technological knowledge base.
 
 
 
-### # Was a record of the hypotheses tested and the results kept as the work progressed? 
+### # Was a record of the hypotheses tested and the results kept as the work progressed?
 
 A record of the
 [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss),
@@ -1196,7 +1196,7 @@ claim.
 
 
 
-### Step 2: Determine the extent of eligible work 
+### Step 2: Determine the extent of eligible work
 
 The method used to assess whether there is SR&ED is described in
 [section
@@ -1282,7 +1282,7 @@ the extent of SR&ED work based on the definition of SR&ED in the Act.
 
 
 
-### # Support work 
+### # Support work
 
 The work identified in paragraph (d) of the definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -1358,7 +1358,7 @@ must be the following:
 
 
 
-###  Example 6: Commensurate with the needs and directly in support 
+###  Example 6: Commensurate with the needs and directly in support
 
 
 
@@ -1416,7 +1416,7 @@ investment tax credits.)
 
 
 
-### # Excluded work 
+### # Excluded work
 
 The work identified in paragraphs (e) to (k) of the definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -1457,7 +1457,7 @@ or was it done for some other reason?
 
 
 
-3.0 SR&ED project 
+3.0 SR&ED project
 -----------------
 
 [Form T661, Scientific Research and Experimental Development (SR&ED)
@@ -1471,7 +1471,7 @@ SR&ED.
 
 
 
-### Characteristics of an SR&ED project 
+### Characteristics of an SR&ED project
 
 Every project claimed must fall within the definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -1530,7 +1530,7 @@ expenditures to the project.
 
 
 
-### Company project versus SR&ED project 
+### Company project versus SR&ED project
 
 A distinction must be drawn between a company project and an SR&ED
 project. *Company project* is a generic term referring to undertakings
@@ -1566,7 +1566,7 @@ research](https://www.canada.ca/en/revenue-agency/services/scientific-research-e
 
 
 
-### Duration of an SR&ED project 
+### Duration of an SR&ED project
 
 The start of the SR&ED project is identified as the point at which
 the [scientific or technological
@@ -1641,7 +1641,7 @@ undertaken to resolve it.
 
 
 
-SR&ED in a production or manufacturing environment 
+SR&ED in a production or manufacturing environment
 ------------------------------------------------------
 
 SR&ED in a production or manufacturing environment is referred to as
@@ -1697,14 +1697,14 @@ situations:
 
 
 
-Appendix A 
+Appendix A
 ----------
 
 
 
 
 
-###  Explanation of changes 
+###  Explanation of changes
 
 The following are the explanation of changes to the Eligibility of Work
 for SR&ED Investment Tax Credits Policy:
@@ -1744,7 +1744,7 @@ for SR&ED Investment Tax Credits Policy:
 11. Editorial changes to bring further clarity.
 
 
-[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg 
+[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
 
 [Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/dart.png
 
