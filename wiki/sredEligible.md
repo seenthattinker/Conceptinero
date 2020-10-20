@@ -277,38 +277,23 @@ work is SR&ED.
 
 Determining if there is SR&ED means showing that there is a:
 
-*[Systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
-that is carried out in a field
-of [science](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scn)
+[Systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
+that is carried out in a field of [science](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scn)
 or [technology](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tchnlgy)
-by means
-of [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
-or
-[analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss)
-and that is
+by means of [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
+or [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss)
+and that is [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch),
+namely, work undertaken for the [advancement of scientific knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
+without a specific practical application in view, [applied research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch),
+namely, work undertaken for the [advancement of scientific knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
+with a specific practical application in view, or [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt),
+namely, work undertaken for the purpose of achieving [technological advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
+for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements
+thereto,
 
-\(a) [basic
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch),
-namely, work undertaken for the [advancement of scientific
-knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
-without a specific practical application in view,
+![systemicInvestigation](/home/bruce/Conceptinero/images/systemicInvestigation.svg)
 
-\(b) [applied
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch),
-namely, work undertaken for the [advancement of scientific
-knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
-with a specific practical application in view, or
-
-\(c) [experimental
-development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt),
-namely, work undertaken for the purpose of achieving [technological
-advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
-for the purpose of creating new, or improving existing, materials,
-devices, products or processes, including incremental improvements
-thereto,*
-
-The method to establish this involves answering the following five
-questions:
+The method to establish this involves answering the following five questions:
 
 1.  Was there a [scientific or a technological
     uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)?
