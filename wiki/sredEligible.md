@@ -164,8 +164,7 @@ advancement](https://www.canada.ca/en/revenue-agency/services/scientific-researc
 aimed at creating new, or improving existing, materials, devices,
 products, or processes including incremental improvements.
 
-The [systematic investigation or
-search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
+The [systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
 carried out in a field
 of [science](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scn)
 or [technology](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tchnlgy)
@@ -173,30 +172,21 @@ by means
 of [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
 or
 [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss)
-must be seeking [scientific or technological
-advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
+must be seeking [scientific or technological advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
 for it to be SR&ED.
 
-Work for the [advancement of scientific
-knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt) or
-for the purpose of [technological
-advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
-implies an attempt to resolve what is called [scientific
-uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) or
+Work for the [advancement of scientific knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt) or
+for the purpose of [technological advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
+implies an attempt to resolve what is called [scientific uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) or
 [technological uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty). Basically,
 the advancement is the targeted outcome of the SR&ED work while the uncertainty is the impetus for the SR&ED work. Therefore, an attempt to achieve
 advancement is an attempt to resolve uncertainty.
 
 ![why](https://github.com/seenthattinker/Conceptinero/blob/master/images/why.svg)
 
-Depending on the purpose of the work, SR&ED can involve:
 
-1. [basic research](https://www.canada.ca/en/revenue1.agency/services/scientific1.research1.experimental1.development1.tax1.incentive1.program/glossary.html#bscrsrch)
-1. [applied research](https://www.canada.ca/en/revenue1.agency/services/scientific1.research1.experimental1.development1.tax1.incentive1.program/glossary.html#ppldrsrch)
-1. [experimental development](https://www.canada.ca/en/revenue1.agency/services/scientific1.research1.experimental1.development1.tax1.incentive1.program/glossary.html#xpdvlpmnt)
-
-
-
+Work types
+----------------
 
 
 ### Basic research
@@ -227,16 +217,7 @@ is also work undertaken for the [advancement of scientific knowledge](https://ww
 but with a specific practical application in view. Like [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch),
 the results could be published in scientific journals.
 
-![Example] The discovery of the principle of the transistor, that is, the ability
-to control the conductivity of a semiconductor, can be considered an
-example of applied research. A private company did this particular work.
-Its research objective was to gain knowledge of the properties of
-semiconductors, particularly how electrons (one type of elementary
-particles that was discovered as a result of the basic research noted
-above) behaved in them. The company clearly hoped to develop a practical
-application (a semiconductor amplifier) based on the scientific
-knowledge gained although at this point no device or product had been
-made.
+![Example] The discovery of the principle of the transistor, that is, the ability to control the conductivity of a semiconductor, can be considered an example of applied research. A private company did this particular work. Its research objective was to gain knowledge of the properties of semiconductors, particularly how electrons (one type of elementary particles that was discovered as a result of the basic research noted above) behaved in them. The company clearly hoped to develop a practical application (a semiconductor amplifier) based on the scientific knowledge gained although at this point no device or product had been made.
 
 
 
@@ -278,14 +259,14 @@ Methodology to determine if work meets the definition of SR&ED
 The following two-step methodology can be used to determine if and to what
 extent work meets the definition of SR&ED:
 
-1. Determine if there is SR&ED
+1. Determine if there is SR&ED.
 
->In this step, the details of the work are examined to the point where
+![Note] In this step, the details of the work are examined to the point where
 the five questions can be answered.
 
-1. Determine the extent of eligible work
+1. Determine the extent of eligible work.
 
->In this step, the details of the work are examined to determine what
+![Note] In this step, the details of the work are examined to determine what
 work is SR&ED.
 
 
@@ -296,8 +277,7 @@ work is SR&ED.
 
 Determining if there is SR&ED means showing that there is a:
 
-*[systematic investigation or
-search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
+*[Systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
 that is carried out in a field
 of [science](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scn)
 or [technology](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tchnlgy)
