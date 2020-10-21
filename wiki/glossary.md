@@ -27,10 +27,11 @@ relationships. It is performed against the background of available
 knowledge and experience and it involves using tools such as models,
 graphs, statistics, tables, diagrams, mathematical formulas, and
 computer programs to express this knowledge or experience. Analysis is
-an integral part of the [systematic investigation or
-search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
+an integral part of the [systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
 and it can be used to generate or test a
 [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss).
+
+![Analysis](images/analysis.svg)
 
 **Note**\
 The following is the explanation of changes to this term as of April 24,
@@ -576,7 +577,7 @@ principles are embodied in the material, device, product, or process.
 
 **Testing / routine testing**
 
-Testing is the application of procedures designed to observe, measure, or verify attributes, properties, or performance. The term routine testing refers to testing performed during the course of normal business operations, for example, testing carried out primarily to determine user acceptance, suitability, marketability, or competitive assessment. Work with respect to routine testing is specifically excluded from the definition of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd). Only the testing work that is [commensurate with the needs](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmnsrt) and [directly in support](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprt) of [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch), [applied research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch) or [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt) is eligible
+Testing is the application of procedures designed to observe, measure, or verify attributes, properties, or performance. The term routine testing refers to testing performed during the course of normal business operations, for example, testing carried out primarily to determine user acceptance, suitability, marketability, or competitive assessment. Work with respect to routine testing is specifically excluded from the definition of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd). Only the testing work that is [commensurate with the needs](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmnsrt) and [directly in support](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprt) of [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch), [applied research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch) or [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt) is eligible.
 
 
 **Traditional method**
