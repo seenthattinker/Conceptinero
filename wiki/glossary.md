@@ -1748,6 +1748,8 @@ definition of
 
 System uncertainty is a form of [technological uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) that can arise from or during the integration of technologies, the components of which are generally well known. This is due to unpredictable interactions between the individual components or sub-systems.
 
+![Law] Justice D’Auray in Formadrain Inc. v. The Queen, 2017 TCC 42 at para. 93, 2017 DTC 1022, specified that “In other words, the lacking knowledge must really not exist in the base of scientific or technological knowledge, not simply be unknown to the claimant.” 
+
 For more information, please refer to [section 2.1.1 of the Eligibility of Work for SR&ED Investment Tax Credits Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_1).
 
 **Systematic investigation or search** / [Investigation ou recherche
@@ -1782,3 +1784,12 @@ carried on in Canada, that the claimant incurred during the year.
 
 For more information, please refer to the [Traditional and Proxy Methods
 Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/traditional-proxy-methods-policy.html).
+
+
+[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
+
+[Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/dart.png
+
+[Example]:https://github.com/seenthattinker/Conceptinero/blob/master/images/example.png
+
+[Law](:https://github.com/seenthattinker/Conceptinero/blob/master/images/law-pic.jpg)
