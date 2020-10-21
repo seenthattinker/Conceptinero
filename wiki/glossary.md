@@ -31,7 +31,7 @@ an integral part of the [systematic investigation or search](https://www.canada.
 and it can be used to generate or test a
 [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss).
 
-![Analysis](images/analysis.svg)
+![Analysis](https://github.com/seenthattinker/Conceptinero/blob/master/images/analysis.svg)
 
 **Note**\
 The following is the explanation of changes to this term as of April 24,
