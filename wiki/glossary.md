@@ -1,5 +1,5 @@
 
-SR&ED Glossary 
+SR&ED Glossary
 ==============
 
 
@@ -13,7 +13,7 @@ federal *Income Tax Act* and the *Income Tax Regulations*. The SR&ED
 Glossary does not replace the law, either enacted or proposed.**
 
 
-A 
+A
 -
 
 **Adjusted selling cost** / [Coût de vente
@@ -130,7 +130,7 @@ Guide](https://www.canada.ca/en/revenue-agency/services/forms-publications/publi
 
 <div class="mwsbodytext text parbase section">
 
-B 
+B
 -
 
 **Basic research** / [Recherche
@@ -187,7 +187,7 @@ in a generic sense to refer to all of the above terms.
 
 <div class="mwsbodytext text parbase section">
 
-C 
+C
 -
 
 **Canadian-controlled private corporation (CCPC)** / [Société privée
@@ -331,7 +331,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-D 
+D
 -
 
 **Data collection / routine data collection** / [Collecte de données /
@@ -474,7 +474,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-E 
+E
 -
 
 **ED+CP (experimental development in conjunction or simultaneously with
@@ -656,7 +656,7 @@ technical aspects of the SR&ED project.
 
 <div class="mwsbodytext text parbase section">
 
-F 
+F
 -
 
 **Filing-due date** / [Date d’échéance de
@@ -707,7 +707,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-G 
+G
 -
 
 **General-purpose office equipment or furniture (GPOEF)** / [Mobilier ou
@@ -744,7 +744,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-H 
+H
 -
 
 **Humanities** / [Sciences
@@ -790,7 +790,7 @@ The following are the explanation of changes to this term as of April
 
 <div class="mwsbodytext text parbase section">
 
-I 
+I
 -
 
 **In Canada (for SR&ED expenditures)** / [Au Canada (pour les dépenses
@@ -909,7 +909,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-K 
+K
 -
 
 **Key individuals** / [Personnes
@@ -924,7 +924,7 @@ aspects of the project.
 
 <div class="mwsbodytext text parbase section">
 
-M 
+M
 -
 
 **Market research** / [Étude de
@@ -1008,7 +1008,7 @@ means of mathematical tools, principles, methods, or techniques.
 
 <div class="mwsbodytext text parbase section">
 
-N 
+N
 -
 
 **Non-arm's length (NAL)** / [Lien de
@@ -1035,7 +1035,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-O 
+O
 -
 
 **On behalf of (SR&ED undertaken)** / [Pour le compte de (RS&DE
@@ -1096,7 +1096,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-P 
+P
 -
 
 **Pilot plant** / [Usine
@@ -1350,7 +1350,7 @@ A public authority is generally an entity that:
 
 <div class="mwsbodytext text parbase section">
 
-Q 
+Q
 -
 
 **Qualified individuals** / [Personnes
@@ -1465,7 +1465,7 @@ definition of
 
 <div class="mwsbodytext text parbase section">
 
-R 
+R
 -
 
 **Related benefits** / [Avantages
@@ -1543,7 +1543,7 @@ Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 
 <div class="mwsbodytext text parbase section">
 
-S 
+S
 -
 
 **Salary base** / [Base
@@ -1715,140 +1715,6 @@ For more information, please refer to [section 2.1.1 of the Eligibility
 of Work for SR&ED Investment Tax Credits
 Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_1).
 
-**Scientific research and experimental development (SR&ED)** /
-[Recherche scientifique et développement expérimental
-(RS&DE)](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#srd)
-
-SR&ED is defined for income tax purposes in subsection 248(1) of the ITA
-as follows:
-
-“‘scientific research and experimental development’ means systematic
-investigation or search that is carried out in a field of science or
-technology by means of experiment or analysis and that is
-
-\(a) basic research, namely, work undertaken for the advancement of
-scientific knowledge without a specific practical application in view,
-
-\(b) applied research, namely, work undertaken for the advancement of
-scientific knowledge with a specific practical application in view, or
-
-\(c) experimental development, namely, work undertaken for the purpose of
-achieving technological advancement for the purpose of creating new, or
-improving existing, materials, devices, products or processes, including
-incremental improvements thereto,
-
-and, in applying this definition in respect of a taxpayer, includes
-
-\(d) work undertaken by or on behalf of the taxpayer with respect to
-engineering, design, operations research, mathematical analysis,
-computer programming, data collection, testing or psychological
-research, where the work is commensurate with the needs, and directly in
-support, of work described in paragraph (a), (b), or (c) that is
-undertaken in Canada by or on behalf of the taxpayer,
-
-but does not include work with respect to
-
-\(e) market research or sales promotion,
-
-\(f) quality control or routine testing of materials, devices, products
-or processes,
-
-\(g) research in the social sciences or the humanities,
-
-\(h) prospecting, exploring or drilling for, or producing, minerals,
-petroleum or natural gas,
-
-\(i) the commercial production of a new or improved material, device or
-product or the commercial use of a new or improved process,
-
-\(j) style changes, or
-
-\(k) routine data collection;”
-
-**Second term shared-use-equipment** / [Matériel à vocations multiples
-de deuxième
-période](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#scndtrm)
-
-To qualify as second term shared-use-equipment, a property must be:
-
--   property that was [first term
-    shared-use-equipment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#frsttrm);
--   equipment that is used by the claimant during its [operating
-    time](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prtngtm)
-    in the period starting at the time the property was acquired and was
-    [available for
-    use](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#vlbl)
-    and ends at the end of the first tax year that was at least 24
-    months after the time the equipment was acquired and available for
-    use (this is the **second period**); and
--   used by the claimant during its operating time in the second period
-    [primarily](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prmrly)
-    for the prosecution of SR&ED in Canada.
-
-For more information, please refer to the [SR&ED Shared-Use-Equipment
-Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/shared-use-equipment-policy.html).
-
-**Shared-use-equipment (SUE)** / [Matériel à vocations multiples
-(MVM)](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#shds)
-
-Investment tax credits (ITC) are no longer available in respect to SUE
-for tax years ending after February 1, 2017. Expenditures of a capital
-nature for capital property acquired or available for use after 2013, no
-longer qualify for SR&ED tax incentives. However, because of the
-interaction of the definition [first term
-SUE](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#frsttrm)
-and [second term
-SUE](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#shds),
-ITCs on SUE may still be claimed until 2017.
-
-A SR&ED
-[ITC](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nvstmnttc)
-can be earned on a portion of the cost of equipment used
-[primarily](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prmrly)
-for the prosecution of SR&ED. Equipment that qualified as [first term
-shared-use-equipment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#frsttrm)
-or [second term shared-use
-equipment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scndtrm)
-can earn an SR&ED ITC.
-
-For more information, please refer to the [SR&ED Shared-Use-Equipment
-Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/shared-use-equipment-policy.html).
-
-**Social sciences** / [Sciences
-sociales](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#sclsc)
-
-Social sciences are disciplines characterized by their concern with
-human beings, their culture, and their economic, political, and social
-relationships with the environment.
-
-Generally, the social sciences include anthropology, economics,
-political science, psychology, sociology, and sometimes education, law,
-philosophy, religion, and history. Management is also considered a
-social science.
-
-Work with respect to research in social sciences is specifically
-excluded from the definition of
-[SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd).
-However, under certain circumstances, work with respect to
-[psychological
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#psycrsrch)
-may be eligible.
-
-**Note**\
-The following are the explanation of changes to this definition as of
-April, 2015.
-
-1.  “criminology”, “geography”, and “psychiatry” were removed from the
-    definition.
-2.  “and sometimes” was added to indicate that education, law,
-    philosophy, religion, and history are not always considered social
-    sciences.
-
-The following are the explanation of changes to this definition as of
-April 2017.
-
-1.  The definition has been simplified to improve understanding and
-    clarity
 
 **Specified employee** / [Employé
 déterminé](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#spcfd)
@@ -1865,97 +1731,6 @@ specified shareholder; e.g. a sister, a brother, a spouse, etc.
 For more information, please refer to the [SR&ED Salary or Wages
 Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/salary-wages-policy.html).
 
-**SR&ED contract** / [Contrat de
-RS&DE](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#srdcnt)
-
-A SR&ED contract is a contract for [basic
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch),
-[applied
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch)
-or [experimental
-development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt),
-or [support
-work](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprtwrk)
-performed [on behalf
-of](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nbhlf)
-a claimant.
-
-For more information please refer to the [Contract Expenditures for
-SR&ED Performed on Behalf of a Claimant
-Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/contract-expenditures-performed-on-behalf-a-claimant-policy.html).
-
-**SR&ED capital expenditure** / [Dépense en capital de
-RS&DE](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#srdcptl)
-
-SR&ED capital expenditures made after 2013, no longer qualify for SR&ED
-tax incentives. This includes capital expenditures made before 2014 for
-property that became [available for
-use](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#vlbl)
-after 2013.
-
-A SR&ED capital expenditure is an expenditure made to acquire new or
-used [depreciable
-property](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dprcbl)
-intended to be:
-
--   used [all or substantially all
-    (ASA)](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#llr)
-    of the operating time in its expected useful life in the performance
-    of SR&ED in Canada; or
--   consumed ASA of its value in the performance of SR&ED in Canada.
-
-For more information please refer to the [SR&ED Capital Expenditures
-Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/capital-expenditures-policy.html).
-
-**SR&ED current expenditure** / [Dépense courante de
-RS&DE](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#srdcrrnt)
-
-A SR&ED current expenditure is an [expenditure of a current
-nature](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#crrntntr)
-made by a claimant on or in respect of SR&ED that is described in the
-following policies:
-
--   [SR&ED Salary or Wages
-    Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/salary-wages-policy.html);
--   [Materials for SR&ED
-    Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/materials-policy.html);
--   [Contract Expenditures for SR&ED Performed on Behalf of a Claimant
-    Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/contract-expenditures-performed-on-behalf-a-claimant-policy.html);
--   [SR&ED Lease Expenditures
-    Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/lease-expenditures-policy.html);
-    \[before 2014\]
--   [SR&ED Overhead and Other Expenditures
-    Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/overhead-other-expenditures-policy.html);
--   [Third-Party Payments
-    Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/third-party-payments-policy.html).
-
-**SR&ED reporting deadline** / [Date limite de production pour la
-RS&DE](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#srdrprtng)
-
-A claimant’s reporting deadline for an SR&ED expenditure is the last day
-for which a prescribed form containing prescribed information in respect
-of the expenditure is required to be filed for the year. The reporting
-deadline to file the prescribed [Form T661, Scientific Research and
-Experimental Development (SR&ED) Expenditures
-Claim](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html),
-for an SR&ED expenditure is 12 months after the claimant’s filing-due
-date of the return for the year in which the expenditure was incurred.
-
-The reporting deadline to include an ITC amount earned in respect of an
-SR&ED expenditure on the prescribed [Schedule T2SCH31, Investment Tax
-Credit –
-Corporations](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch31.html)
-or [Form T2038(IND)*,* Investment Tax Credit
-(Individuals)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2038-ind.html),
-is also 12 months after the claimant’s filing-due date of an income tax
-return for the year in which the expenditure was incurred.
-
-For corporations the SR&ED reporting deadline is generally 18 months
-after the tax year end.
-
-For more information, please refer to [section 6.0 of the SR&ED Filing
-Requirements
-Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/filing-requirements-policy.html#s6_0).
 
 **Style change** / [Modification de
 style](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#stylc)
@@ -1968,95 +1743,18 @@ Work with respect to style changes is specifically excluded from the
 definition of
 [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd).
 
-**Support work** / [Travaux de
-soutien](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#spprtwrk)
 
-The work identified in paragraph (d) of the definition of
-[SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
-is usually referred to as support work. Work with respect to the eight
-categories listed in paragraph (d) does not constitute SR&ED on its own.
-However, if it is [commensurate with the
-needs](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmnsrt)
-and [directly in
-support](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprt)
-of [basic
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch),
-[applied
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch)
-or [experimental
-development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt)
-work undertaken in Canada, it falls within the meaning of SR&ED.
+**System uncertainty** / [Incertitude systémique](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#systmnc)
 
-**System uncertainty** / [Incertitude
-systémique](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#systmnc)
+System uncertainty is a form of [technological uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) that can arise from or during the integration of technologies, the components of which are generally well known. This is due to unpredictable interactions between the individual components or sub-systems.
 
-System uncertainty is a form of [technological
-uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
-that can arise from or during the integration of technologies, the
-components of which are generally well known. This is due to
-unpredictable interactions between the individual components or
-sub-systems.
+For more information, please refer to [section 2.1.1 of the Eligibility of Work for SR&ED Investment Tax Credits Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_1).
 
-For more information, please refer to [section 2.1.1 of the Eligibility
-of Work for SR&ED Investment Tax Credits
-Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_1).
-
-**Systematic investigation or search / **[Investigation ou recherche
+**Systematic investigation or search** / [Investigation ou recherche
 systématique](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#systmnv)
 
-The systematic investigation or search called for in the definition of
-[SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
-is an approach that includes defining a problem, advancing a
-[hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
-towards resolving that problem, planning and testing the hypothesis by
-[experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
-or
-[analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss),
-and developing logical conclusions based on the results.
+The systematic investigation or search called for in the definition of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd) is an approach that includes defining a problem, advancing a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss) towards resolving that problem, planning and testing the hypothesis by [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt) or [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss), and developing logical conclusions based on the results. For more information, please refer to [section 2.1.3 of the Eligibility of Work for SR&ED Investment Tax Credits Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_3).
 
-For more information, please refer to [section 2.1.3 of the Eligibility
-of Work for SR&ED Investment Tax Credits
-Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_3).
-
-**Note**\
-The following is the explanation of changes to this term as of April 24,
-2015.
-
-1.  “scientific method” has been removed from the explanation as it is
-    no longer used in policy.
-
-</div>
-
-<div class="mwsbodytext text parbase section">
-
-T 
--
-
-**Taxable benefits** / [Avantages
-imposables](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#tbnfts)
-
-Taxable benefits are benefits or allowances an employer provides to its
-employees that are taxable under the ITA. For example: automobile
-benefits; housing, board, and meals; gifts and awards; interest-free or
-low-interest loans; group term life insurance policies; or tuition fees.
-
-For more information, please refer to [section 3.0 of the SR&ED Salary
-or Wages
-Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/salary-wages-policy.html#s3_0).
-
-**Taxable supplier** / [Fournisseur
-imposable](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#tspplr)
-
-A taxable supplier means:
-
--   a person resident in Canada;
--   a Canadian partnership; or
--   a non-resident person or non-Canadian partnership that carries on a
-    business through a permanent establishment in Canada.
-
-For more information, please refer to [section 9.0 of the Total
-Qualified SR&ED Expenditures for Investment Tax Credit Purposes
-Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/total-qualified-expenditures-investment-tax-credit-purposes-policy.html#s9_0).
 
 **Technology** /
 [Technologie](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#tchnlgy)
@@ -2072,36 +1770,8 @@ principles are embodied in the material, device, product, or process.
 **Testing / routine testing** / [Mise à l’essai / mise à l'essai
 normale](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#tstng)
 
-Testing is the application of procedures designed to observe, measure,
-or verify attributes, properties, or performance. The term routine
-testing refers to testing performed during the course of normal business
-operations, for example, testing carried out primarily to determine user
-acceptance, suitability, marketability, or competitive assessment. Work
-with respect to routine testing is specifically excluded from the
-definition of
-[SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd).
-Only the testing work that is [commensurate with the
-needs](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmnsrt)
-and [directly in
-support](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprt)
-of [basic
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch),
-[applied
-research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch)
-or [experimental
-development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt)
-is eligible.
+Testing is the application of procedures designed to observe, measure, or verify attributes, properties, or performance. The term routine testing refers to testing performed during the course of normal business operations, for example, testing carried out primarily to determine user acceptance, suitability, marketability, or competitive assessment. Work with respect to routine testing is specifically excluded from the definition of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd). Only the testing work that is [commensurate with the needs](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmnsrt) and [directly in support](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprt) of [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch), [applied research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch) or [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt) is eligible
 
-**Third-party payment** / [Paiement à des
-tiers](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#thrdpp)
-
-A third party payment is generally a payment made by a claimant to an
-entity to be used for SR&ED carried on in Canada, that is related to a
-business of the claimant and the claimant must be entitled to exploit
-the results of the SR&ED.
-
-For more information, please refer to the [Third-Party Payments
-Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/third-party-payments-policy.html).
 
 **Traditional method** / [Méthode
 traditionnelle](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#tmthd)
@@ -2112,44 +1782,3 @@ carried on in Canada, that the claimant incurred during the year.
 
 For more information, please refer to the [Traditional and Proxy Methods
 Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/traditional-proxy-methods-policy.html).
-
-</div>
-
-<div class="mwsbodytext text parbase section">
-
-V 
--
-
-**Virtually valueless** / [Presque sans
-valeur](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#vrtv)
-
-Virtually valueless means a value that is 10% or less of the cost.
-
-</div>
-
-<div class="mwsbodytext text parbase section">
-
-Y 
--
-
-**Year’s maximum pensionable earnings (YMPE)** / [Maximum des gains
-annuels ouvrant droit à pension
-(MGAP)](https://www.canada.ca/fr/agence-revenu/services/recherche-scientifique-developpement-experimental-programme-encouragements-fiscaux/glossaire.html#yrsmxp)
-
-The year's maximum pensionable earnings (YMPE) is an amount determined
-under section 18 of the *Canada Pension Plan*. It is used in the
-calculation of the maximum amount of [salary or
-wages](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#swgs)
-for a [specified
-employee](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spcfd)
-that can be included in the [pool of deductible SR&ED
-expenditures](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#plddct)
-(5 times the YMPE) and in the [salary
-base](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#slbs)
-for the calculation of the [prescribed proxy amount
-(PPA)](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prprxy)
-(2.5 times the YMPE). To obtain the YMPE for each year, use the [Rates
-for Money Purchase limits, RRSP limits, YMPE, DPSP limits and Defined
-Benefits
-limits](https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html).
-
