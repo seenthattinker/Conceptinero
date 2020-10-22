@@ -80,16 +80,8 @@ Design is work to transform concepts and ideas into a plan.
 
 An [expenditure of a current nature](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#crrntntr) is directly attributable to the prosecution of SR&ED if it is:
 
-![x]the cost of materials consumed or transformed in such prosecution
-    (please refer to the [Materials for SR&ED
-    Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/materials-policy.html));
-for an employee who directly undertakes, supervises or supports the
-    prosecution of SR&ED that would be, the portion of salaries or wages
-    incurred, to the extent the amount can reasonably be considered in
-    respect of such prosecution (please refer to the [SR&ED Salary or
-    Wages
-    Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/salary-wages-policy.html))
-    ; and
+![x]the cost of materials consumed or transformed in such prosecution (please refer to the [Materials for SR&ED Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/materials-policy.html)); for an employee who directly undertakes, supervises or supports the prosecution of SR&ED that would be, the portion of salaries or wages incurred, to the extent the amount can reasonably be considered in respect of such prosecution (please refer to the [SR&ED Salary or Wages Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/salary-wages-policy.html)) ; and
+
 ![x]for other expenditures that are, an expenditure, or portion of an
     expenditure, that is directly related to the prosecution of SR&ED
     and that would not have been incurred if such prosecution had not
@@ -106,6 +98,7 @@ Canada:
 
 ![x]the cost of the maintenance and upkeep of such premises, facilities
     or equipment; and
+
 ![x]other expenditures, or those portions of other expenditures, that
     are directly related to that provision and that would not have been
     incurred if those premises or facilities or that equipment had not
@@ -238,13 +231,20 @@ Market research includes work such as:
 ![x]examining such factors as buying habits, use of leisure time,
     consumer needs or wants, and attitudes toward existing products and
     new products being test-marketed;
+
 ![x]market development and market verification;
+
 ![x]general market identification;
+
 ![x]market demonstration;
+
 ![x]identifying market preference;
+
 ![x]developing customer acceptance;
+
 ![x]gathering and evaluating data about consumers' preferences for
     products and services; and
+
 ![x]studying the requirements of specific markets, the acceptability of
     products, and methods of developing and exploiting new markets.
 
@@ -318,6 +318,7 @@ The resources within the company include:
 
 ![x]technical knowledge, education, training, and experience of its
     personnel; and
+
 ![x]its technical capabilities typified by its current products,
     techniques, practices, and methodologies (for example, trade secrets
     and intellectual property).
