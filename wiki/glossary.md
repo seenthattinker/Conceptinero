@@ -10,6 +10,9 @@ SR&ED Glossary
 The scientific research and experimental development (SR&ED) glossary is provided for information purposes only as a plain language explanation of some of the terms used on the SR&ED Web pages, policies, forms and guides, when administering the SR&ED legislation under the federal *Income Tax Act* and the *Income Tax Regulations*. The SR&ED Glossary does not replace the law, either enacted or proposed.
 
 
+![Attention] This is a scaled down glossary. We focused on the terms relevant to submitting a SR&ED submission for software, telecommunications, and technology. We have expanded on the government definitions with case law from the Tax Court of Canada, and we have provided visual representation of some of the definitions.
+
+
 A
 -
 
@@ -17,6 +20,7 @@ A
 
 
 Analysis is the detailed examination of information to differentiate the various parts of a whole, determine their attributes, or explain their relationships. It is performed against the background of available knowledge and experience and it involves using tools such as models, graphs, statistics, tables, diagrams, mathematical formulas, and computer programs to express this knowledge or experience. Analysis is an integral part of the [systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv) and it can be used to generate or test a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss).
+
 
 ![Analysis](https://github.com/seenthattinker/Conceptinero/blob/master/images/analysis.svg)
 
