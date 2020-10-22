@@ -24,6 +24,8 @@ Analysis is the detailed examination of information to differentiate the various
 
 ![Analysis](https://github.com/seenthattinker/Conceptinero/blob/master/images/analysis.svg)
 
+
+
 **Note**\
 The following is the explanation of changes to this term as of April 24,
 2015.
