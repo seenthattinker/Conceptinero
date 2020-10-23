@@ -34,6 +34,7 @@ The following is the explanation of changes to this term as of April 24,
     the latter is no longer used in policy.
 
 **Applied research**
+
 Applied research is work undertaken for the [advancement of scientific knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
 with a specific practical application in view.
 
@@ -45,9 +46,7 @@ B
 
 **Basic research**
 
-Basic research is work undertaken for the [advancement of scientific
-knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
-without a specific practical application in view.
+Basic research is work undertaken for the [advancement of scientific knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt) without a specific practical application in view.
 
 
 **Beta site testing**
