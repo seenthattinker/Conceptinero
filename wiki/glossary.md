@@ -39,6 +39,7 @@ Applied research is work undertaken for the [advancement of scientific knowledg
 with a specific practical application in view.
 
 
+![Research](![Analysis](https://github.com/seenthattinker/Conceptinero/blob/master/images/analysis.svg))
 
 
 B
@@ -379,6 +380,7 @@ System uncertainty is a form of [technological uncertainty](https://www.canada.c
 
 The systematic investigation or search called for in the definition of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd) is an approach that includes defining a problem, advancing a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss) towards resolving that problem, planning and testing the hypothesis by [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt) or [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss), and developing logical conclusions based on the results. For more information, please refer to [section 2.1.3 of the Eligibility of Work for SR&ED Investment Tax Credits Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_3).
 
+![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/systemicInvestigation.svg)
 
 **Technology**
 

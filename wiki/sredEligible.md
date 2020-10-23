@@ -11,7 +11,7 @@ The main SR&ED website is [SR&ED](https://www.canada.ca/en/revenue-agency/servic
 
 
 This is a replica of the government's website material.
-Our notes are separated from the main text as follows,
+Our notes are separated from the main text as follows.
 
 ![Note] This is a note. When you see this icon Conceptinero is commenting on the content.
 
