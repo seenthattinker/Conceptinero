@@ -375,3 +375,7 @@ New product development, by itself, is always eligible. Wrong.
 [Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/attention.jpeg
 
 [Example]:https://github.com/seenthattinker/Conceptinero/blob/master/images/example.png
+
+[Law]:https://github.com/seenthattinker/Conceptinero/blob/master/images/law-pic.jpg
+
+[x]:https://github.com/seenthattinker/Conceptinero/blob/master/images/x.jpg
