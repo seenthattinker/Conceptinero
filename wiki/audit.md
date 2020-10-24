@@ -257,14 +257,14 @@ development work undertaken in Canada.
 
 It must be with respect to one of the eight categories of work listed below
 
-![x]  engineering;
-![x]  design;
-![x]  operations research;
-![x]  mathematical analysis;
-![x]  computer programming;
-![x]  data collection;
-![x]  testing; or
-![x]  psychological research.
+![x]    engineering;
+![x]    design;
+![x]    operations research;
+![x]    mathematical analysis;
+![x]    computer programming;
+![x]    data collection;
+![x]    testing; or
+![x]    psychological research.
 
 
 
@@ -277,11 +277,11 @@ and it can apply to many different types of businesses,
 but the law specifically excludes certain activities from SR&ED tax incentives.
 Among the activities that don’t qualify are:
 
-![x]  market research you do before you start your project
-![x]  promotions
-![x]  social science research projects
-![x]  humanities research projects
-![x]  and style changes.
+![x]    market research you do before you start your project
+![x]    promotions
+![x]    social science research projects
+![x]    humanities research projects
+![x]    and style changes.
 
 You also may not count routine tasks such as testing,
 quality control,
@@ -316,28 +316,28 @@ Routing Software Development
 
 Things at the technological Level:
 
-![x]  throughput
-![x]  speed
-![x]  response time
-![x]  technological risks & constraints
-![x]  limited bandwidth
-![x]  limited computing power
-![x]  repeatability
-![x]  reliability
-![x]  bug fixes
-![x]  coding
-![x]  and engineering are actually support activities.
+![x]    throughput
+![x]    speed
+![x]    response time
+![x]    technological risks & constraints
+![x]    limited bandwidth
+![x]    limited computing power
+![x]    repeatability
+![x]    reliability
+![x]    bug fixes
+![x]    coding
+![x]    and engineering are actually support activities.
 
 Things at the functional Level:
 
-![x]  what the code does
-![x]  Programmatic risk
-![x]  business risk
-![x]  marketing risk
-![x]  too costly
-![x]  too complicated
-![x]  not enough time
-![x]  advancement in functionality feature extensions.
+![x]    what the code does
+![x]    Programmatic risk
+![x]    business risk
+![x]    marketing risk
+![x]    too costly
+![x]    too complicated
+![x]    not enough time
+![x]    advancement in functionality feature extensions.
 
 The earliest possible moment when the uncertainty was recognized
 &mdash;
