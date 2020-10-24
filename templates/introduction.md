@@ -26,6 +26,8 @@ then concatenating them into a well edited and succinct application.
 
 
 
+
+
 [Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
 
 [Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/attention.jpeg
