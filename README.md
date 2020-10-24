@@ -7,8 +7,8 @@ Conceptinero
 Welcome to the SR&ED toolkit provided by [Conceptinero](https://www.conceptinero.com/).
 Connect with us on the following platforms:
 
-|---|---|
-|![Link](https://github.com/seenthattinker/Conceptinero/blob/master/images/linkedin.jpeg)|[](https://www.linkedin.com/company/conceptinero/)|
+
+![Link](https://github.com/seenthattinker/Conceptinero/blob/master/images/linkedin.jpeg)`https://www.linkedin.com/company/conceptinero/`
 
 
 ![Facebook](https://github.com/seenthattinker/Conceptinero/blob/master/images/face.jpeg)
