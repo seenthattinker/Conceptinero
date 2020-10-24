@@ -11,7 +11,9 @@ Connect with us on the following platforms:
 ![Link](https://github.com/seenthattinker/Conceptinero/blob/master/images/linkedin.jpeg)`https://www.linkedin.com/company/conceptinero/`
 
 
-![Facebook](https://github.com/seenthattinker/Conceptinero/blob/master/images/face.jpeg)
+![Facebook](https://github.com/seenthattinker/Conceptinero/blob/master/images/face.jpeg)`https://www.facebook.com/Conceptinero/`
+
+![Twitter](https://github.com/seenthattinker/Conceptinero/blob/master/images/twitter.png)`https://twitter.com/conceptinero?lang=en`
 
 
 
