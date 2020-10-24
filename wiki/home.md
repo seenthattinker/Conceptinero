@@ -11,6 +11,20 @@ For over ten years, we have helped companies in Software Engineering and Advance
 
 Our knowledgeable consultants have over 40 years of collective industry experience. Having provided technical, financial, and audit consulting for a wide range of industries and businesses, it's safe to say there isn't much that the staff at Conceptinero haven't seen and dealt with. 
 
+Connect with us on the following platforms:
+
+
+![Link](https://github.com/seenthattinker/Conceptinero/blob/master/images/linkedin.jpeg)
+[company/conceptinero/](https://www.linkedin.com/company/conceptinero/)
+
+
+![Facebook](https://github.com/seenthattinker/Conceptinero/blob/master/images/face.jpeg)
+[Conceptinero](https://www.facebook.com/Conceptinero/)
+
+
+![Twitter](https://github.com/seenthattinker/Conceptinero/blob/master/images/twitter.png)
+[twitter.com/conceptinero](https://twitter.com/conceptinero)
+
 ## Dedicated Consultant
 
 You get full service from a dedicated consultant who will be with you from start to end.
