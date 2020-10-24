@@ -16,7 +16,7 @@ The scientific research and experimental development (SR&ED) glossary is provide
 A
 -
 
-###Analysis
+### Analysis
 
 
 Analysis is the detailed examination of information to differentiate the various parts of a whole, determine their attributes, or explain their relationships. It is performed against the background of available knowledge and experience and it involves using tools such as models, graphs, statistics, tables, diagrams, mathematical formulas, and computer programs to express this knowledge or experience. Analysis is an integral part of the [systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv) and it can be used to generate or test a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss).
@@ -26,14 +26,14 @@ Analysis is the detailed examination of information to differentiate the various
 
 
 
-###Note**\
+### Note**\
 The following is the explanation of changes to this term as of April 24,
 2015.
 
 1.  “systematic investigation or search” replaced “scientific method” as
     the latter is no longer used in policy.
 
-###Applied research
+### Applied research
 
 Applied research is work undertaken for the [advancement of scientific knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
 with a specific practical application in view.
@@ -45,12 +45,12 @@ with a specific practical application in view.
 B
 -
 
-###Basic research
+### Basic research
 
 Basic research is work undertaken for the [advancement of scientific knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt) without a specific practical application in view.
 
 
-###Beta site testing
+### Beta site testing
 
 Beta site testing is the [testing](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tstng) or validation of a product or process in a customer or an end-user facility or environment. Often, the need for this type of testing arises when the product or process that is being developed cannot be tested in isolation without the full process environment, or in cases where the developer is unable to simulate the specialized environment or conditions required to evaluate the product performance.
 
@@ -63,7 +63,7 @@ C
 
 
 
-###Computer programming
+### Computer programming
 
 Computer programming is preparing and coding operating instructions for a computer.
 
@@ -72,17 +72,17 @@ Computer programming is preparing and coding operating instructions for a comput
 D
 -
 
-###Data collection / routine data collection
+### Data collection / routine data collection
 
 Data collection is the gathering of information using pre-determined procedures or protocols. The term routine data collection refers to data collection that is carried out for supporting normal business operations, and it is excluded from SR&ED work. Only the data collection work that is [commensurate with the needs](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmnsrt) and [directly in support](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprt) of [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch), [applied research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch) or [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt) is eligible.
 
 
 
-###Design
+### Design
 
 Design is work to transform concepts and ideas into a plan.
 
-###Directly attributable to the prosecution of SR&ED
+### Directly attributable to the prosecution of SR&ED
 
 An [expenditure of a current nature](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#crrntntr) is directly attributable to the prosecution of SR&ED if it is:
 
@@ -95,7 +95,7 @@ An [expenditure of a current nature](https://www.canada.ca/en/revenue-agency/ser
     to the [SR&ED Overhead and Other Expenditures
     Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/overhead-other-expenditures-policy.html)).
 
-###Directly attributable to the provision of premises, facilities or
+### Directly attributable to the provision of premises, facilities or
 equipment for the prosecution of SR&ED
 
 The following expenditures are directly attributable to the provision of
@@ -115,7 +115,7 @@ For more information, please refer to the [SR&ED Overhead and Other
 Expenditures
 Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/overhead-other-expenditures-policy.html).
 
-###Directly engaged in SR&ED
+### Directly engaged in SR&ED
 
 Directly engaged in SR&ED refers to **hands on** work. Whether an
 employee is directly engaged in SR&ED is based on the tasks that are
@@ -129,11 +129,11 @@ For more information, please refer to [section 7.1 of the SR&ED Salary
 or Wages
 Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/salary-wages-policy.html#s7_1).
 
-###Directly in support
+### Directly in support
 
 Within the context of SR&ED, work that is directly in support is work that was carried out specifically to perform the related [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch), [applied research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch) or [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt).
 
-###Directly related to the prosecution of SR&ED
+### Directly related to the prosecution of SR&ED
 
 To be [directly attributable to the prosecution of SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prsctn) [in Canada](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncnd) under the [traditional method](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tmthd), an expenditure, or a portion of the expenditure, must first be an expenditure directly related to the prosecution of SR&ED in Canada.
 
@@ -145,7 +145,7 @@ If the expenditure is directly related to the prosecution of SR&ED in Canada and
 E
 -
 
-###Engineering
+### Engineering
 
 Engineering is the practice of designing, composing, evaluating,
 advising, reporting, directing, or supervising the construction or
@@ -167,7 +167,7 @@ It is important to distinguish between work with respect to engineering and the 
     development.
 
 
-###Excluded work
+### Excluded work
 
 The work identified in paragraphs (e)-(k) of the definition of
 [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
@@ -175,22 +175,22 @@ is typically referred to as excluded work and, collectively, these
 paragraphs are referred to as the exclusions. This work is not SR&ED.
 
 
-###Experiment
+### Experiment
 
 An experiment is the test of a
 [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
 under controlled conditions.
 
-###Experimental development
+### Experimental development
 
 Experimental development is work undertaken for the purpose of achieving [technological advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt) for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto.
 
-###Experimental production
+### Experimental production
 
 Experimental production is defined as the [production output](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prdtpt) of [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt) that is required to verify whether the objectives of the SR&ED work have been met or if a [technological advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt) is achievable. The purpose of the [production run](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prdcnrn), in which the output is experimental production, is to evaluate the technical aspects of the SR&ED project.
 
 
-###Hypothesis
+### Hypothesis
 
 A hypothesis is an idea, consistent with known facts, that serves as a
 starting point for further investigation to prove or disprove that idea.
@@ -204,7 +204,7 @@ starting point for further investigation to prove or disprove that idea.
 K
 -
 
-###Key individuals
+### Key individuals
 
 Key individuals are individuals who are directly involved in the project
 and are essential to the progress of the project. These are individuals
@@ -215,7 +215,7 @@ aspects of the project.
 M
 -
 
-###Market research
+### Market research
 
 Market research is the process of gathering and analyzing information
 for the purpose of marketing a specific product, especially a new or
@@ -258,7 +258,7 @@ Work with respect to market research is specifically excluded from the
 definition of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd).
 
 
-###Mathematical analysis
+### Mathematical analysis
 
 Mathematical analysis is the examination of a set of observations by
 means of mathematical tools, principles, methods, or techniques.
@@ -269,7 +269,7 @@ O
 -
 
 
-###Operations research
+### Operations research
 
 Operations research is an approach involving the mathematical treatment
 of a process, problem, or operation to determine its purpose and
@@ -280,7 +280,7 @@ P
 -
 
 
-###Qualified SR&ED expenditures
+### Qualified SR&ED expenditures
 
 The term qualified SR&ED expenditure is a term used on [Form T661, Scientific Research and Experimental Development (SR&ED) Expenditures Claim](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html). The term represents all the amounts that qualify for calculating the [investment tax credit](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nvstmnttc) in a tax year, except for repayments of assistance and contract payments made in that year.
 
@@ -288,13 +288,13 @@ The term qualified SR&ED expenditure is a term used on [Form T661, Scientific Re
 
 
 
-###Science
+### Science
 
 Science is a branch of study in which phenomena are observed and
 classified and, usually, in which quantitative and qualitative relations
 are formulated and verified.
 
-###Scientific or technological advancement / scientific advancement /
+### Scientific or technological advancement / scientific advancement /
 advancement of scientific knowledge / technological advancement
 
 
@@ -312,7 +312,7 @@ For more information, please refer to [section 2.1.4 of the Eligibility
 of Work for SR&ED Investment Tax Credits
 Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_4).
 
-###Scientific or technological knowledge base
+### Scientific or technological knowledge base
 
 Scientific or technological knowledge base refers to the existing level
 of
@@ -348,7 +348,7 @@ from company to company.
     accessible to the company.
 4.  The last paragraph was modified for readability.
 
-###Scientific or technological uncertainty / scientific uncertainty /
+### Scientific or technological uncertainty / scientific uncertainty /
 technological uncertainty / technological obstacle
 
 
@@ -358,7 +358,7 @@ Scientific or technological uncertainty means whether a given result or objectiv
 
 
 
-###Style change
+### Style change
 
 A style change is a change in the physical appearance or arrangement of
 an article without altering its utility, efficiency, function, or
@@ -369,7 +369,7 @@ definition of
 [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd).
 
 
-###System uncertainty
+### System uncertainty
 
 System uncertainty is a form of [technological uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty) that can arise from or during the integration of technologies, the components of which are generally well known. This is due to unpredictable interactions between the individual components or sub-systems.
 
@@ -377,13 +377,13 @@ System uncertainty is a form of [technological uncertainty](https://www.canada.c
 
 
 
-###Systematic investigation or search
+### Systematic investigation or search
 
 The systematic investigation or search called for in the definition of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd) is an approach that includes defining a problem, advancing a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss) towards resolving that problem, planning and testing the hypothesis by [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt) or [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss), and developing logical conclusions based on the results. For more information, please refer to [section 2.1.3 of the Eligibility of Work for SR&ED Investment Tax Credits Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_3).
 
 ![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/systemicInvestigation.svg)
 
-###Technology
+### Technology
 
 Technology is the practical application of scientific knowledge and
 principles.
@@ -393,12 +393,12 @@ procedures, design documents, manuals, etc.), it is not a physical
 entity. It is the knowledge of how scientifically determined facts and
 principles are embodied in the material, device, product, or process.
 
-###Testing / routine testing
+### Testing / routine testing
 
 Testing is the application of procedures designed to observe, measure, or verify attributes, properties, or performance. The term routine testing refers to testing performed during the course of normal business operations, for example, testing carried out primarily to determine user acceptance, suitability, marketability, or competitive assessment. Work with respect to routine testing is specifically excluded from the definition of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd). Only the testing work that is [commensurate with the needs](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmnsrt) and [directly in support](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprt) of [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch), [applied research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch) or [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt) is eligible.
 
 
-###Traditional method
+### Traditional method
 
 The traditional method involves specifically identifying and claiming
 all overhead and other expenditures, directly attributable to the SR&ED
