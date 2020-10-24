@@ -25,28 +25,14 @@ This doesn’t have to be a monotonous process.
 Set up your time tracking categories upfront and then let software tools automate the rest.
 Here are some automated time tracking tools to try out this year.
 
-
-TimeCamp
-
-  When switched to automatic mode, all of your time is tracked to tasks using certain keywords. It uploads your tasks and integrates nicely with systems such as Trello, BaseCamp and Asana.
-
-Chrometa
-
-  Automatic tracking that records time spent within all applications, documents, emails, and web pages. It also records time while you’re away and prompts you to make notes.
-
-Desktime
-
-  Automatically tracks your desktop time as productive, unproductive or neutral and enables you to see both individual and organization level analytics. If you’re still tracking time on spreadsheets and aren’t quite ready to automate that process.
-Replicon
-
-  Offers a number of cloud-based time tracking applications that are customizable to your organization’s needs. It’s also integrated with large payroll services such as Ceridian, ADP and SAP.
-Toggl
-
-  Looking for a minimal solution? Toggl is a free time tracking tool that helps you keep track of tasks and only requires one-click to start tracking. It also integrates with popular project management platforms such as BaseCamp, Asana and Trello.
-
-Chime
-
-  Free time tracking tool that easily lets you send updates to team members and measure ongoing progress. It integrates nicely with BamBam!, a task management tool.
+|Tool|Description|
+| --- | --- |
+|TimeCamp| When switched to automatic mode, all of your time is tracked to tasks using certain keywords. It uploads your tasks and integrates nicely with systems such as Trello, BaseCamp and Asana.|
+|Chrometa|Automatic tracking that records time spent within all applications, documents, emails, and web pages. It also records time while you’re away and prompts you to make notes.|
+|Desktime|Automatically tracks your desktop time as productive, unproductive or neutral and enables you to see both individual and organization level analytics. If you’re still tracking time on spreadsheets and aren’t quite ready to automate that process.|
+|Replicon|Offers a number of cloud-based time tracking applications that are customizable to your organization’s needs. It’s also integrated with large payroll services such as Ceridian, ADP and SAP.|
+|Toggl|Looking for a minimal solution? Toggl is a free time tracking tool that helps you keep track of tasks and only requires one-click to start tracking. It also integrates with popular project management platforms such as BaseCamp, Asana and Trello.|
+|Chime|Free time tracking tool that easily lets you send updates to team members and measure ongoing progress. It integrates nicely with BamBam!, a task management tool.|
 
 
 Stop Discussing Project Details Over Email
@@ -57,18 +43,11 @@ It’s also very time consuming to stay on top of organizing your email into fol
 Save yourself the headache of having to dig through your inbox for SR&ED-related communications and start recording notes in one central location.
 Here are some useful tools to improve your project communication efforts and keep those notes out of your inbox.
 
-
-Slack
-
-  Great, easy to use platform for team communication. You can organize conversations around one topic or project, which makes it easy to streamline documentation or do a quick keyword search. It also integrates with a number of tools such as Github, code reviewer Code Climate, and bug tracker Bugsnag, to name a few.
-
-HipChat
-
-  Another alternative chat platform that enables one to one chat or groups. There is also video calling, screen sharing and enhanced security.
-
-Producteev
-
-  Great platform that does real-time updates on projects and can help you manage your to-do lists.
+|Tool|Description|
+|---|---|
+|Slack|Great, easy to use platform for team communication. You can organize conversations around one topic or project, which makes it easy to streamline documentation or do a quick keyword search. It also integrates with a number of tools such as Github, code reviewer Code Climate, and bug tracker Bugsnag, to name a few.|
+|HipChat|Another alternative chat platform that enables one to one chat or groups. There is also video calling, screen sharing and enhanced security.|
+|Producteev|Great platform that does real-time updates on projects and can help you manage your to-do lists.|
 
 Schedule  Fifteen Minute Check-in Meetings in the Afternoon
 --------------------------------------------------------------------
