@@ -10,11 +10,22 @@ SR&ED Overview
 
 SR&ED stands for Scientific Research and Experimental Development.
 
-|---|---|
-|Experimental Development|Work undertaken to achieve technological advances for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements.|
-|Income Tax Act 248(1)| Tax Incentive to stimulate Innovation in Canada 018: ~ $3.2 B delivered to 20,000 companies. Direct increase to your company’s bottom line The CRA is a customer: lets meet their needs too!|
-|SR&ED Scope|Architecture, Development, Testing & Analysis, and Project Management.
-|SR&ED Criteria| 1. technological uncertainty\ 1. what was so hard\1. results unpredictable\1. did not know the best technological  approach.|
+
+Experimental Development
+
+Work undertaken to achieve technological advances for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements.
+
+Income Tax Act 248(1)
+
+Tax Incentive to stimulate Innovation in Canada 018: ~ $3.2 B delivered to 20,000 companies. Direct increase to your company’s bottom line The CRA is a customer: lets meet their needs too!
+
+SR&ED Scope
+
+Architecture, Development, Testing & Analysis, and Project Management.
+
+SR&ED Criteria
+
+ ![x]  technological uncertainty\ ![x]  what was so hard\![x]  results unpredictable\![x]  did not know the best technological  approach.|
 
 Technological Content
 1. What did you do?
