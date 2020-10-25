@@ -25,59 +25,66 @@ Architecture, Development, Testing & Analysis, and Project Management.
 
 SR&ED Criteria
 
- ![x]  technological uncertainty\ ![x]  what was so hard\![x]  results unpredictable\![x]  did not know the best technological  approach.|
+ ![x]  technological uncertainty
+ ![x]  what was so hard
+ ![x]  results unpredictable
+ ![x]  did not know the best technological  approach.
 
 Technological Content
-1. What did you do?
-1. A *systematic investigation* by qualified personnel.
+
+![x]  What did you do?
+![x]  A *systematic investigation* by qualified personnel.
 
 ![Note]Not trial and error.
 
 Technological Advancement
-1. what did you learn?
-1. advance state of knowledge in a field of tech.
-1. advance underlying technology
-1. advance within the ‘context’ of your business
+
+![x]  what did you learn?
+![x]  advance state of knowledge in a field of tech.
+![x]  advance underlying technology
+![x]  advance within the ‘context’ of your business
 
 Supporting Documentation
 --------------------------------
 
 SR&ED Eligible Projects
-1. projects that advance what's *under the hood*
-1. design patterns – to gain more flexibility, efficiency, reliability, ease of maintenance.
-1. languages, plug-ins, libraries, and protocols
-1. significant extensions and different translators
-1. applications software development
-1. developing systems for particular uses
-1. new combinations of known programming principles to overcome constraints
-1. data, hardware, and application integration
-1. algorithms to achieve significantly better operations
-1. new object representation or data structures
-1. any attempts at new approaches, new mechanisms, new architectures, development of tools, or
-1. development of technology layers to enhance existing technologies at your company
+
+![x]  projects that advance what's *under the hood*
+![x]  design patterns – to gain more flexibility, efficiency, reliability, ease of maintenance.
+![x]  languages, plug-ins, libraries, and protocols
+![x]  significant extensions and different translators
+![x]  applications software development
+![x]  developing systems for particular uses
+![x]  new combinations of known programming principles to overcome constraints
+![x]  data, hardware, and application integration
+![x]  algorithms to achieve significantly better operations
+![x]  new object representation or data structures
+![x]  any attempts at new approaches, new mechanisms, new architectures, development of tools, or
+![x]  development of technology layers to enhance existing technologies at your company
 
 
 ![Note]Success is not a criteria: Failure is OK. You still learned something.
 
 SR&ED Non-Eligible Projects
-1. incremental addition of features and functions
-1. configuration of existing hardware and software systems
-1. software upgrade or maintenance
-1. routine system development
-1. does not go further than existing techniques and tools within capabilities
-1. evaluating, buying, and configuring 3 rd party tools
-1. refactoring/code optimization
-1. fine tuning
-1. debugging
+
+![x]  incremental addition of features and functions
+![x]  configuration of existing hardware and software systems
+![x]  software upgrade or maintenance
+![x]  routine system development
+![x]  does not go further than existing techniques and tools within capabilities
+![x]  evaluating, buying, and configuring 3 rd party tools
+![x]  refactoring/code optimization
+![x]  fine tuning
+![x]  debugging
 
 How Do I Identify SR&ED
 ---------------------------------------
 
 
 Focus on Constraints
-1. risk
-1. a project may be very valuable for our business: it may be novel, it may not exist on the market, etc...
-1. but for SR&ED we must have a Technological Obstacle to overcome.
+![x]  risk
+![x]  a project may be very valuable for our business: it may be novel, it may not exist on the market, etc...
+![x]  but for SR&ED we must have a Technological Obstacle to overcome.
 
 
 ### SR&ED Constraints Technological Obstacle
@@ -87,122 +94,131 @@ Focus on Constraints
 
 
 Work Performed
-1. collecting, storing, manipulating, and communicating data using systems
-1. it is how the data is manipulated, organized or communicated, and whether the methodology represents an advance over common methods
-1. determining that a technique, construct, methodology, will or will not work can constitute an advancement
-1. advancements can occur in knowledge of new techniques, or understanding how best to use them, and which solutions, techniques, are appropriate for which purposes.
-1. constraints and technological challenges are often due to the nature of the tools, which technologies are to be used, and/or the environment in which the component/library/framework is to be used.
-1. often only your company’s developers can understand or explain this, not auditors, and support documentation is needed.
+
+![x]  collecting, storing, manipulating, and communicating data using systems
+![x]  it is how the data is manipulated, organized or communicated, and whether the methodology represents an advance over common methods
+![x]  determining that a technique, construct, methodology, will or will not work can constitute an advancement
+![x]  advancements can occur in knowledge of new techniques, or understanding how best to use them, and which solutions, techniques, are appropriate for which purposes.
+![x]  constraints and technological challenges are often due to the nature of the tools, which technologies are to be used, and/or the environment in which the component/library/framework is to be used.
+![x]  often only your company’s developers can understand or explain this, not auditors, and support documentation is needed.
 
 
 
 Software SR&ED Constraints
-1. architectures (size, technology used)
-1. inter-operability, integration, third party components
-1. conformance to standards or legacy requirements
-1. resources and services
-1. performance (step response, throughput)
-1. concurrency
-1. footprint
-1. scalability/portability
-1. stability (MTBF)
-1. system uncertainty
-1. competing constraints/ non-deterministic environments
-1. lack of insight to determine parameters of a *black-box*
+
+![x]  architectures (size, technology used)
+![x]  inter-operability, integration, third party components
+![x]  conformance to standards or legacy requirements
+![x]  resources and services
+![x]  performance (step response, throughput)
+![x]  concurrency
+![x]  footprint
+![x]  scalability/portability
+![x]  stability (MTBF)
+![x]  system uncertainty
+![x]  competing constraints/ non-deterministic environments
+![x]  lack of insight to determine parameters of a *black-box*
 
 Which Activities are Tracked?
-1. SR&ED eligible activities
-1. Direct supervision of SR&ED
-1. Recording measurements/results
-1. Preparing equipment, testing, and analyses (server setup, network setup) - Making calculations
-1. Developing algorithms Experimenting and testing (software development) - Conducting statistical surveys and interviews
-1. Design and software architecture
-1. Software Engineering
-1. Mathematical analysis
-1. Software development
+
+![x]  SR&ED eligible activities
+![x]  Direct supervision of SR&ED
+![x]  Recording measurements/results
+![x]  Preparing equipment, testing, and analyses (server setup, network setup) - Making calculations
+![x]  Developing algorithms Experimenting and testing (software development) - Conducting statistical surveys and interviews
+![x]  Design and software architecture
+![x]  Software Engineering
+![x]  Mathematical analysis
+![x]  Software development
 
 
 Eligible Support Activities
-1. collecting data for analysis
-1. analyzing test results, requirements
-1. technological planning for SR&ED
-1. assignment of technological personnel |---| testing
-1. development of technological strategies |---| job priority technological documentation for internal use/ip (design/code/test specs, and the like.
+
+![x]  collecting data for analysis
+![x]  analyzing test results, requirements
+![x]  technological planning for SR&ED
+![x]  assignment of technological personnel |---| testing
+![x]  development of technological strategies |---| job priority technological documentation for internal use/ip (design/code/test specs, and the like.
 
 Which Activities Are Not SR&ED
-1. administrative training
-1. collecting and analysing market data (marketing)
-1. preparation of user manuals
-1. routine uat/quality control
-1. non SR&ED clerical and administrative support.
+
+![x]  administrative training
+![x]  collecting and analysing market data (marketing)
+![x]  preparation of user manuals
+![x]  routine uat/quality control
+![x]  non SR&ED clerical and administrative support.
 
 NOT incremental to SR&ED (Covered by Proxy Amount)
-1. personnel support (hr)
-1. accounting
-1. maintenance
-1. purchasing
-1. it or finance leadership team.
+
+![x]  personnel support (hr)
+![x]  accounting
+![x]  maintenance
+![x]  purchasing
+![x]  it or finance leadership team.
 
 How and Where Do We Track SR&ED Data
-1. project plan progress reports
-1. minutes of project
-1. meetings
-1. item of work
-1. records of resources allocated to the project
-1. timesheets test protocols
-1. data
-1. analysis of test
-1. results
-1. conclusions
-1. Design of Experiments Photos and videos
-1. records
-1. notebooks
-1. developer log book samples
-1. prototypes
-1. scrap and other artifacts
-1. design specifications
-1. system architecture and source code versions contracts
-1. invoices
-1. statement of work
-1. records of trial runs others |---| e-mail, blog, wiki, and the like
-1. forum/vendor/Stackoverflow posts
-1. timesheets
-1. JIRA,
-1. Trello,
-1. Slack tickets
-1. Git commits,
-1. source control versions
-1. system/architecture design docs.
+
+![x]  project plan progress reports
+![x]  minutes of project
+![x]  meetings
+![x]  item of work
+![x]  records of resources allocated to the project
+![x]  timesheets test protocols
+![x]  data
+![x]  analysis of test
+![x]  results
+![x]  conclusions
+![x]  Design of Experiments Photos and videos
+![x]  records
+![x]  notebooks
+![x]  developer log book samples
+![x]  prototypes
+![x]  scrap and other artifacts
+![x]  design specifications
+![x]  system architecture and source code versions contracts
+![x]  invoices
+![x]  statement of work
+![x]  records of trial runs others |---| e-mail, blog, wiki, and the like
+![x]  forum/vendor/Stackoverflow posts
+![x]  timesheets
+![x]  JIRA,
+![x]  Trello,
+![x]  Slack tickets
+![x]  Git commits,
+![x]  source control versions
+![x]  system/architecture design docs.
 
 Item of Work
-1. monthly with each technical lead
-1. short-form capture of technical issues
-1. is required to link the work performed to time tracking.
+![x]  monthly with each technical lead
+![x]  short-form capture of technical issues
+![x]  is required to link the work performed to time tracking.
 
 
 In Time Tracking
-1. project code (general)
-1. task code (not specific enough)
-1. description of work done during task, related to removing constraints and issues.
-1. link to obstacles.
-1. can clearly define advancement.
+![x]  project code (general)
+![x]  task code (not specific enough)
+![x]  description of work done during task, related to removing constraints and issues.
+![x]  link to obstacles.
+![x]  can clearly define advancement.
 
 Usual Claim Timeline Proactively During Year
-1. identify SR&ED projects upfront (technological strategy)
-1. identify SR&ED projects on-the-fly (PM/architects/developers)
-1. R&D / issue meetings
-1. log your hours so they can be claimed (All)
-1. document SRED Items of Work and eligible activities (technical leads)
-1. save some documentation regarding the issue reactively during year
-1. SR&ED status meetings: quarterly
-1. identify eligible work
-1. assign key contact to
-1. identify and prepare ‘item of work’ documents
-1. year end
-1. collect the saved SR&ED data
-1. finalize reports
-1. link costs
-1. submit.
+
+
+![x]  identify SR&ED projects upfront (technological strategy)
+![x]  identify SR&ED projects on-the-fly (PM/architects/developers)
+![x]  R&D / issue meetings
+![x]  log your hours so they can be claimed (All)
+![x]  document SRED Items of Work and eligible activities (technical leads)
+![x]  save some documentation regarding the issue reactively during year
+![x]  SR&ED status meetings: quarterly
+![x]  identify eligible work
+![x]  assign key contact to
+![x]  identify and prepare ‘item of work’ documents
+![x]  year end
+![x]  collect the saved SR&ED data
+![x]  finalize reports
+![x]  link costs
+![x]  submit.
 
 
 [Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
