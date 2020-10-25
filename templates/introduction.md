@@ -15,11 +15,15 @@ The Wiki provides an excellent overview of the SR&ED process from first steps to
 In the end,
 you will understand that SR&ED is a state of mind that must be sustained throughout the fiscal year.
 It's about building things,
-both tangible technology and the knowledge advancement in science and technology.
+both tangible technology and knowledge advancement in science or technology.
 
 The real key to the whole process is slowly walking through it,
 concentrating on one definition at a time,
 then concatenating them into a well edited and succinct application.
+
+The template is broken into separate files which allow you to focus on precisely what you need to focus on.
+
+
 
 
 
