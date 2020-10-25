@@ -210,3 +210,5 @@ Usual Claim Timeline Proactively During Year
 [Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/dart.png
 
 [Example]:https://github.com/seenthattinker/Conceptinero/blob/master/images/example.png
+
+[x]:https://github.com/seenthattinker/Conceptinero/blob/master/images/x.jpg
