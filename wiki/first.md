@@ -137,8 +137,8 @@ Eligible Support Activities
 ![x]  collecting data for analysis
 ![x]  analyzing test results, requirements
 ![x]  technological planning for SR&ED
-![x]  assignment of technological personnel |---| testing
-![x]  development of technological strategies |---| job priority technological documentation for internal use/ip (design/code/test specs, and the like.
+![x]  assignment of technological personnel &mdash; testing
+![x]  development of technological strategies &mdash; job priority technological documentation for internal use/ip (design/code/test specs, and the like.
 
 Which Activities Are Not SR&ED
 
@@ -178,7 +178,7 @@ How and Where Do We Track SR&ED Data
 ![x]  system architecture and source code versions contracts
 ![x]  invoices
 ![x]  statement of work
-![x]  records of trial runs others |---| e-mail, blog, wiki, and the like
+![x]  records of trial runs others &mdash; e-mail, blog, wiki, and the like
 ![x]  forum/vendor/Stackoverflow posts
 ![x]  timesheets
 ![x]  JIRA,

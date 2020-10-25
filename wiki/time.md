@@ -44,7 +44,7 @@ Save yourself the headache of having to dig through your inbox for SR&ED-related
 Here are some useful tools to improve your project communication efforts and keep those notes out of your inbox.
 
 |Tool|Description|
-|---|---|
+&mdash;---|
 |Slack|Great, easy to use platform for team communication. You can organize conversations around one topic or project, which makes it easy to streamline documentation or do a quick keyword search. It also integrates with a number of tools such as Github, code reviewer Code Climate, and bug tracker Bugsnag, to name a few.|
 |HipChat|Another alternative chat platform that enables one to one chat or groups. There is also video calling, screen sharing and enhanced security.|
 |Producteev|Great platform that does real-time updates on projects and can help you manage your to-do lists.|
