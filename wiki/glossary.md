@@ -26,7 +26,7 @@ Analysis is the detailed examination of information to differentiate the various
 
 
 
-### Note**\
+![Note]
 The following is the explanation of changes to this term as of April 24,
 2015.
 
