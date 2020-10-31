@@ -26,7 +26,7 @@ Analysis is the detailed examination of information to differentiate the various
 
 
 
-![Note]
+### Note**\
 The following is the explanation of changes to this term as of April 24,
 2015.
 
@@ -348,9 +348,7 @@ from company to company.
     accessible to the company.
 4.  The last paragraph was modified for readability.
 
-### Scientific or technological uncertainty / scientific uncertainty /
-technological uncertainty / technological obstacle
-
+### Scientific or technological uncertainty
 
 Scientific or technological uncertainty means whether a given result or objective can be achieved or how to achieve it, is not known or determined on the basis of generally available scientific or technological knowledge or experience. This definition encompasses the definition of scientific uncertainty, technological uncertainty and technological obstacle. The only difference is that scientific uncertainty relates to [science](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scn) whereas technological uncertainty and technological obstacle relate to [technology](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tchnlgy).
 
