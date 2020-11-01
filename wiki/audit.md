@@ -370,7 +370,7 @@ New product development, by itself, is always eligible. Wrong.
 1. Because these are not necessarily the outcome of experimental development.
 
 
-[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
+[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/faq.png
 
 [Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/attention.jpeg
 

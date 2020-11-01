@@ -221,7 +221,7 @@ Usual Claim Timeline Proactively During Year
 ![x]  submit.
 
 
-[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
+[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/faq.png
 
 [Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/dart.png
 
