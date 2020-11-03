@@ -10,4 +10,4 @@ Just write everything you need to write to be clear.
 Definitions
 --------------
 
-[Uncertainty](wiki/glossary.md#scientific-or-technological-uncertainty)
+[Uncertainty](https://github.com/seenthattinker/Conceptinero/blob/master/wiki/glossary.md#scientific-or-technological-uncertainty)
