@@ -77,7 +77,7 @@ but to expand on your team’s existing efforts so that they can continue to foc
 
 
 
-[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/folder.png
+[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
 
 [Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/dart.png
 

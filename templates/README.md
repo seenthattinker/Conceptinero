@@ -32,7 +32,7 @@ The template is broken into separate files which allow you to focus on precisely
 
 
 
-[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/folder.png
+[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
 
 [Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/attention.jpeg
 
