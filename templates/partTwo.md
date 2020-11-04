@@ -6,7 +6,9 @@ T661 Part Two
 
 
 
-
+Take as many words as you need to fully express this as you see fit.
+It can be edited down to 700 words without losing any of the meaning or detail.
+Ensure you clearly understand the primary definition of the section.
 
 
 
