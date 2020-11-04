@@ -1199,7 +1199,7 @@ changes](https://www.canada.ca/en/revenue-agency/services/scientific-research-ex
 or
 
 ![x]  [routine data
-collection](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dtcllctn);*
+collection](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dtcllctn).*
 
 The following sections provide additional details on how to determine
 the extent of SR&ED work based on the definition of SR&ED in the Act.
@@ -1264,13 +1264,13 @@ must be the following:
     research, or experimental development work undertaken in Canada.
 
 It must be with respect to one of the eight categories of work following:
-    ![x] [engineering](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ngnrng);
-    ![x] [design](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dsgn);
-    ![x] [operations research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prtns);
-    ![x] [mathematical analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#mthmtcl);
-    ![x] [computer programming](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmptr);
-    ![x] [data collection](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dtcllctn);
-    ![x] [testing](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tstng);
+    ![x] [engineering](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ngnrng)
+    ![x] [design](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dsgn)
+    ![x] [operations research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prtns)
+    ![x] [mathematical analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#mthmtcl)
+    ![x] [computer programming](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmptr)
+    ![x] [data collection](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dtcllctn)
+    ![x] [testing](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tstng)
         or
     ![x] [psychological research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#psycrsrch).
 
