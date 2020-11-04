@@ -144,7 +144,7 @@ and things like this.
 
 
 
--[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/folder.png
+[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/folder.png
 
 [Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/dart.png
 
