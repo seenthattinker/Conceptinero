@@ -20,4 +20,8 @@ Definitions
 Concepts
 --------------------
 
-[Five questions](https://github.com/seenthattinker/Conceptinero/blob/master/wiki/sredEligible.md#determine-if-there-is-sr&ed)
+[Determine if there is SR&ED](https://github.com/seenthattinker/Conceptinero/blob/master/wiki/sredEligible.md#determine-if-there-is-sr&ed)
+
+[Basic research](https://github.com/seenthattinker/Conceptinero/blob/master/wiki/sredEligible.md#basic-research)
+
+[Applied research](https://github.com/seenthattinker/Conceptinero/blob/master/wiki/sredEligible.md#applied-research)
