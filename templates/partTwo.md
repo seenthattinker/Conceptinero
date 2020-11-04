@@ -16,3 +16,8 @@ Definitions
 -----------------
 
 [Systematic investigation or search](https://github.com/seenthattinker/Conceptinero/blob/master/wiki/glossary.md#systematic-investigation-or-search)
+
+Concepts
+--------------------
+
+[Five questions](https://github.com/seenthattinker/Conceptinero/blob/master/wiki/sredEligible.md#determine-if-there-is-sr&ed)
