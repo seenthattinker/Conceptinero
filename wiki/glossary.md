@@ -406,7 +406,7 @@ For more information, please refer to the [Traditional and Proxy Methods
 Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/traditional-proxy-methods-policy.html).
 
 
-[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/faq.png
+[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/folder.png
 
 [Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/attention.jpeg
 
