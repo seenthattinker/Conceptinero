@@ -13,12 +13,6 @@ The main SR&ED website is [SR&ED](https://www.canada.ca/en/revenue-agency/servic
 This is a replica of the government's website material.
 Our notes are separated from the main text as follows.
 
-![Note] This is a note. When you see this icon Conceptinero is commenting on the content.
-
-
-
-
-
 
 This document clarifies what work constitutes scientific research and
 experimental development (SR&ED). It is directed at personnel who
@@ -30,6 +24,26 @@ performed, are familiar with, or are responsible for the work.
 
 What is SR&ED?
 ------------------
+
+The way the government talks about the scientific research and experimental development Grant/tax credit sounds a little bit like the encrypted language of 15th century Alchemists.
+It kind of sounds like a formula but it doesn't really add up to a formula.
+There is no mathematical precision in applying for this tax credit.
+The best way to think about it is as a story.
+
+
+It's one of the oldest stories ever told.
+It's the basis of a good percentage of our mythology and the cultural habit of storytelling.
+It's everywhere,
+from Homer in the Odyssey to Bruce Willis in Die Hard.
+I'm talking about the hero's journey.
+The twentieth century mythologist,
+Joseph Campbell,
+theorized that human beings wanted to live a heroic journey.
+Even if we only live that journey through the exploits of others.
+Campbell would have us believe that it's in our DNA.
+
+![heroic](https://github.com/seenthattinker/Conceptinero/blob/master/images/1024px-Heroesjourney.svg.png)
+
 
 Scientific research and experimental development (SR&ED) is defined for
 income tax purposes in subsection 248(1) of the *Income Tax Act* as
