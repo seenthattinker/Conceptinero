@@ -44,9 +44,7 @@ even open source.
 ## 244 – What work did you perform in the tax year to overcome those technological obstacles?   700 words max - 100 lines of 78 characters
 
 In the 2019 fiscal period,
-
 we continued work by attempting to overcome our e-commerce model limitations by integrating a better payment model.
-
 Payment transaction abstraction must occur,
 as there are currently too many payment transactions among too many nodes to be secure using known technologies.
 Our hypothesis is that we could allow this payment process to be simpler with less steps,
