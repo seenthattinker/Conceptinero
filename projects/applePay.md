@@ -11,38 +11,22 @@ as well as technological problems and unknown elements,
 as described below:
 
 Typically we are faced with using a tried and true e-commerce model for purchasing products,
-
 but we quickly realized that this was not scalable,
-
 and inadequate for the number of unique edge cases our platform required.
-
 We hypothesized we could potentially develop an event and schedule-based hybrid application model to accomplish this.
-
-
 We commenced work to overcome obstacles related to the workflow customization process,
-
 within the typical checkout cart process.
-
 We analysed the process to attempt to develop an approach,
-
 such as event-based modules,
-
 which would allow adjustment of the order status and data within the cart,
-
 and allow these events to be created scheduled,
-
 and repeated.
 
 It was uncertain how we would integrate with many reporting,
-
 device,
-
 and system meta data processes and tools.
-
 We were uncertain how to develop a middleware layer to achieve this,
-
 while maintaining control and security of data,
-
 as well as overcoming transaction performance issues.
 
 
