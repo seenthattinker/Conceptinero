@@ -45,7 +45,10 @@ theorized that human beings wanted to live a heroic journey.
 Even if we only live that journey through the exploits of others.
 Campbell would have us believe that it's in our DNA.
 
-![heroic](https://github.com/seenthattinker/Conceptinero/blob/master/images/1024px-Heroesjourney.svg.png)
+Anyway,
+it turns out the heroic journey and a SR&ED application have a lot in common.
+
+![heroic](https://github.com/seenthattinker/Conceptinero/blob/master/images/heroCommentary.svg)
 
 
 
