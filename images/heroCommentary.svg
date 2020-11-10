@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="heroCommentary.svg">
+   sodipodi:docname="heroCommentary.svg"
+   inkscape:export-filename="/home/bruce/Conceptinero/images/heroCommentary.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -55,11 +58,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <image
-       y="101.4874"
-       x="36.936672"
-       id="image8398"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQFCAQAAACF2XK7AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+    <g
+       id="g20334">
+      <image
+         width="135.69208"
+         height="136.35464"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAQFCAQAAACF2XK7AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
 AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAIAASURB
 VHja7J11nBVV/8ffdxd2aZAuKQUVAQNbMbADfQzUn4HNY3cnPuZjY/vY3YmJ3YWIioggZVPSsTm/
 P3b27nTc2L337uc9rxfsnTnnzMx3zpzzmRPfA0IIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGE
@@ -1179,130 +1185,130 @@ QgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIUS1+H+sCVNUKzAhMQAAACV0RVh0ZGF0ZTpjcmVh
 dGUAMjAyMC0wMy0wN1QwODo1OTo0NiswMDowMGLodwsAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAt
 MDMtMDdUMDg6NTk6NDYrMDA6MDATtc+3AAAAAElFTkSuQmCC
 "
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
-       height="136.35464"
-       width="135.69208" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="128.53362"
-       y="109.60291"
-       id="text20035-3"><tspan
-         sodipodi:role="line"
-         id="tspan20033-2"
-         x="128.53362"
+         id="image8398"
+         x="36.936672"
+         y="101.4874" />
+      <text
+         id="text20035-3"
          y="109.60291"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">uncertainty</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="164.89943"
-       y="124.2491"
-       id="text20077"><tspan
-         sodipodi:role="line"
-         id="tspan20075"
-         x="164.89943"
+         x="128.53362"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="109.60291"
+           x="128.53362"
+           id="tspan20033-2"
+           sodipodi:role="line">uncertainty</tspan></text>
+      <text
+         id="text20077"
          y="124.2491"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">creativity</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="178.28238"
-       y="141.48557"
-       id="text20099"><tspan
-         sodipodi:role="line"
-         id="tspan20097"
-         x="178.28238"
+         x="164.89943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="124.2491"
+           x="164.89943"
+           id="tspan20075"
+           sodipodi:role="line">creativity</tspan></text>
+      <text
+         id="text20099"
          y="141.48557"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">investigation</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="179.29193"
-       y="159.60199"
-       id="text20099-2"><tspan
-         sodipodi:role="line"
-         id="tspan20097-9"
-         x="179.29193"
+         x="178.28238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="141.48557"
+           x="178.28238"
+           id="tspan20097"
+           sodipodi:role="line">investigation</tspan></text>
+      <text
+         id="text20099-2"
          y="159.60199"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">hypothesis</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="168.93694"
-       y="188.97073"
-       id="text20099-5"><tspan
-         sodipodi:role="line"
-         id="tspan20097-8"
-         x="168.93694"
+         x="179.29193"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="159.60199"
+           x="179.29193"
+           id="tspan20097-9"
+           sodipodi:role="line">hypothesis</tspan></text>
+      <text
+         id="text20099-5"
          y="188.97073"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">experiment</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="156.8176"
-       y="204.12749"
-       id="text20099-6"><tspan
-         sodipodi:role="line"
-         id="tspan20097-2"
-         x="156.8176"
+         x="168.93694"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="188.97073"
+           x="168.93694"
+           id="tspan20097-8"
+           sodipodi:role="line">experiment</tspan></text>
+      <text
+         id="text20099-6"
          y="204.12749"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">analysis</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="104.29164"
-       y="241.38524"
-       id="text20099-60"><tspan
-         sodipodi:role="line"
-         id="tspan20097-88"
-         x="104.29164"
+         x="156.8176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="204.12749"
+           x="156.8176"
+           id="tspan20097-2"
+           sodipodi:role="line">analysis</tspan></text>
+      <text
+         id="text20099-60"
          y="241.38524"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">bust</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="34.597584"
-       y="207.70094"
-       id="text20099-1"><tspan
-         sodipodi:role="line"
-         id="tspan20097-5"
-         x="34.597584"
+         x="104.29164"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="241.38524"
+           x="104.29164"
+           id="tspan20097-88"
+           sodipodi:role="line">bust</tspan></text>
+      <text
+         id="text20099-1"
          y="207.70094"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">refined hypothesis</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="26.262745"
-       y="188.83823"
-       id="text20099-11"><tspan
-         sodipodi:role="line"
-         id="tspan20097-22"
-         x="26.262745"
+         x="34.597584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="207.70094"
+           x="34.597584"
+           id="tspan20097-5"
+           sodipodi:role="line">refined hypothesis</tspan></text>
+      <text
+         id="text20099-11"
          y="188.83823"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">refined experiment</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="27.527004"
-       y="164.51991"
-       id="text20099-9"><tspan
-         sodipodi:role="line"
-         id="tspan20097-3"
-         x="27.527004"
+         x="26.262745"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="188.83823"
+           x="26.262745"
+           id="tspan20097-22"
+           sodipodi:role="line">refined experiment</tspan></text>
+      <text
+         id="text20099-9"
          y="164.51991"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">refined analysis</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="35.103153"
-       y="135.82596"
-       id="text20099-8"><tspan
-         sodipodi:role="line"
-         id="tspan20097-32"
-         x="35.103153"
+         x="27.527004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="164.51991"
+           x="27.527004"
+           id="tspan20097-3"
+           sodipodi:role="line">refined analysis</tspan></text>
+      <text
+         id="text20099-8"
          y="135.82596"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332">manifestation</tspan></text>
+         x="35.103153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:'Ænigma Scrawl 4 BRK';-inkscape-font-specification:'Ænigma Scrawl 4 BRK, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:0.26458332"
+           y="135.82596"
+           x="35.103153"
+           id="tspan20097-32"
+           sodipodi:role="line">manifestation</tspan></text>
+    </g>
   </g>
 </svg>
