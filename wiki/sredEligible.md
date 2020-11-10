@@ -25,7 +25,9 @@ performed, are familiar with, or are responsible for the work.
 What is SR&ED?
 ------------------
 
-The way the government talks about the scientific research and experimental development Grant/tax credit sounds a little bit like the encrypted language of 15th century Alchemists.
+### In our words
+
+The way the government talks about the scientific research and experimental development grant/tax credit sounds a little bit like the encrypted language of 15th century alchemists.
 It kind of sounds like a formula but it doesn't really add up to a formula.
 There is no mathematical precision in applying for this tax credit.
 The best way to think about it is as a story.
@@ -34,8 +36,9 @@ The best way to think about it is as a story.
 It's one of the oldest stories ever told.
 It's the basis of a good percentage of our mythology and the cultural habit of storytelling.
 It's everywhere,
-from Homer in the Odyssey to Bruce Willis in Die Hard.
-I'm talking about the hero's journey.
+from Homer in *The Odyssey* to Bruce Willis in *Die Hard*.
+&mdash;
+the hero's journey.
 The twentieth century mythologist,
 Joseph Campbell,
 theorized that human beings wanted to live a heroic journey.
@@ -43,6 +46,11 @@ Even if we only live that journey through the exploits of others.
 Campbell would have us believe that it's in our DNA.
 
 ![heroic](https://github.com/seenthattinker/Conceptinero/blob/master/images/1024px-Heroesjourney.svg.png)
+
+
+
+
+### In their words
 
 
 Scientific research and experimental development (SR&ED) is defined for
