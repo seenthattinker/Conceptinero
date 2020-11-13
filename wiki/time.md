@@ -1,4 +1,4 @@
-![](https://github.com/seenthattinker/Conceptinero/blob/master/images/conceptinero-funding-ideas-logo-white-383w.webp)
+
 
 
 Time Tracking
@@ -74,13 +74,3 @@ Be sure to review your current time tracking and documentation methods with your
 They can recommend tweaks to your existing methods to ensure that your team’s documentation will meet the CRA’s strict documentation standards.
 The goal of reviewing this information is not to introduce brand new systems,
 but to expand on your team’s existing efforts so that they can continue to focus on doing what they do best and you can rest assured your documentation will support your claim in case of a CRA review.
-
-
-
-[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
-
-[Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/dart.png
-
-[Example]:https://github.com/seenthattinker/Conceptinero/blob/master/images/example.png
-
-[Law]:https://github.com/seenthattinker/Conceptinero/blob/master/images/law-pic.jpg

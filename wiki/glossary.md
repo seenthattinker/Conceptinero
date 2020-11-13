@@ -1,5 +1,5 @@
 
-![](https://github.com/seenthattinker/Conceptinero/blob/master/images/conceptinero-funding-ideas-logo-white-383w.webp)
+
 
 SR&ED Glossary
 ==============
@@ -22,7 +22,7 @@ A
 Analysis is the detailed examination of information to differentiate the various parts of a whole, determine their attributes, or explain their relationships. It is performed against the background of available knowledge and experience and it involves using tools such as models, graphs, statistics, tables, diagrams, mathematical formulas, and computer programs to express this knowledge or experience. Analysis is an integral part of the [systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv) and it can be used to generate or test a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss).
 
 
-![Analysis](https://github.com/seenthattinker/Conceptinero/blob/master/images/analysis.svg)
+![Analysis](/images/analysis.svg)
 
 
 
@@ -39,7 +39,7 @@ Applied research is work undertaken for the [advancement of scientific knowledg
 with a specific practical application in view.
 
 
-![Research](![Analysis](https://github.com/seenthattinker/Conceptinero/blob/master/images/analysis.svg))
+![Analysis](/images/analysis.svg))
 
 
 B
@@ -86,9 +86,9 @@ Design is work to transform concepts and ideas into a plan.
 
 An [expenditure of a current nature](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#crrntntr) is directly attributable to the prosecution of SR&ED if it is:
 
-![x]  the cost of materials consumed or transformed in such prosecution (please refer to the [Materials for SR&ED Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/materials-policy.html)); for an employee who directly undertakes, supervises or supports the prosecution of SR&ED that would be, the portion of salaries or wages incurred, to the extent the amount can reasonably be considered in respect of such prosecution (please refer to the [SR&ED Salary or Wages Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/salary-wages-policy.html)) ; and
+- the cost of materials consumed or transformed in such prosecution (please refer to the [Materials for SR&ED Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/materials-policy.html)); for an employee who directly undertakes, supervises or supports the prosecution of SR&ED that would be, the portion of salaries or wages incurred, to the extent the amount can reasonably be considered in respect of such prosecution (please refer to the [SR&ED Salary or Wages Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/salary-wages-policy.html)) ; and
 
-![x]  for other expenditures that are, an expenditure, or portion of an
+- for other expenditures that are, an expenditure, or portion of an
     expenditure, that is directly related to the prosecution of SR&ED
     and that would not have been incurred if such prosecution had not
     occurred. For more information on other expenditures (please refer
@@ -102,10 +102,10 @@ The following expenditures are directly attributable to the provision of
 premises, facilities or equipment for the prosecution of SR&ED in
 Canada:
 
-![x]  the cost of the maintenance and upkeep of such premises, facilities
+- the cost of the maintenance and upkeep of such premises, facilities
     or equipment; and
 
-![x]  other expenditures, or those portions of other expenditures, that
+- other expenditures, or those portions of other expenditures, that
     are directly related to that provision and that would not have been
     incurred if those premises or facilities or that equipment had not
     existed
@@ -234,24 +234,24 @@ wants, needs, and desires; and to analyze competition.
 
 Market research includes work such as:
 
-![x]  examining such factors as buying habits, use of leisure time,
+- examining such factors as buying habits, use of leisure time,
     consumer needs or wants, and attitudes toward existing products and
     new products being test-marketed;
 
-![x]  market development and market verification;
+- market development and market verification;
 
-![x]  general market identification;
+- general market identification;
 
-![x]  market demonstration;
+- market demonstration;
 
-![x]  identifying market preference;
+- identifying market preference;
 
-![x]  developing customer acceptance;
+- developing customer acceptance;
 
-![x]  gathering and evaluating data about consumers' preferences for
+- gathering and evaluating data about consumers' preferences for
     products and services; and
 
-![x]  studying the requirements of specific markets, the acceptability of
+- studying the requirements of specific markets, the acceptability of
     products, and methods of developing and exploiting new markets.
 
 Work with respect to market research is specifically excluded from the
@@ -322,10 +322,10 @@ within the company and sources available publicly.
 
 The resources within the company include:
 
-![x]  technical knowledge, education, training, and experience of its
+- technical knowledge, education, training, and experience of its
     personnel; and
 
-![x]  its technical capabilities typified by its current products,
+- its technical capabilities typified by its current products,
     techniques, practices, and methodologies (for example, trade secrets
     and intellectual property).
 
@@ -379,7 +379,7 @@ System uncertainty is a form of [technological uncertainty](https://www.canada.c
 
 The systematic investigation or search called for in the definition of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd) is an approach that includes defining a problem, advancing a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss) towards resolving that problem, planning and testing the hypothesis by [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt) or [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss), and developing logical conclusions based on the results. For more information, please refer to [section 2.1.3 of the Eligibility of Work for SR&ED Investment Tax Credits Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_3).
 
-![systemicInvestigation](https://github.com/seenthattinker/Conceptinero/blob/master/images/systemicInvestigation.svg)
+![systemicInvestigation](/images/systemicInvestigation.svg)
 
 ### Technology
 
@@ -404,14 +404,3 @@ carried on in Canada, that the claimant incurred during the year.
 
 For more information, please refer to the [Traditional and Proxy Methods
 Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/traditional-proxy-methods-policy.html).
-
-
-[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
-
-[Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/attention.jpeg
-
-[Example]:https://github.com/seenthattinker/Conceptinero/blob/master/images/example.png
-
-[Law]:https://github.com/seenthattinker/Conceptinero/blob/master/images/law-pic.jpg
-
-[x]:https://github.com/seenthattinker/Conceptinero/blob/master/images/x.jpg

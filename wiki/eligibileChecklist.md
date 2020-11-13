@@ -1,4 +1,4 @@
-![](https://github.com/seenthattinker/Conceptinero/blob/master/images/conceptinero-funding-ideas-logo-white-383w.webp)
+
 
 SR&ED Software Eligibility Checklist
 ============================================
@@ -140,12 +140,3 @@ code revisions,
 test results,
 time sheets,
 and things like this.
-
-
-
-
-[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
-
-[Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/dart.png
-
-[Example]:https://github.com/seenthattinker/Conceptinero/blob/master/images/example.png

@@ -1,4 +1,4 @@
-![](https://github.com/seenthattinker/Conceptinero/blob/master/images/conceptinero-funding-ideas-logo-white-383w.webp)
+
 
 SR&ED Preparation Templates
 ===================================

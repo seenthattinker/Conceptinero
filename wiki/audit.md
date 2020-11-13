@@ -1,4 +1,4 @@
-![](https://github.com/seenthattinker/Conceptinero/blob/master/images/conceptinero-funding-ideas-logo-white-383w.webp)
+
 
 SR&ED Technical Audit Pointers
 ======================================
@@ -257,14 +257,14 @@ development work undertaken in Canada.
 
 It must be with respect to one of the eight categories of work listed below
 
-![x]    engineering;
-![x]    design;
-![x]    operations research;
-![x]    mathematical analysis;
-![x]    computer programming;
-![x]    data collection;
-![x]    testing; or
-![x]    psychological research.
+- engineering;
+- design;
+- operations research;
+- mathematical analysis;
+- computer programming;
+- data collection;
+- testing; or
+- psychological research.
 
 
 
@@ -277,11 +277,11 @@ and it can apply to many different types of businesses,
 but the law specifically excludes certain activities from SR&ED tax incentives.
 Among the activities that don’t qualify are:
 
-![x]    market research you do before you start your project
-![x]    promotions
-![x]    social science research projects
-![x]    humanities research projects
-![x]    and style changes.
+- market research you do before you start your project
+- promotions
+- social science research projects
+- humanities research projects
+- and style changes.
 
 You also may not count routine tasks such as testing,
 quality control,
@@ -316,28 +316,28 @@ Routing Software Development
 
 Things at the technological Level:
 
-![x]    throughput
-![x]    speed
-![x]    response time
-![x]    technological risks & constraints
-![x]    limited bandwidth
-![x]    limited computing power
-![x]    repeatability
-![x]    reliability
-![x]    bug fixes
-![x]    coding
-![x]    and engineering are actually support activities.
+- throughput
+- speed
+- response time
+- technological risks & constraints
+- limited bandwidth
+- limited computing power
+- repeatability
+- reliability
+- bug fixes
+- coding
+- and engineering are actually support activities.
 
 Things at the functional Level:
 
-![x]    what the code does
-![x]    Programmatic risk
-![x]    business risk
-![x]    marketing risk
-![x]    too costly
-![x]    too complicated
-![x]    not enough time
-![x]    advancement in functionality feature extensions.
+- what the code does
+- Programmatic risk
+- business risk
+- marketing risk
+- too costly
+- too complicated
+- not enough time
+- advancement in functionality feature extensions.
 
 The earliest possible moment when the uncertainty was recognized
 &mdash;
@@ -368,14 +368,3 @@ New product development, by itself, is always eligible. Wrong.
 1. These things are irrelevant unless all three eligibility criteria are met. Uncertainties related to budget, scheduling, marketing, and the like, matter.
 1. Not unless they lead to at least one technological uncertainty, novelty, innovation or uniqueness &mdash; *first of its kind* &mdash; always demonstrates a technological advancement.
 1. Because these are not necessarily the outcome of experimental development.
-
-
-[Note]:https://github.com/seenthattinker/Conceptinero/blob/master/images/write-a-note-icon-vector-20994413.jpg
-
-[Attention]:https://github.com/seenthattinker/Conceptinero/blob/master/images/attention.jpeg
-
-[Example]:https://github.com/seenthattinker/Conceptinero/blob/master/images/example.png
-
-[Law]:https://github.com/seenthattinker/Conceptinero/blob/master/images/law-pic.jpg
-
-[x]:https://github.com/seenthattinker/Conceptinero/blob/master/images/x.jpg
