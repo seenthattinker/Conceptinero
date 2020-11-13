@@ -1,4 +1,4 @@
-Apple Pay T 1661 Critical Notes
+Green Apple Pay 2020 - T661 Critical Notes
 =======================================
 
 IMPORTANT: Use existing materials and documents generated during the course of your development work to extract the pertinent information to complete these questions.
@@ -30,109 +30,30 @@ while maintaining control and security of data,
 as well as overcoming transaction performance issues.
 
 
->The distinct weakness that I see in the submission is the validity of the technical uncertainty as having benefit for the greater population,
-ergo the taxpayer,
-per the SR&ED documentation and law on the government website.
-The technical uncertainty existed for the company,
-but what is left in the cold is the certainty that the company achieve something that is of benefit to the Canadian taxpayer,
-either by addressing a lingering technological work hole that they filled that is a benefit to other coders,
-or other participants in the technological community,
-even open source.
-
-
 
 ## 244 – What work did you perform in the tax year to overcome those technological obstacles?   700 words max - 100 lines of 78 characters
 
-In the 2019 fiscal period,
-we attempted to overcome our e-commerce model limitations by integrating a better payment model.
-Payment transaction abstraction needed to occur,
-as there were too many payment transactions among too many nodes to be secure using known technologies.
+In the 2020 fiscal period, we continued to overcome our e-commerce model limitations by setting the framework for testing integrations for a better payment model.
+Development of a payment transaction abstraction needed to be built, 
+as there were too many payment transaction types among too many nodes to be secure using known technologies.
 Our hypothesis is that we could allow this payment process to be simpler with less steps;
 we could potentially integrate a wallet technology within our system as a payment clearance layer.
-We think it could be highly secure and only available to trusted parties.
-We completed tests and developed an experimental integration path extending from Bambora API&copy; in an attempt to overcome these limitations and advance our toolset.
+We think it could be highly secure and only available to trusted parties. In this fiscal period, we would develop the framework so that we could complete tests and develop an experimental integration path extending from payment APIs, in an attempt to overcome these limitations and advance our toolset.
 
 
 
 
-Through August 2018,
-and March to July 2019,
-the development work was partially done by our sub-contractor,
-Cappers Applications,
-where we all attempted to differentiate our approach from the typical shopping cart and payment integration processes,
-which requires product item data deletion,
-as well as the integration of a tokenized payment process into the e-commerce model.
-We developed and extended a code base to process credit payments only.
-We hypothesized we could integrate debit and EFT capabilities in 2020.
+Through October and November 2019, Cappers Applications Inc, our sub-contractor, continued to develop an approach to differentiate the typical e-commerce shopping cart and payment integration processes, which require product item data deletion, as well as the integration of a tokenized payment process into the e-commerce model. We developed and extended a code base to process credit payments only. In November, we hypothesized we could overcome existing payment API limitations by extending various debit and EFT library capabilities. 
+In December 2019, project resources were redirected; so the project was shelved, and  no urther SR&ED development was done until July 2020.
+
+In the last month of the fiscal period, the project was started again in July 2020. Our new sub-contact Architect, Timur Imnaishvili, set out to continue to attempt to build a test bed for our limitations, by introducing ann approach build on Phalcon framework...
+
+> Bruce to expand on why Phalcon framework would be a benefit, and enable advancement based on the obstacles..... <type what he says about hte stack, and provide extending information about the strengths of the Phalcon framework here...<
 
 
-### Bambora API integration
-
-Moneris&copy; didn’t work with our application model,
-so we realized we needed to change our API in order to better integrate payment aggregation through third party sources.
-We attempted to extend and integrate a third-party aggregation tool that would facilitate payments between the merchant and consumers via different payment methods such as bank transfers and credit or debit cards.
-After testing,
-we realized that while the payment aggregation models are suited to small and medium businesses with low transaction volumes,
-the cost of operating under the aegis of a merchant aggregator can become a constraint as we start processing more transactions.
-We hypothesized that the aggregator model could potentially work perfectly if we process only a handful of transactions.
-We thought that our sub-merchants typically only have to pay when they process online payments,
-rather than shell out a monthly fee,
-as we did not expect.
-Through further testing we realized that there was a constraint related to high transaction volumes vs technology cost-efficiency.
-We needed to customize our payment integration layer to overcome these obstacles.
-We attempted to develop and integrate a tokenization process which allows us to securely store customer credit card information in our system.
-Our process has events for submitting credit card information straight to payment processor for validation.
-If validation is successful,
-the payment processor returns a token that along with other parameters is used to checkout the customer later with the given payment method.
-This token can be used only by our system.
-Therefore,
-it doesn't make sense to steel it from us.
+>This sets us up for testing in 2020 FYE, as the obstacle is till not overcome in 2020 FY.
 
 
-### Event Type Development
-
-After we designed the atypical event driven cart process in 2018,
-we turned focus in 2019 on how the model would be impacted by Teacher/Parent/Admin edge cases,
-and how we would predict testing the application and meta data between entities.
-During this development we needed to develop and extend Gitlab&copy; and JobRunner&copy; tools to automatically test and check functionality.
-
->Have these tools been left in public access and are they accessible by other developers?
-Did this GitLab abd JobRunner work have any community benefit,
-fulfilling the taxpayer equity required for the SR&ED formula?
-
-
-The tools were developed around control of the code check-in process.
-We began developing Gitlab integration tools to run automated tests.
-Scenarios were run each time we made these adjustments so that we could ensure and guarantee the code was stable.
-Unique edge cases were developed and mapped out and set into a module in the application which would be run after code commits.
-We were able to reduce test time to less than five minutes from its previous 25 minutes.
-
-
-We attempted to introduce new event types,
-such as one-time events,
-recurring events,
-where we needed to link the event to the payment transactions.
-We experienced difficulty in linking a one time pay event to a recurring event.
-None of the known technologies worked within our case,
-so we needed to experiment at developing different workflows and automation procedures to create those events and respond to them.
-We ended up introducing new modification events,
-such as Edit,
-Cancel,
-and Rollback.
-
-
-We next improved event logging,
-stored in an open source tool called Graylog&copy;.
-We realized that Graylog required access to both hardware and software installations and settings and no API existed.
-We needed to determine by experiment how our web application could communicate with Graylog.
-We devised a middleware layer to push events from the web app to Graylog.
-We also needed to introduce Reporting and Transactions Details exposure using a PostgreSQL data source connected to redash.org – an open source tool.
-But this was not easy approach to integrate.
-We encountered some integration limits to resolve.
-We experimentally determined how to develop and integrate both hardware and software extensions around native code.
-We overcome Security limitations by allowing limited access to our Web application and Redash data.
-Work would continue in 2020 as we hypothesized,
-we could experimentally integrate debit and EFT capabilities to our model.
 
 
 ## 246 – What technological advancements were you trying to achieve? 	350 words max - 50 lines of 78 characters
