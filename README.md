@@ -14,7 +14,7 @@ Welcome to the SR&ED toolkit provided by [Conceptinero](https://www.conceptinero
 Connect with us on the following platforms:
 
 
-![Link](images/linkedin.jpeg)[company/conceptinero/](https://www.linkedin.com/company/conceptinero/) 
+![Link](images/linkedin.jpeg)[company/conceptinero/](https://www.linkedin.com/company/conceptinero/)
 ![Facebook](images/face.jpeg)[Conceptinero](https://www.facebook.com/Conceptinero/)
 ![Twitter](images/twitter.png)[twitter.com/conceptinero](https://twitter.com/conceptinero)
 
@@ -25,7 +25,7 @@ SR&ED Overview
 SR&ED stands for Scientific Research and Experimental Development.
 
 
-Experimental Development
+### Experimental Development
 
 Work undertaken to achieve technological advances for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements.
 
@@ -33,25 +33,25 @@ Income Tax Act 248(1)
 
 Tax Incentive to stimulate Innovation in Canada 018: ~ $3.2 B delivered to 20,000 companies. Direct increase to your company’s bottom line The CRA is a customer: lets meet their needs too!
 
-SR&ED Scope
+### SR&ED Scope
 
 Architecture, Development, Testing & Analysis, and Project Management.
 
-SR&ED Criteria
+### SR&ED Criteria
 
  - technological uncertainty
  - what was so hard
  - results unpredictable
  - did not know the best technological  approach.
 
-Technological Content
+### Technological Content
 
 - What did you do?
 - A *systematic investigation* by qualified personnel.
 
 ![Note]Not trial and error.
 
-Technological Advancement
+### Technological Advancement
 
 - what did you learn?
 - advance state of knowledge in a field of tech.
@@ -61,7 +61,7 @@ Technological Advancement
 Supporting Documentation
 --------------------------------
 
-SR&ED Eligible Projects
+### SR&ED Eligible Projects
 
 - projects that advance what's *under the hood*
 - design patterns – to gain more flexibility, efficiency, reliability, ease of maintenance.
@@ -79,7 +79,7 @@ SR&ED Eligible Projects
 
 
 
-SR&ED Non-Eligible Projects
+### SR&ED Non-Eligible Projects
 
 - incremental addition of features and functions
 - configuration of existing hardware and software systems
@@ -95,7 +95,8 @@ How Do I Identify SR&ED
 ---------------------------------------
 
 
-Focus on Constraints
+### Focus on Constraints
+
 - risk
 - a project may be very valuable for our business: it may be novel, it may not exist on the market, etc...
 - but for SR&ED we must have a Technological Obstacle to overcome.
@@ -107,7 +108,7 @@ Focus on Constraints
 
 
 
-Work Performed
+#### Work Performed
 
 - collecting, storing, manipulating, and communicating data using systems
 - it is how the data is manipulated, organized or communicated, and whether the methodology represents an advance over common methods
@@ -118,7 +119,7 @@ Work Performed
 
 
 
-Software SR&ED Constraints
+#### Software SR&ED Constraints
 
 - architectures (size, technology used)
 - inter-operability, integration, third party components
@@ -133,7 +134,7 @@ Software SR&ED Constraints
 - competing constraints/ non-deterministic environments
 - lack of insight to determine parameters of a *black-box*
 
-Which Activities are Tracked?
+#### Which Activities are Tracked?
 
 - SR&ED eligible activities
 - Direct supervision of SR&ED
@@ -146,7 +147,7 @@ Which Activities are Tracked?
 - Software development
 
 
-Eligible Support Activities
+#### Eligible Support Activities
 
 - collecting data for analysis
 - analyzing test results, requirements
@@ -154,7 +155,7 @@ Eligible Support Activities
 - assignment of technological personnel &mdash; testing
 - development of technological strategies &mdash; job priority technological documentation for internal use/ip (design/code/test specs, and the like.
 
-Which Activities Are Not SR&ED
+#### Which Activities Are Not SR&ED
 
 - administrative training
 - collecting and analysing market data (marketing)
@@ -162,7 +163,7 @@ Which Activities Are Not SR&ED
 - routine uat/quality control
 - non SR&ED clerical and administrative support.
 
-NOT incremental to SR&ED (Covered by Proxy Amount)
+#### NOT incremental to SR&ED (Covered by Proxy Amount)
 
 - personnel support (hr)
 - accounting
@@ -170,7 +171,7 @@ NOT incremental to SR&ED (Covered by Proxy Amount)
 - purchasing
 - it or finance leadership team.
 
-How and Where Do We Track SR&ED Data
+#### How and Where Do We Track SR&ED Data
 
 - project plan progress reports
 - minutes of project
@@ -202,20 +203,22 @@ How and Where Do We Track SR&ED Data
 - source control versions
 - system/architecture design docs.
 
-Item of Work
+#### Item of Work
+
 - monthly with each technical lead
 - short-form capture of technical issues
 - is required to link the work performed to time tracking.
 
 
-In Time Tracking
+#### In Time Tracking
+
 - project code (general)
 - task code (not specific enough)
 - description of work done during task, related to removing constraints and issues.
 - link to obstacles.
 - can clearly define advancement.
 
-Usual Claim Timeline Proactively During Year
+#### Usual Claim Timeline Proactively During Year
 
 
 - identify SR&ED projects upfront (technological strategy)
