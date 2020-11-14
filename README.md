@@ -14,10 +14,9 @@ Welcome to the SR&ED toolkit provided by [Conceptinero](https://www.conceptinero
 Connect with us on the following platforms:
 
 
-![Link](images/linkedin.jpeg)
-[company/conceptinero/](https://www.linkedin.com/company/conceptinero/) ![Facebook](images/face.jpeg)
-[Conceptinero](https://www.facebook.com/Conceptinero/) ![Twitter](images/twitter.png)
-[twitter.com/conceptinero](https://twitter.com/conceptinero)
+![Link](images/linkedin.jpeg)[company/conceptinero/](https://www.linkedin.com/company/conceptinero/) 
+![Facebook](images/face.jpeg)[Conceptinero](https://www.facebook.com/Conceptinero/)
+![Twitter](images/twitter.png)[twitter.com/conceptinero](https://twitter.com/conceptinero)
 
 
 SR&ED Overview
