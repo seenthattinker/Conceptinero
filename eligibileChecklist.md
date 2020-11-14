@@ -1,3 +1,9 @@
+---
+layout: default
+title: Eligibility Checklist
+nav_order: 2
+description: "The sanity check."
+---
 
 
 SR&ED Software Eligibility Checklist

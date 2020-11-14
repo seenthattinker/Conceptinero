@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: time
+nav_order: 2
+description: "How to document time in SR&ED."
+---
 
 
 Time Tracking
