@@ -1,7 +1,13 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "SR&ED Writing Done Right."
+permalink: /
+---
 
 
 
-Conceptinero
 ===================
 
 Welcome to the SR&ED toolkit provided by [Conceptinero](https://www.conceptinero.com/).
