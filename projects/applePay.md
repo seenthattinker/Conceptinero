@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Green Apple Pay 2020 - T661 Critical Notes
+=======
+Green Apple Pay T 661 Critical Notes
+>>>>>>> patch-2
 =======================================
 
 IMPORTANT: Use existing materials and documents generated during the course of your development work to extract the pertinent information to complete these questions.
