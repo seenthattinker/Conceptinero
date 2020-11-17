@@ -97,14 +97,11 @@ By using Phalcon it is anticipated that client participants,
 schools in this business model,
 will be able to apply the Phalcon PHP coding required for integration.
 It must be remembered that we are not just building something to work for us;
-we are building a platform clients have to integrate with by coding PHP.
+we are building a scalable and abstractable platform future model types will have to integrate into by coding PHP.
 
-There is no certainty that this new model with Phalcon will work completely.
-Build and testing is scheduled for the next fiscal year,
-but we do feel secure that the decision we have made with Phalcon will provide the best chance of meeting all of our edge cases and the design philosophy of backend processing,
+There is no certainty that this new model with Phalcon will work completely, where we are trying to achieve an event and schedule-based hybrid application model, and not a typical e-commerce cart model, to overcome obstacles related to the workflow customization process; this hybridized model approach might not be achievable, where Phalcon connects objects and tables to persist in a single wrapping. Build and testing is scheduled for the next fiscal year, but we do feel our hypothesis will provide the best chance of meeting all of our edge cases and the design philosophy of backend processing,
 keeping everything away from the browser,
 while maintaining scalability and speed.
-
 
 
 ## 246 – What technological advancements were you trying to achieve? 	350 words max - 50 lines of 78 characters
