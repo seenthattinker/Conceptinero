@@ -17,7 +17,7 @@ We need to focus on those development activities that involved *technological pr
 such as the the application of known,
 conventional or standard programming solutions or techniques.
 
-![Note]Even if you had no prior experience in a particular area &mdash; it was new to us &mdash; but you applied appropriate *due diligence* and found a ready-made solution, then it would not be eligible, even if you had a steep learning curve.
+{: .box-note}**Note:**Even if you had no prior experience in a particular area &mdash; it was new to us &mdash; but you applied appropriate *due diligence* and found a ready-made solution, then it would not be eligible, even if you had a steep learning curve.
 
 
 
@@ -25,7 +25,7 @@ conventional or standard programming solutions or techniques.
 A good verification that your problem could not be solved through known techniques is to prove that you searched through relevant forums online,
 or contacted the software application's technical support and they couldn't provide you with a solution.
 
-![NOTE] An email from Microsoft stating *Our software does not support the type of activity you are trying to accomplish* is excellent evidence that your activity is not routine, or, if searching through forums, you posts from other developers with similar issues for which they reported no solution could be found.
+{: .box-note}**Note:** An email from Microsoft stating *Our software does not support the type of activity you are trying to accomplish* is excellent evidence that your activity is not routine, or, if searching through forums, you posts from other developers with similar issues for which they reported no solution could be found.
 
 SR&ED eligible solutions to these types of technological problems can include analysis,
 simulation,
@@ -88,7 +88,7 @@ Did you have to overcome *constraints* or limitations:
 
 1. Did the creation of a new graphical user interface (GUI) pose any *unusual* technological or human-factors challenges, for example, you needed to have an interface that would improve operator speed by a factor of two?
 
-![Note]Developing a new or improved GUI is usually *not* eligible for SR&ED, regardless of complexity.
+{: .box-note}**Note:**Developing a new or improved GUI is usually *not* eligible for SR&ED, regardless of complexity.
 
 Describing the SR&ED Process
 ------------------------------------

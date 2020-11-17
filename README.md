@@ -49,7 +49,7 @@ Architecture, Development, Testing & Analysis, and Project Management.
 - What did you do?
 - A *systematic investigation* by qualified personnel.
 
-![Note]Not trial and error.
+{: .box-note}**Note:**Not trial and error.
 
 ### Technological Advancement
 
