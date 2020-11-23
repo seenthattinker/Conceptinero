@@ -54,4 +54,18 @@ means that aspects of the integration require changes to the production system,
 especially for testing.
 This entailed the tearing down and parting out of the main ML application into a number of integrated smaller applications.
 
-The next majhor hurdle
+The next major hurdle was realized when it was made clear that different types of agents would have to be created to meet distinct authorizations.
+In essence,
+the agent definition
+&mdash;
+prime or some form of sub-prime
+&mdash;
+correlates to the options available to them and their binding authorities.
+It pivoted off the data sets available to construct mortgage options,
+which are determined by what kind of market you are in.
+This required that we have the ability for virtual agents to pass real clients based on the available markets.
+When the agents changed we had to reconfigure all the data for available options,
+so,
+in essence,
+switching of agents was resetting all state to the new scenario,
+flushing the cache.
