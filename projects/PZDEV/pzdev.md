@@ -122,22 +122,42 @@ We improved the system performance with this database overhaul.
 
 ### Salesforce to PrintVis integration
 
-	The company migrated the operations from Salesforce to PrintVis (Microsoft Dynamics Nav) so an ETL(Extract, Transform, Load) tool was needed to be developed in order to migrate and sync the data.
-	The challenge was that there was not an existing extractor between the 2 systems and we had to do a custom tool to accommodate the company’s data and the 2 systems data structure. We used APIs (Salesforce / PrintVis) to get / insert the data from one system to another but we had a series of items to be taken into considerations such as:
-Data sync (make sure that we don’t have duplicates and the same data is in both systems) - We had to do some trial & error steps here in order to make sure that the data structure is correctly achieved in both systems
-Performance - The sync need to be reasonably fast for the large amount of the data to import so we had some trial and error steps as well including optimizing queries and also optimizing the read / write of the data
-\
+We migrated the operations from Salesforce &reg; to PrintVis &reg;
+&mdash;
+Microsoft Dynamics Nav &reg;
+&mdash;
+so an Extract,
+Transform,
+Load (ETL) tool needed to be developed to migrate and sync the data.
+After some research and investigation,
+we discovered there was no existing extractor between the two systems.
+We had to build a custom tool to accommodate the company’s data and the two systems' data structures.
+We used the APIs of Salesforce and PrintVis to `get` / `insert` the data from one system to another,
+but we had a laundry list of considerations,
+like data sync.
+We had to make sure we didn't duplicate the same data is in both systems.
+We had to do some experimentation to ensure the data structure was correctly achieved in both systems.
+The sync needed to be reasonably fast for our performance promises.
+With the large amount of the data to import we had to experiment and test hypotheses to optimize queries and also the `read` / `write` of the data.
 
 
-Integration between 2 systems ( ruby and angular )
 
-	We are working into transitioning the system from ruby on rails to a Node js / Angular js microservices system.
-	Since this is a long project, we had requirements to integrate Angular modules one by one once they are ready.
-	This means that a logged in user should seamlessly be able to go from a ruby page to an angular page without even noticing that he’s on another application.
-	Here, we had some trial and error approach until we managed to be successfully.
-	A regular approach was to duplicate the login functions and call the login methods for both system once or call the login method every time the user would go from ruby to angular.
-However, this was not acceptable at both user experience and system performance.
-	So the final version of this consisted in using some domain shared cookies between the 2 systems that would hold the state of the logged in user. Basically, when the user logs in in ruby, we also call the node js endpoint to log him in and save the token in a cookie. Then, every time an angular page is accessed, it would search for these cookies and authorize or deny the request.
+### Ruby and Angular integration
+
+We are transitioning our system from Ruby on Rails to a Node.js &reg; AngularJS &reg; microservices system.
+We had requirements to integrate Angular modules one by one once they are ready,
+due to the length of the project.
+A logged in user should be able to go from a Ruby page to an Angular page without even knowing that they're on another application.
+We had to experiment to achieve this transparency.
+A regular approach was to duplicate the login functions and call the login methods for both system once or call the login method every time the user would go from ruby to angular.
+However,
+this was not acceptable at both the user experience and system performance levels.
+The final version used some domain shared cookies between the two systems that held the state of the logged in user.
+When the user logs into Ruby,
+we simultaneously call the Node.js endpoint to log them in and save the token in a cookie.
+Afterwards,
+every time an Angular page is accessed,
+it would search for these cookies and authorize or deny the request.
 
 
 
@@ -153,3 +173,7 @@ However, this was not acceptable at both user experience and system performance.
 .. https://rubyonrails.org/
 
 .. https://www.voicebase.com/
+
+.. https://nodejs.org/en/
+
+.. https://angularjs.org/
