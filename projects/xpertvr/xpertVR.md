@@ -62,14 +62,26 @@ but ours works in tandem with a survey tool,
 the other most important thing for the professors,
 making our product one-stop shopping for market research in the academic and private sectors.
 
-### Making simulations accessible to standalone headsets
+### Atlasing textures
 
-PC VR is plugged into computer.
+
+PC VR is plugged into computer,
+allowing for a high end,
+resource intensive experience,
+leveraged from the
 Standalone VR,
 where the headset is not connected to a PC.
 This is becoming a lot more mainstream.
 We were tasked with taking our high end simulations and making them accessible a by a lower end,
-standalone headset
+standalone headset.
+We achieved this by atlasing our textures.
+This is fairly standard in gaming,
+but not as used in VR.
+This has made all our simulation design optimal for going forward in a market becoming saturated with standalone headsets.
+
+
+
+
 
 
 
