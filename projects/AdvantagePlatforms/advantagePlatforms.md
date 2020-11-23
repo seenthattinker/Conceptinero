@@ -53,3 +53,5 @@ and the integration of the Credit Union rules,
 means that aspects of the integration require changes to the production system,
 especially for testing.
 This entailed the tearing down and parting out of the main ML application into a number of integrated smaller applications.
+
+The next majhor hurdle
