@@ -55,12 +55,24 @@ The research was designed to determine what forms buying patterns outside of wha
 As this is being built out data collection tools are being created.
 These data collection models will make us faster and better for other clients and are completely reusable.
 
-We built an eye-mapping tool,
+We built an eye-tracking tool,
 so as a VR user is going through a scenario a heat map is drawn when they stare at products.
 This is not new to the VR creation space,
 but ours works in tandem with a survey tool,
 the other most important thing for the professors,
 making our product one-stop shopping for market research in the academic and private sectors.
+
+### Making simulations accessible to standalone headsets
+
+PC VR is plugged into computer.
+Standalone VR,
+where the headset is not connected to a PC.
+This is becoming a lot more mainstream.
+We were tasked with taking our high end simulations and making them accessible a by a lower end,
+standalone headset
+
+
+
 
 
 
