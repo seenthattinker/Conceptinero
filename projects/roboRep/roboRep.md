@@ -4,7 +4,7 @@ Robo Rep T661
 
 ### What scientific or technological uncertainties did you attempt to overcome? (Maximum 350 words)
 
-This technology evolved out of the work of a medical device representative who found himself wasting copious numbers of hours traveling to hospitals to be present in operation rooms to instruct the medical practitioners on the medical devices that he was representing.
+This technology evolved out of the work of a medical device representative who found himself wasting copious numbers of hours traveling to hospitals to be present at operations to instruct medical practitioners on medical
 The medical device representative wanted to know if there was a way to do his job without being physically present.
 He began to investigate the technology of telepresence,
 but it was nowhere near where it needed to be to substitute for him in an operating room, there were no known or novel technological approaches to telepresence for surgery rooms. That began the experimental process to come up with a robotic representative that could stand in for a medical device representative in an operating theater, allowing the medical device representative to have eyes and the ears in the operating room,
@@ -12,12 +12,17 @@ and the ability to point,
 instruct,
 and communicate through the robotic device.
 
+
 The need for it could only have been realized by a field worker who understood its enormous value.
 There was aesthetic.
 How is this all going to go together?
 How is it going to be assembled and disassembled?
-The technical uncertainty in the job has been from the beginning merging laser pojnting technology with remote visual recognition technology.  
+The technical uncertainty in the job has been from the beginning merging laser pointing technology with remote visual recognition technology.  
 There can be no room for error because the technology is for an operating room.
+
+
+The technical uncertainty involves merging laser technology with recognition technology,
+>>>>>>> Stashed changes
 The idea for the Roborep came about from the industry of medical devices in which for a number of decades the only way to communicate with operating room staff was to physically be there.
 
 
@@ -40,17 +45,26 @@ While robotics have insinuated themselves into many professional and manufacturi
 telepresence in an operating theater is completely new territory.
 How could portability,
 assembly,
+<<<<<<< Updated upstream
 and disassembly be packaged in with a functional robotic representative, while not impacting the realtime nature and laser accuracy which was required to be replicated and reliable to 100%, in each successive application in any new operating theater?
-The next level of challenge was the complicated networking and cabling required to connect all of the various devices that would have to be in synchronization and governance to send and receive data and not confound the problem of movement for the robotic device. The existing technology and knowledge base level at the onset of this project was limited to the functional objective usually only being accomplished using a plurality of different analog circuit boards, cameras, and servo controllers within many independent devices, and not within one integrated, and compact footprint and form factor. 
+The next level of challenge was the complicated networking and cabling required to connect all of the various devices that would have to be in synchronization and governance to send and receive data and not confound the problem of movement for the robotic device. The existing technology and knowledge base level at the onset of this project was limited to the functional objective usually only being accomplished using a plurality of different analog circuit boards, cameras, and servo controllers within many independent devices, and not within one integrated, and compact footprint and form factor.
 
+=======
+and disassembly be packaged in with a functional robotic representative?
+The complicated networking and cabling required to connect all of the various devices that would have to be in synchronization and governance to send and receive data and not confound the problem of movement for the robotic device.
+
+These challenges is uncertainties what part of the original design and invention of the robo representative.
+Why robotics have insinuated themselves into many professional and manufacturing situations,
+telepresence in an operating theater is completely new territory.
+>>>>>>> Stashed changes
 
 ### What work did you perform in the tax year to overcome the scientific or technological uncertainties described in line 242?
 
 
+
 We had to build a system to operate at least six networked devices and some gear boxes.
 The gear boxes are assembled together into three different gimbals.
-There are two high resolution digital cameras.
-And a laser pointer.
+There are two high resolution digital cameras and a laser pointer.
 Unifying all of those components into a working whole was a big challenge.
 .. never use the term trial and error. ALWAYS experimental development.
 We needed to perform experimental development by systematically iterating through many design challenges, where we needed to strip away the known configuration assumptions that did not pan out in prototyping.
@@ -59,8 +73,9 @@ and the industry had knowledge,
 of how each of the component types worked individually,
 but not together,
 and there existed no tangential industry uses that bore sufficient similarity to a medical device representative telepresence.
+<<<<<<< Updated upstream
 
-..Best moved to the TA section. 
+..Best moved to the TA section.
 There were many uncertainties in the engineering of the product.
 We needed a number of brackets and number of moving parts that were quite complex that had never been put together before and we had to maintain the ideal of easy assembly,
 easy disassembly,
@@ -70,26 +85,67 @@ These were the persistent challenges of the engineering uncertainty.
 We iterated our designs into benchmark prototypes.
 ..Almost everything was done by trial and error.
 ..This section doesnt add any value, any statements realted to looks, aesthetics, user interface, or finish can be left out.
+=======
+It is all new.
 
+
+We needed to come up with an interface board that would have the different voltages available for the different peripherals.
+The challenge was to be able to incorporate a single voltage supply,
+and to then break down those voltages and ensure we provided enough current for each peripheral.
+
+We created a new board to sustain a new power management layer responsible for orchestrating device’s individual power needs,
+as well as the different methods of integration (the limited serial, multi-drop-bus (MDB).
+The protocols were determined by the embedded OS.
+
+
+The work is fully documented in U.S. patent application number 16/616327
+&mdash;
+Telepresence Management.
+>>>>>>> Stashed changes
+
+#### Laser Pointer
 The laser pointer presented unique telepresence challenges.
 We had to articulate multiple trays and drawers of surgical components that may or may not get used.
 Dozens of device options required articulation based on what's happening during the operation.
 We had to be able to point at different parts,
-describe them and how to assemble them,
-and how to use them,
-and under which conditions which ones get used,
+describe them,
+how to assemble and use them,
+define conditions under which devices get used,
 and which ones don't.
+
+#### Cameras
 The reason we have two cameras is so one can see where the laser points and ensure they're pointing at the correct thing,
 and the second camera to look around the operating room and see what's going on,
 who's talking and other important live data.
 
 The top gimbal used two servo motors and two gear boxes in the final configuration where we can manipulate that laser pointer correctly.
-All of this was done by 
+All of this was done by
 experimental development,
 systematically attempting a series of unusual servo alignment configurations,
 experimenting with them,
 determining how they failed the complex merger of all our needs,
 then rebuilding with what we had learned.
+
+
+
+
+
+
+Mount location was challenging,
+discovering where the main power supply was going in,
+and developing circuitry design that would work with the different voltages with a sufficient amount of current considering pre-existing component layout caused challenges.
+
+The power supplies had to be highly efficient so overheating wouldn’t occur.
+ESD testing was completed after adding a new component and proved satisfactory.
+
+It was next necessary to convert the RS-232 to down to SPI,
+so that the board would be able to communicate with all components.
+Because MDB is a sort of serial,
+but also all components are connected to the electrical circuit,
+we encountered issues with different types of analog and digital peripherals in the connection.
+A process of arbitration determines which device sends information at any point.
+Work would continue next year.
+
 
 
 ### What scientific or technological advancements did you achieve or attempt to achieve as a result of the work described in line 244? (Maximum 350 words)
