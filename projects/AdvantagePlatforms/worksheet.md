@@ -1,162 +1,118 @@
 
-242 – What technological obstacles did you have to overcome? 350 words max – 50 lines of 78 characters
+
+Challenges -
+Ability to control experience with gaze, or later iterations, using hand motions, and hand motion detection, to control most aspects of experience.
+prototypes built.
+
+Development of Interactive Hardware Systems for Manipulation of 3D graphics
+-As game engines were not natively built to function with touch screen, we experience system failure when integrating the two natively. It was uncertain how best to architect a multi-touch intelligence layer and capacitive membrane display that could generate the graphics near the glass and precisely resolve X/Y coordinates on screen and communicate with UDK.
+
+
+
+AR/VR bad at?
+
+Legible text. Due to refresh rates and lensing effects, the eye finds it hard to comfortably move along lines of text. Publishing on concave surfaces, bumping up anti-aliasing, and increasing contrast are all techniques that you can use. This is getting better with the next generation of headsets.
+Tactile feedback. Fortunately, sound effects and visual animations can help to replace the feeling of touch.
+The real world. Moving around in a real-world space can be dangerous with no real-world positional cues, so it’s essential for developers to think about building experiences that limit real-world locomotion. Again, this is being advanced with the next generation of devices.
+
+Don’t make me sick! Latency, taking camera control from the user, moving horizon lines – these are all things that can cause sim sickness.
+
+Use sound. Since VR designers don’t have control of the camera, we need to help guide users towards UI elements. Sound in VR is also great way to reinforce the sense of space and the experienced responsiveness of buttons and other widgets.
+
+
+Occulus and Leap Motion -
+
+Leap Motion VR Support Now Directly Integrated in Unreal Engine
+Bringing hands into virtual reality just got a major upgrade. Now officially integrated in Unreal Engine 4.11, getnamo’s independent plugin for Leap Motion makes it faster and easier than ever to integrate Leap Motion Orion into your VR projects!
+
+unreal_gif1 This popular community plugin is now the official plugin and brings new features like rigged character hands, Image Hands, passthrough, and built-in support for the Oculus Rift. Visit developer.leapmotion.com/unreal to get started.
+
+The new plugin is also fully compatible with the radically new tracking capabilities of our Orion software. “It’s amazing to see the Leap Motion Controller improve over time in an engine where you have full control,” says getnamo, aka Jan Kaniewski.
+
+“You could see hints of what it could be early on, but it was at times frustrating. Now with Orion that frustration is gone and you can just reach out and touch things. You know they’re not there, but in your mind and in your hands, phantom sensations give you momentary feelings of their solid realness.”
+
+We believe that technology has the power to augment human capabilities. In many ways it has, but in many ways we’re still separated from the vast worlds of data trapped behind glass screens. The rise of VR means that the old dreams of interacting with digital content on a physical level are coming to life. But to make that happen, you need a more natural interface. You need the power and complexity of the human hand.
+
+This is why we built Orion, which is fundamentally different than anything we’ve released before. It’s part hardware, part software, built from the ground up to tackle the unique challenges of hand tracking for VR. It comes with a huge increase in the general capabilities of our tracking technology and a profound shift in the reliability guarantees of markerless motion tracking systems.
+
+Orion software represents a radical shift in how we do hand tracking. We’ve unlocked lower latency. Longer range. Better and faster hand recognition. Vastly improved robustness to cluttered backgrounds and ambient light. Even applications will be faster thanks to a new API that can be used initially in Unity. And we’re only getting started.
+
+Because the shift is so stark, we’re making the software available today for Windows on the Leap Motion Controller. The beta preview comes with new demos like Blocks. Built on our upcoming interaction engine, Blocks shows how we can recreate nuanced physical interactions with digital objects in a way never before possible.
+
+The Orion beta is just a first taste of what we have on the horizon, as we’re working directly with OEMs to embed Orion hardware into VR headsets.
+
+
+Work Done
+
+Gaze - VR experience. number of options related to control. hands and gaze were the most usable.
+develop a system that allows UI UX challenge. Occulus interface provides Unity API to provide gaze control.
+For hand motion - Leap Motion was used. shrunk down verion of Kinect - kinect deals with large broad body motions. Leap deals wiht hands. We glued leap motion to front of Occulus to recognize hands. We experinced leap motion is not prcise controller, as how well it can pick up hand shapes and gestures which impact realism and location accuracy.
+There was a firmware update which helped this to improve the experience, but only after our development.
+
+Although Occulus and Leap Motion were aware of each other, native interfaces existed, but did not provide types of gestures, acuracy. Leap motion and Unreal.
+In order ot increase precision new modules, and libraries were developed as itdid not work properly out of hte bos. We needed to devise specific gestures or motions that users would be using, mapped out, tested, and ensure that precision and realism is achieved.
+
+Firmware upgrade improves hardwares capability to recognize finer motion, which was missing in prevous broad sweeping gestures, push, pull, slive. load interfaec attached to the hand, load gestures related to specific motions. precision, and flexibility is alwatys in question with reslect ot the types of interactions you can have within the VR environments.
+
+
+
+Development of Interactive Hardware Systems for Manipulation of 3D graphics
+(September 2011 – November 2011) We began experimentation on manipulation of projections through glass, as implemented on a capacitive membrane that would enable touch controls. We first tried projection methods, but experienced throw distance issues at various angles. In addition, we discovered that the transparent capacitive membrane would also pick up the projected image, causing an unwanted 3D effect, which did not show on plain glass. We next hypothesized we should mount a 70-inch plasma to the glass, but immediately were faced with development of a non-standard industrial mounting system which would allow us to have a removable membrane connected at the appropriate distance in-front of the plasma screen, which would then be fastened at a close distance to the glass window. We built a miniature (42-inch) prototype version to test our hypotheses and integrated access to real-time content that was required through a combination of Wi-Fi network and locally sourced content. (November 2011 – December 2011) We explored the integration of the game engine to a touch screen, and created custom libraries which translate Windows touch inputs from C++ into C, and from C to the custom game languages. We sought a method to allow the game engine to receive touch input by development of a prototype using a native virtualized Flash Scale Form. Once we could resolve X/Y coordinates on screen and send to UDK, we experimented with having the input drive an object and respond. (January 2012 – July 2012) On the next iteration of a touch gesture translation engine, we discovered a challenge with UDK. It was technically difficult to adopt version control performance for our small infrastructure. UDK utilizes Input Package Management, but the packages were too dependent on a network build space, where material instancing could occur. We developed a customized module, a variant package management system, which allows isolation and update components of the geometry. We were successful assigning packages by modeller.
+
+With regard to touch development, we explored the integration of game engines to a touch screen, and created a custom DLL which translates Windows touch inputs from C++ into C, and from C to the custom game languages. One obstacle was that the game engines were not built to function with a touch screen, and when we attempted to integrate the two, the system failed. Sought a method to allow the game engine to receive touch input. Built a prototype using a native virtualized Flash player called Scale Form. Found that Flash objects with 2D elements layered on top of the game engine responded well to touch input, and used this Flash object to drive the touch input. Once a clean touch input was present, it was fed to the game engine. Expanded on that using Windows gestures, and built our own DLL that utilized the Windows 7 gesture library, and translated it through the DLL to a language that was compatible with UDK, which was an improvement since we avoided using the virtualized Flash player.
+
+While the visual aspect of VR is close to being solved, he stated that there are other areas of VR that need solutions, such as 3D audio, haptics, body tracking, and input.
+computer latency might affect the simulation, providing a less-than-satisfactory end-user experience; the complicated nature of head-mounted displays and input systems such as specialized gloves and boots may require specialized training to operate,
+
+The Oculus SDK is directly integrated with the popular game engines Unity 5, Unreal Engine 4,
+The Leap Motion controller system consists of a hardware device and a software component which runs as a service or daemon on the host computer. The software component analyses images produced by the hardware and sends tracking information to applications. The Leap motion Unity plugin connects to this service to get data. Scripts included with the plugin translate Leap Motion coordinates to the Unity coordinate system. These scripts and additional graphic assets make it easy to add 3D, motion-controlled hands to a Unity scene.
+
+Coordinate Systems
+Unity3D uses a left-handed convention for its coordinate system, wheras the Leap Motion API uses a right-handed convention. (Essentially, the z-axis points in the opposite direction.) Unity also uses a default unit of meters, wheras the Leap Motion API uses millimeters. The plugin scripts internally transforms the tracking data to use the left-handed coordinate system and scales distance values to meters.
+
+Unity coordinate system superimposed on the Leap Motion device in its HMD orientation.
+
+Note: When working in Unity, always get Frame objects from the LeapServiceProvider. Otherwise, the data in the frame will still be in the native Leap coordinate system – not the Unity coordinate system. The LeapServiceProvider performs all the necessary scaling, rotation, and translation.
+
+Hand Tracking
+The Leap Motion controller uses optical sensors and infrared light. The sensors have a field of view of about 150 degrees. The effective range of the Leap Motion Controller extends from approximately .03 to .6 meters above the device (1 inch to 2 feet).
+Detection and tracking work best when the controller has a clear, high-contrast view of an object’s silhouette. The Leap Motion software combines its sensor data with an internal model of the human hand to help cope with challenging tracking conditions.
+In HMD mode, the tracking algorithms are optimized to recognize and track hands from a different point of view than in desktop mode.
+
+Hand tracking and virtual reality are both emerging technologies, and combining the two into a fluid and seamless experience can be a real challenge.
+
+
+Gesture-based interactions should be initiated with specific gestures that are rarely a part of casual movement. (For example, grabbing is a distinct action that can signal intent.)
+ tracking potential hand poses, some will always track better than others. Whenever possible, encourage users to keep their fingers splayed and hands perpendicular to the field of view – like the Hovercast Menu system at the top of this post. This is by far the most reliable VR tracking pose. For similar reasons, be sure to avoid interactions that depend on the position of fingers when they are out of the device’s line of sight. Some other generally solid gestures and poses in VR include
+
+index finger pointing (as long as it’s visible to the device)
+grab gestures (with the palm facing away from the device)
+the “Superman pose” (palms facing downwards, fingers outstretched)
+Advancements:
+
+The technological goal of this project is advancement of Development of Interactive Hardware Systems for Manipulation and control of 3D/VR environment.
+
+The Development of Interactive Hardware Systems for Manipulation of 3D Graphics was an objective based on the need to develop methods to overcome touch and gesture manipulation barriers by developing our own multi-touch intelligence layer and capacitive membrane display systems. The current state of technology in game engines did not allow, and were not built to function with any touch screen, as when we attempted to integrate the two technologies the systems failed.
+
+The work done resulted in the advancement our knowledge of information technology, and specifically in development of real-time 3D game engine technology, as applied to create the highest quality interactive 3D content for occulus based environments.
+
+Key Learnings:
+If I tell you to push or slice, people naturally gravitate ot limited spectrum of motion. this was a misconception, as different peokle have different ways to reacting teo motion instructions. We needed to test each of these edge cases, to allow the system to recognise the miton, and distill it down into what we are expecint hte spftwrae or control to do was paramount.
+Contoller free interaction - hand controllers cannot be givein, as hte user cannot see the controller with eh occulus on their face.
+Everyone knows how to use their hands, so being able to preemptively interret those hand motions, and how the software would interpret them would be paramount.
+
+Arc Media - Holograms. Projecting image into tranparent screen. combined a kinect with a unity scene, when you walk infront of it, and will adjust the image with respect to where you are, based on hte kinect feedback. Off shoot of what wer were dong in VR.
+
+
+
+Technological advancements for real-time content rendering that would allow users to both view and interact with virtual objects. Advanced techniques were sought in the following distinct areas:
+-Third-party game engine integration, including methods to employ game engines
+(such as Unity3D and Unreal Development Kit) outside standard gaming/simulation environments for realistic, dynamic object visualization.
+-Touch development, including the ability to receive touch input as recognizable commands in game environments, development of an intuitive and responsive touch language, and connection of 3D cameras to navigate scenes in
+a natural and intuitive manner.
 
 
 
 
-
-
-
-
-244 – What work did you perform in the tax year to overcome those technological obstacles?   700 words max - 100 lines of 78 characters
-
-
-At the start of the experimental development process,
-real industry data was required for this specific context of machine learning training.
-It was ingested from various sources,
-cleansed and refined and then our models were run to improve analysis.
-This volume of data was attainable because of the test data we collected over time during previous experimentation and development.
-A machine learning model was built for the test data to experimentally prove whether co-modeling could provide a score that was accurate or not.
-We would require more data moving forward to improve the model,
-so we built in a  backlog and drop process every 6 month’s worth of files into the learning machine model system for analysis,
-which will increase the data set which the machine learning model can be advanced.
-We needed to build the machine learning approach in such a way that it could call data,
-take it and react to it,
-with respect to the specific parameters of the mortgage industry.
-We discovered the  most efficient model that produces the best suited results we were expecting,
-we proved that real detail and the users own data were necessary components to the algorithm.
-
-
-We next hypothesized development of an Options module,
-where our Crystal Tools would be able to interface in an abstract manner to broker platforms to ingest data.
-We found we needed to corrects common originator data errors and omissions by analyzing deal data via Natural Language Processing models and pattern analysis to determine intent for income and liability data.
-We next analyzed bureau data to determine if originator supplied liabilities are consistent with calculated carry costs.
-We then needed to devise a method to augments data with Purview data and plurality of data sources,
-including FNF property valuation.
-End to end result time was still slower than a minute.
-
-
-As an attempt to speed up data ingestion process,
-we tried to integrate a Voice AI model.
-We extended some existing tools,
-but we found that we still needed to ensure that any speed constricted conversation would not impact ingestion and overall processing time.
-To attempt to mitigate this,
-we developed a configurable rule engine,
-which allowed us to abstract control of the rules to 3rd parties.
-WE found that that costs a lot of processing time,
-which was unacceptable.
-So we developed a way to externalize data,
-by developing an XML data structure which ran an Xpath expression over it to be able to manipulate input data.
-In order to still advance to rule abstraction,
-we found a way to re-architect am approach to expose Xpath expression to the front end.
-This resulted in creating of rule policy procedures,
-which were generic and dynamically changeable.
-
-
-Next,
-to improve results,
-and also improve processing speed to less than a minute,
-we thought we could develop tools to performs full cash flow analysis based on qualifying rates and liability payments that were input.
-Our module was developed to runs data through risk simulations to determine compliance with underwriting rules.
-We extended this to include the use of available cash flow to determine alternate results and options through the models,
-which would create alternate outputs as end user options.
-
-Prior to the end of the fiscal year,
-we needed to focus on how to achieve better processing results,
-and how we could automate the decision process.
-We developed a method to analyze data from Triage decision from above,
-which enhanced the overall results process with improved data intelligence.
-
-
-We experimented within the Microsoft machine learning studio,
-a cloud-based framework.
-Machine learning models are only as good as the data used to train them,
-consequently a key-goal of development of Crystal Tools was to allow generic data cleansing of inputted broker data first in order to supply a set of correct values to use as the input for data modelling.
-Through running multiple experiments we saw the best results form a 2 Class boosted logistic regression model.
-The R value evaluation becomes an important factor in relation to how we can improve the accuracy of the algorithms.
-To improve the R value,
-we next attempted to divide data to fields and parametrize the data.
-We needed to find out what parameters were relevant to our context,
-as this information was not available in the public domain.
-Our experimental process will identify the routine way a broker will evaluate deal data.
-We found that if we add specific parameters the modeling and ML determines that those specific parameters which are useful,
-and we found that some of the usual parameters that humans have been using for the last twenty years don’t matter with respect to the rationale on accepting a result and offering a deal.
-We realized that current parameters used only increased or decreased our accuracy of the results by .
-1 or .
-01,
-so we could remove some of those legacy parameters to speed up our model.
-
-
-We also realized that we could attempt to introduced an algorithm to calculate Deal Complexity Index.
-We realized that industry might ‘know’ it’s a complicated deal,
-but they don’t know why or how to quantify it.
-Our approach would provide a measurement of the complexity of a potential result,
-based on a number of factors,
-not necessarily the deal’s potential risk.
-It results in a factor of how difficult the deal will be to approve,
-and how much work there will be to close the deal.
-Deal Complexity Index introduces a  metric into the algorithm and processing for complexity and feasibility of the requested deal to be closed within a certain amount of time,
-based on a plurality of factors.
-This was not achievable prior to our experimental work.
-More attempts to speed up the processing time would be done in the next fiscal period.
-
-
-
-246 – What technological advancements were you trying to achieve? 	350 words max - 50 lines of 78 characters
-
-Your response should focus on describing the improvements you made to the existing technology that lead to the creation of new or improved materials,
-devices,
-products,
-or processes.
-
-It is the advancement in the underlying technology that is important,
-not how the work advanced your business practices.
-
-
-
-Advantage Platforms’ Crystal Tools were created for the purpose of developing a technology layer that would overcome existing limitations in easily be able to plug into existing environments.
-It would sit in front of a system and in-between broker systems where it would assess the deal in process and determine under-writer base.
-Under-writers can now direct their attention only to the riskier deals that require their attention,
-rather than study all deal types.
-For this to be possible,
-data handling and data correction and analysis techniques needed to be advanced beyond existing state.
-The intent is that by the time the data was received,
-it would be processed,
-and a deal could be completed in near-real time.
-We found that extending Machine Learning models specifically for the mortgage underwriting approach is helpful gathering data  from the external 3rd-party systems and matching  the most appropriate under-writer for the deal.
-And we did this by developing model score algorithms to handle deal complexity.
-
-
-To accommodate full automation,
-interfacing with external mortgage systems was necessary to attain a certain offer result.
-Advancements included closing deals as quick as possible: under 30 seconds is ideal,
-a minute or more was too long.
-We developed a language understanding model that allowed this to be possible by bringing things up to conversational speed.
-The purpose is to generate options for the end user quickly based on ML algorithms.
-Involving voice and text input was a key objective,
-one of the goals of Crystal is to change the ways in which users interact with technology by moving away form traditional point and click GUI interfaces.
-We learned it was successful in developing the interface where different language models were implemented with standing and execution models rather than the traditional methods.
-We were able to achieve 1-2-second deal data processing times.
-This changed the way underwriters would interact with users.
-A chat box was developed to run over the distributive network so that a distributer can be provided recommendations when things are not working.
-Deals could potentially then be restructured to offer more result offerings,
-within a range of the original options,
-building in predictive concessions.
-Our Crystal tools ensure that no offer will be placed in front of an end user unless it suits their situation and works.
-This allows flexible deal flow.
-We further enhanced the process by developing opportunity modules.
-A cash flow analysis has been built to analyze cash flow.
-For example,
-if free money is negative,
-a deal is not calculated.
-The system can assess positive cash flow,
-and automatically generates other deal structures,
-without exposing the lender to risk.
-
-Current state of technology is that any deal is manually analyzed and scored for criteria.
-We developed the approach to eliminate this interaction by applying Models to analyzing each criterion and consider if they are aligned with the intent.
-The model determines if changes or additional input data is needed.
-
-
-The key learning gained from this experimentation is in the development of machine learning powered option analysis tools,
-which can reduce the turnaround time for mortgage analysis from days to minutes.
+occulus VR advancements.txt
+Displaying occulus VR advancements.txt.
