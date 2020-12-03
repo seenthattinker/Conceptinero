@@ -8,19 +8,10 @@ Advantage Platforms
 
 System uncertainty necessitated experimental development to bring Artificial Intelligence (AI) and Machine Learning (ML) to the mortgage lending business.
 The mortgage technology industry wished to advance Artificial Intelligence (AI) and Machine Learning (ML) applications.
-..The system uncertainty arose from the complex relationships between underwriters and agents and the defined markets in which they operate,
-..beginning with prime rates and descending from there.
 Advantage Platforms has developed a SaaS based system for mortgage underwriting.
 It uses a virtual underwriter to assess data and provide options for a mortgage.
 We are advancing our model by extending the system into a virtual agent model, and extending the virtual agent model into other financing institutions.
 
-..Thi isn't system uncertainty, its just complex buisness logic. When we speak about systems, we need to be able to tie it back to a Technology ..platform/framework/architecture/pattern  which is being used in the project. 
-..The system uncertainty involves melding rules from different lending institutions.
-..A bank is an entirely different entity than a Credit Union,
-..legally speaking.
-..They are not legally bound to the risk rules in the banking sector,
-..and a mortgage client who might be sub-prime in the banking world could very well get prime rates at a Credit Union.
-..Now, creation of an Rules Engine is a system, to encapsulate the business logic of Bank lending and Credit Union lending, into an abstracted Rules Module 
 The framework for the virtual underwriter involved an interface created with our Crystal Tools.
 It was assumed that the virtual agent would largely be a facsimile of the virtual underwriter,
 however,
