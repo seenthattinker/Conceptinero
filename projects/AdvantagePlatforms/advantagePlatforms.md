@@ -22,11 +22,11 @@ like banks and Credit Unions
 &mdash;
 of the mortgage world without constantly resetting transactions due to legal constraints on an underwriter.
 
-We hypothesized that we could develop a process for ingesting, storing, analysing, and communicating deal data, which could be sent through a set of algorithms and a result option will be generated and applied automatically, which is optimal based on the mortgage parameters in question; and could improve processing time to less than 1 minute. If it proved not to be a good result, it will be sent back to the ML for improvement. In order to understand what deal result set is best suited for rejection still stands as a current obstacle in our research. 
+We hypothesized that we could develop a process for ingesting, storing, analysing, and communicating deal data, which could be sent through a set of algorithms and a result option will be generated and applied automatically, which is optimal based on the mortgage parameters in question; and could improve processing time to less than 1 minute. If it proved not to be a good result, it will be sent back to the ML for improvement. In order to understand what deal result set is best suited for rejection still stands as a current obstacle in our research.
 
 ### What work did you perform in the tax year to overcome the scientific or technological uncertainties described in line 242?
 
-We set up a data ingestion model to straddle a developmental environment for the virtual agent model that interacted with a 
+We set up a data ingestion model to straddle a developmental environment for the virtual agent model that interacted with a
 system already using a virtual underwriter.
 We created scenarios to test our hypotheses in an effort to create a unified system that can begin and end an interaction between an agent and underwriter with a deal or no possible deal,
 with no market unexplored,
@@ -38,7 +38,7 @@ we continued developing the datasets within the ML modelling tools we built last
 change context,
 and adapt to situations in a manner befitting a human intelligence.
 
-In order to achieve this, we realized we needed to introduce to our model new paramaters and attributes related to multiple markets defined by risk, or 
+In order to achieve this, we realized we needed to introduce to our model new paramaters and attributes related to multiple markets defined by risk, or
 prime and sub-prime markets,
 where sub-prime could be a host of alternative markets based on the risk of the lender,
 down payment,
@@ -50,7 +50,7 @@ If an agent and an underwriter engage each other for an AI transaction,
 and the underwriter does not have binding authority for sub-prime markets,
 the entire transaction has to begin anew with a new AI underwriter authorized to work in sub-prime.
 
-through experimentation we realized that the first layer of the mortgage market parameters separates people into different group attributes based on 
+through experimentation we realized that the first layer of the mortgage market parameters separates people into different group attributes based on
 primary characteristics.
 We next use the ML models to incorporate the data of Credit Unions as another possible context to secure lending,
 to determine what shared infrastructure can exist between the two underwriter AI systems.
@@ -81,7 +81,7 @@ prime or some form of sub-prime
 &mdash;
 correlates to the options available to them and their binding authorities.
 An authorization structure pivoted off the data sets available to construct mortgage options,
-which are determined by what kind of market parameters are ingested. 
+which are determined by what kind of market parameters are ingested.
 This required that we have the ability for virtual agents to pass real clients based on the available markets.
 When the agents changed we had to reconfigure all the data for available options,
 so,
@@ -90,13 +90,14 @@ switching of agents was resetting all state to the new scenario.
 By year end, we were experimenting with transitioning state to new authorized AI elements so we don't have to reset, which impacted our processing goals.
 
 ### What scientific or technological advancements did you achieve or attempt to achieve as a result of the work described in line 244? (Maximum 350 words)
-Advantage Platforms’ Crystal Tools were created for the purpose of developing a technology layer that would overcome existing limitations in easily be able to plug into existing environments. It would sit in front of a system and in-between broker systems where it would assess the deal in process and determine under-writer base. The Current state of technology is that any deal is manually analyzed and scored for criteria. We developed the approach to eliminate this interaction by applying Models to analyzing each criterion and consider if they are aligned with the intent. The model determines if changes or additional input data is needed. 
+
+Advantage Platforms’ Crystal Tools were created for the purpose of developing a technology layer that would overcome existing limitations in easily be able to plug into existing environments. It would sit in front of a system and in-between broker systems where it would assess the deal in process and determine under-writer base. The Current state of technology is that any deal is manually analyzed and scored for criteria. We developed the approach to eliminate this interaction by applying Models to analyzing each criterion and consider if they are aligned with the intent. The model determines if changes or additional input data is needed.
 
 To accommodate full automation, interfacing with external mortgage systems was necessary to attain a certain offer result.  Advancements included closing deals as quick as possible: under 30 seconds is ideal, a minute or more was too long. We were able to achieve 1-2-second deal data processing times.  This changed the way underwriters would interact with users. Deals could potentially then be restructured to offer more result offerings, within a range of the original options, building in predictive concessions. Our Crystal tools ensure that no offer will be placed in front of an end user unless it suits their situation and works. This allows flexible deal flow.  
 
-The key learning gained from this experimentation is in the development of machine learning powered option analysis tools, which can reduce the turnaround time for mortgage analysis from days to minutes. 
+The key learning gained from this experimentation is in the development of machine learning powered option analysis tools, which can reduce the turnaround time for mortgage analysis from days to minutes.
 
-In the fiscal period 2020, 
+In the fiscal period 2020,
 we created a development and testing environment that incrementally applies changes to a last years advancements, for the purpose of creating two AI agent concepts,
 an underwriter and an agent/broker,
 interacting within numerous AI perspectives and base lending environments,
