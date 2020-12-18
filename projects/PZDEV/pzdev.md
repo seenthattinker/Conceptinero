@@ -3,6 +3,25 @@ Patient News - T661
 
 
 
+### What scientific or technological uncertainties did you attempt to overcome? (Maximum 350 words)
+
+The technical uncertainties we faced in the fiscal year were related to growing our business to maintain competitive advantage.
+Specifically,
+we had to bridge two separate applications with a single sign-on,
+train artificial intelligence to work with our call analysis,
+reconfigure our SQL backend for speed and volume,
+begin the process of shifting our entire application from Ruby on Rails to nodejs and AngularJS,
+again for expansion and competitive advantage.
+We did extensive research on how to achieve the single sign-on,
+experimenting until we got a working version.
+
+
+
+
+
+
+
+### What work did you perform in the tax year to overcome the scientific or technological uncertainties described in line 242?
 
 
 ### Tableau Integration
@@ -15,7 +34,7 @@ The communication between Ruby on Rails &reg;
 used to develop our application
 &mdash;
 and the Tableau server was an unknown.
-The integration needed to enable Security Assertion Markup Language (SAML) &copy;.
+The integration needed to enable Security Assertion Markup Language (SAML).
 We investigated the possibility of an existing Ruby plugin.
 No such plugin existed.
 This necessitated the construction of a solution that would manage the connection between Tableau and our application.
@@ -85,7 +104,7 @@ We experimented with moving conditions between queries to optimize the query str
 &mdash;
 joins and things like this
 &mdash;
-to see if it would spwed up the searches.
+to see if it would speed up the searches.
 The page then loaded in 10-15 seconds.
 All the queries were triggered at the same time,
 and,
@@ -159,6 +178,8 @@ Afterwards,
 every time an Angular page is accessed,
 it would search for these cookies and authorize or deny the request.
 
+
+### What scientific or technological advancements did you achieve or attempt to achieve as a result of the work described in line 244? (Maximum 350 words)
 
 
 
