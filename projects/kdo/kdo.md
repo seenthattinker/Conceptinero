@@ -1,7 +1,15 @@
 Kingsley Speed Dating Application T661
 =======================================
 
+### What technological obstacles did you have to overcome? 350 words max – 50 lines of 78 characters
 
+
+
+
+### What work did you perform in the tax year to overcome those technological obstacles?   700 words max - 100 lines of 78
+
+
+characters
 web sockets for real time info
 backend handles timing
 creates new rooms
@@ -94,35 +102,7 @@ viable project in two months
 features added over time
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### What technological advancements were you trying to achieve? 	350 words max - 50 lines of 78 characters
 
 
 
