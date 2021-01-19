@@ -62,7 +62,7 @@ may not get used. Dozens of device options were experimented with, and
 we found we required articulation based on what is happening during the
 operation. We had to be able to point at different parts, describe them,
 how to assemble and use them, define conditions under which devices get
-used, and which ones do not.
+used, and which ones don't.
 
 Cameras
 
@@ -86,7 +86,7 @@ experimented with many use cases that might be beneficial to a surgical
 environment, which we found saves time by having a technician to work
 one, two, three steps ahead of the operating room users; avoids delays
 caused by pan, tilt and zoom of a single camera and single laser, which
-do not move quickly, and further this would help operating room staff
+don't move quickly, and further this would help operating room staff
 identify instruments and devices more quickly. We realized that as some
 orthopedic operating room set-ups may be too large to be effectively
 covered by a single camera, especially when using a sterile implant room
