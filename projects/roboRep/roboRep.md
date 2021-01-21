@@ -1,7 +1,7 @@
 1.  Robo Rep T661
     =============
 
-    1.  ### What scientific or technological uncertainties did you attempt to overcome? (Maximum 350 words)
+### What scientific or technological uncertainties did you attempt to overcome? (Maximum 350 words)
 
 This technology evolved out of the work of a medical device
 representative who found himself wasting copious numbers of hours
