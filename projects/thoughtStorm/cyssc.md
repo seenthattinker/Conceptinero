@@ -3,51 +3,66 @@ CYSSC Platform Modernization
 
 ### What scientific or technological uncertainties did you attempt to overcome? (Maximum 350 words)      
 
+￼
+<!---
+The approach to this SRED application is *process as patent*. The client was tasked with auditing and documenting three systems that sat upon an IBM AIX UNIX infrastructure with Power 7 and 8 processors. Once the audit of the three systems was completed, their business, presentation, and data layers understood, a port to Red Hat Linux and then to the cloud.
+
+The theory of the SRED application is that the process of migrating old, complex legacy systems on UNIX variants, but especially IBM, which has a huge footprint in the banking and government sectors of the computing world, is in itself a process patented by experience which provides a road map for similar projects that can be marketed directly to the legacy IBM market looking to go to cloud, which, is trends persist, will be nearly one hundred percent of these systems.    
+-->
+
+We needed a process to move three layer systems
+&mdash;
+data,
+business,
+presentation
+&mdash;
+from a legacy infrastructure to the cloud.
 
 
-.. The approach to this SRED application is *process as patent*.
-The client was tasked with auditing and documenting three systems that sat upon an IBM AIX UNIX infrastructure with Power 7 and 8 processors.
-Once the audit of the three systems was completed,
-their business,
-presentation,
-and data layers understood,
-a port to Red Hat Linux and then to the cloud.
 
-.. The theory of the SRED application is that the process of migrating old,
-complex legacy systems on UNIX variants,
-but especially IBM,
-which has a huge footprint in the banking and government sectors of the computing world,
-is in itself a process patented by experience which provides a road map for similar projects that can be marketed directly to the legacy IBM market looking to go to cloud,
-which,
-is trends persist,
-will be nearly one hundred percent of these systems.            
 
 The Ministry of Children,
-Community and Social Services (Ministry) mandate includes responsibilities for Social Assistance,
-Child Welfare,
-and Spousal and Child Support.
-These three programs are foundational to the Ministry’s vision of helping children,
-youth and adults access services,
-supports and opportunities in their communities.
-
-
+Community and Social Services (Ministry) mandate includes responsibilities for social assistance,
+child welfare,
+and spousal and child support.
 The Ministry relies on a variety of applications to support its mandate.
 Of these applications,
-the three largest are the Social Assistance Management System (SAMS) to deliver Social Assistance services,
+the three largest are the Social Assistance Management System (SAMS) to deliver social assistance services,
 the Child Protection Information Network (CPIN) as the consolidated case management system for Children’s Aid Societies that maintains critical information about every child in need of protection,
 and the Family Case Management System (FCMS) to manage and process payments for spousal and child support.
-
-
 The Common Cluster Platform (CCP) hardware used to house these applications is IBM Power 7/8 infrastructure on which the underpinning technology stack run.
+The legacy Operating System (OS) is IBM's AIX UNIX variant.
 
 
-Implementing a digital platform includes migrating to LINUX operating system,
+AIX cannot go directly to the cloud.
+The three applications had to first be ported to Linux,
+along with the CCP.
+This is a non-commercial use so we had flexibility with the Linux base.
+After research and investigation,
+we selected Red Hat Enterprise Linux (RHEL).
+We had to design the process in conformity to,
+*GO-ITS 25.21 Cloud First Principles and Security Requirements*,
+The Ontario Public Service (OPS) security and compliance standard.
+
+<!--
+Process is the SRED
+-->
+
+The plan had to include,
 new ITS GoCloud infrastructure,
 decommissioning existing Common Cluster Platform (CCP),
 adopting Cloud technology,
 performance tuning,
-and setting up a Disaster Recovery infrastructure.
-It will also include the migration (“lift and shift”) of hosted applications such as SAMS,
+and setting up a Disaster Recovery Plan (DRP) inclusive of infrastructure.
+
+
+
+The migration
+&mdash;
+lift and shift
+&mdash;
+of the AIX hosted applications:
+SAMS,
 CPIN,
 FCMS,
 mFTIS,
@@ -57,80 +72,57 @@ RTC,
 Cognos,
 Control-M,
 Informatica,
-etc.
-to the new platform.
-Application re-architecture is not in scope,
-that is only changes required to make applications run in the ITS GoCloud platform will be accommodated.
+and others to the new platform.
 
-
-
-
-
-
-***4.
-Was the overall approach undertaken for the purpose of achieving a scientific or a technological advancement? Explain.
-***                       
-
--   ***Advancements can occur in knowledge of new techniques,
-but also in our understanding how best to use them and which solutions,
-techniques,
-are appropriate for which purposes.
-***                 
-
-Team followed TSI’s internal process to plan a successful implementation:
-
-
-The goal was to understand Ministry requirements and current state of technology.
-Team needed to ensure this documentation was accurate and complete.
-This was followed up by building an alignment on the *target state* infrastructure including documenting the assumptions and technical constraints.
+Application re-architecture was not in scope.
+Only changes required to make applications run in the ITS GoCloud platform were part of the process.
+The first stage we developed was accurate inventory of Ministry requirements and current state of technology.
+This involved ensuring documentation was accurate and complete.
+Then we built an alignment on the *target state* infrastructure,
+including documenting the assumptions and technical constraints.
 The infrastructure was quite old compared to today’s standards.
 The state of technology at the beginning of the project had several shortcomings and/or limitations,
 as well as technological problems and unknown elements.
 
 
-**Application Migration **        
+### What work did you perform in the tax year to overcome the scientific or technological uncertainties described in line 242?
 
-Key challenges in moving application from one environment to another environment are the compatibility with the new infrastructure and integration with other systems.
+APPLICATION MIGRATION   
+
+We created a compatibility map with the new infrastructure to integrate the systems.
+This involved a forensic audit of all the working parts.
+For each of these component parts we had to map to a duplicate service on GoCloud.
 Not all the technical parameters and integration points were known.
 
 
-**Data Migration **               
+DATA MIGRATION      
 
-The most difficult challenge is moving one data structure to another,
-called Data Transmit,
-where in the legacy system all of the data is in one bulk layer,
-whereas in the new architecture,
-it is divided into three components,
+We had to move one data structure to another.
+The legacy system had all of the data in one bulk layer.
+The new architecture has a data layer divided into three components:
 links,
 text,
 and images.
-We were uncertain of the development approach which would allow data connection and data transport between two CMS system versions,
-where the data content would be displayed from both sides from the different versions.
+We were uncertain of the development approach.
+We needed a data connection and data transport between two Content Management System (CMS) versions,
+one in which the data content could be displayed from both sides from the different versions.
+We had to map applications and data migration into logical buckets
+&mdash;
+applications and database by lines of business,
+technical complexity,
+and similarity.
 
 
-**Activities**   ***2.
-Did the effort involve formulating hypotheses (*approaches,
-* specifically aimed at reducing or eliminating that uncertainty? *Iterations,
-*                      Explain.
-***                       
+CLOUD MIGRATION ASSESSMENT AND PLANNING    
 
-*outcome,
-success,
-failures)*      TSI technical team came up with different scenario and based on early assessment,
-applications and data migration was divided into logical buckets – this was based on applications and database by lines of business,
-technical complexities & similarities.
+We had to port each application across two fields of operation,
+the first being RHEL and the other being GoCloud.                       
+We had to engage stakeholders,
+catalog resources and software on premises,
+examine Service Level Agreements (SLA),
+ensure continuous operation as we ported to the cloud.               
 
-
-A.
-Cloud Migration Assessment and Planning                          
-
--   Discover and evaluate applications                  
-
--   Engage Stakeholders           
-
--   Catalog on-prem resources and software                      
-
--   Categorize Application needs and workload e.
+We categorized Application needs and workload e.
 g.
 Platform,
 Data,
@@ -334,3 +326,12 @@ modern methodologies and technologies and increased confidence in cloud migratio
 -   Observed a cultural and behavioral shift (i.
 e.
 continuous delivery) and demonstrated highly effective ‘balanced team’ with increased levels of collaboration and shared responsibility                
+
+
+
+
+
+
+Red Hat is a non-commercial platform.
+GNU License.
+The SRED is the process.
