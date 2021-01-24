@@ -1,4 +1,4 @@
-CYSSC Platform Modernization      
+CYSSC Platform Modernization T661    
 ====================================
 
 ### What scientific or technological uncertainties did you attempt to overcome? (Maximum 350 words)      
@@ -7,7 +7,7 @@ CYSSC Platform Modernization
 <!---
 The approach to this SRED application is *process as patent*. The client was tasked with auditing and documenting three systems that sat upon an IBM AIX UNIX infrastructure with Power 7 and 8 processors. Once the audit of the three systems was completed, their business, presentation, and data layers understood, a port to Red Hat Linux and then to the cloud.
 
-The theory of the SRED application is that the process of migrating old, complex legacy systems on UNIX variants, but especially IBM, which has a huge footprint in the banking and government sectors of the computing world, is in itself a process patented by experience which provides a road map for similar projects that can be marketed directly to the legacy IBM market looking to go to cloud, which, is trends persist, will be nearly one hundred percent of these systems.    
+The theory of the SRED application is that the process of migrating old, complex legacy systems on UNIX variants, but especially IBM, which has a huge footprint in the banking and government sectors of the computing world, is in itself a process patented by experience which provides a road map for similar projects that can be marketed directly to the legacy IBM market looking to go to cloud, which, as trends persist, will be nearly one hundred percent of these systems.    
 -->
 
 We needed a process to move three layer systems
@@ -122,216 +122,153 @@ catalog resources and software on premises,
 examine Service Level Agreements (SLA),
 ensure continuous operation as we ported to the cloud.               
 
-We categorized Application needs and workload e.
-g.
-Platform,
-Data,
-Connectivity,
-Security & Compliance,
-Network,
-High Availability and Maintenance  
+We categorized application needs and workload,
+for example,
+platform,
+data,
+connectivity,
+security and compliance,
+network,
+high availability and maintenance.  
 
--   Plan migration – PaaS/SaaS; “Lift and Shift; Application Evaluation; Application re-architecting; Organization Readiness e.
-g.
-Resources,
-Risk,
-Dependencies etc.
+We planned the migration to PaaS/SaaS:
+the *lift and shift*,
+application evaluation,
+application architecture changes,
+organizational readiness,
+for example,
+resources,
+risk,
+dependencies,
+and things like this.
 
-
--   Plan sprints to migrate       
-
-B.
-Cloud Build & Implementation Support                           
-
--   Prepare migration plan and    
- execute iterative sprints     
-
--   Select Applications and       
- strategy – Rehost,
-Refactor,
-
- Re-architect,
-Re-build        
-
--   Apply / implement the         
- migration strategy            
-
--   Start sprints to move from    
- on-prem to Azure using        
- Automation tools available    
-
--   Optimize sprints – improve    
- capabilities and analyze      
- cost,
-risk etc.
+At several stages of the planning we had to rollback due to incorrect assumptions.
+What emerged as eminent in the process was sequence.
+It was like a chess game.
+What parts get decommissioned first?
+What is the impact on the overall system?
+What would create a service outage?
+What would violate the IT Department's SLA with the Ministry?
+The rollbacks in the plan were part of the experimental development,
+the refinement that brought a cogent plan into focus.
 
 
--   Secure and manage migration   
- sprints – Security,
-Data      
- protection,
-Network Access    
- Control,
-NSG Azure DDoS       
- protection                    
-
-C.
-Delivery Team Automation       
-Coaching and Knowledge Transfer   
-
--   Engage Stakeholders and       
- Ministry team members         
-
--   Prepare and communicate       
- Assessment report and         
- Migration Plan                
-
--   Analyze and evaluate          
- dependencies                  
-
--   Start iterative migration     
- sprints                       
-
-![](media/image2.
-emf){width="5.
-32
-6388888888889in"                  
-height="3.
-6319444444444446in"}    
-
-***3.
-Was the overall approach    
-adopted consistent with a         
-systematic investigation or       
-search,
-including formulating and
-testing the hypotheses by         
-experiment or analysis?           
-Explain.
-***                       
-
-TSI team used the above-mentioned
-approach as a starting points and
-as more data became available,
-
-tweaks were made to further       
-refine it.
+PLAN SPRINTS TO MIGRATE       
 
 
-***5.
-Was a record of the         
-hypotheses tested and the results
-kept as the work progressed?      
-Explain.
-***                       
+We used sprints to define milestones and safe places from which to deploy the next movement in the plan.
 
-*When describing work,
-focus on   
-the following:*                   
+For cloud build and implementation support we prepared migration plans and executed iterative sprints;
+we selected applications and strategy
+&mdash;
+re-host,
+refactor,
+new architecture,
+rebuild.       
 
--   *Chronological Milestones of the process (initial design,
-different versions of prototype development,
-alpha testing,
-beta testing,
-black-box testing etc.
-) *     
+We applied and implemented the migration strategy by sprints to move from on-premises to Azure &trade;with automation tools;    
+we optimized the sprints,
+improved capabilities and analyzed cost,
+risk,
+and the like;
+we secured and managed migration sprints,
+Security,
+Data,     
+protection,
+network access,  
+control,
+NSG Azure DDoS protection,
+and others.                    
 
--   *Barriers /challenges encountered and how they were solved (or not solved)*       
 
--   *What results were obtained? What conclusions were drawn? What happened next? *         
+DELIVERY TEAM AUTOMATION
 
-*Also identify/describe the work done by subcontractors (if applicable).
-*                     
+Part of the plan per the original RFP was coaching and knowledge transfer.  
+We had to engage stakeholders and  Ministry team members;
+prepare and communicate assessment reports and migration plans on a spec by spec,
+part by part basis;               
+we had to analyze and evaluate dependencies before starting iterative migration sprints.                      
 
-*Include all activities (for example,
-initial designs,
-experiments,
-analysis,
-data collection,
-prototype design/testing/modification,
-all testing,
-small scale and large scale beta testing and their results,
-re-work due to problems,
-re-design,
-etc.
-)*                 
+We used systematic investigation as our starting point.
+As more data became available tweaks were made to further refine it.
+On gross miscalculation,
+after thorough consultation with the Ministry,
+the process rolled back to its last working link.
+The rollbacks formed the basis of the learning and development of a thorough process for double port migrations like UNIX to Linux to GoCloud.
 
-*Provide dates by month if possible (example: “the version was developed by June 2017")*     
+<!--
+It would be great to have a pint of blood here, which means an example of a significant rollback unforeseen by all parties and against all expectations and counsel from the Ministry.
+-->
 
-Yes,
-Mandy to provide details     
 
-**Major Technological              ***1.
-Was there a scientific or a
-Obstacles,
-**                       technological uncertainty?***     
+<!--
+Was a record of the hypotheses tested and the results kept as the work progressed?
 
-**Issues**                         -   *Explain the Specific         
- constraints and technological challenges,
-they are often due to the specific nature of the product,
-which technologies are to be used,
-and/or the setting in which the software is to be used.
-*
+Mandy is to provide.
 
--   *What were the technical issues / challenges / limitations /constraints in this setting? *               
+-->
 
-*(Underline technology issues,
-not product functions and features.
-) *                      
+### What scientific or technological advancements did you achieve or attempt to achieve as a result of the work described in line 244? (Maximum 350 words)
 
--   ***Need to understand the specific constraints or technological barriers ***    
+<!--
 
--   ***Use specific technical terminology*\ ***Examples of constraints:*  
+Kevin this is what they put for accomplishments.
+I did a rewrite.
 
- -   *Volume of data (Process more than 150 terabytes of data)*                 
-
- -   *Footprint (Consume less than 100k of memory)*     
-
- -   *Scalability (Gracefully adapt to increase/decrease of load)*                    
-
- -   *Response time (Requests performed within 100ms)*  
-
- -   *Concurrency (Handle 1,
-000 users simultaneously)*          
-
- -   *Synchronization (Synchronize with a sessionless system)*      
-
- -   *Stability (Mean Time Between Failure &gt; 1 year)*                    
-
- -   *Legacy & Compatibility Issues (Work seamlessly with legacy data model)*  
-
- -   *Open Source Tools and Plug-ins did not work as intended (Needed to develop new uses/extend capabilities*             
-
-<!-- -->                          
-
--   Reduced maintenance and support overhead – 300K lines of code removed               
-
--   Ease of access – one-click sign in (SSO) with Azure AD,
-Public Secure and Google\* accounts                      
-
--   Increased scalability (i.
-e.
-Audit/Logging scales to 5M+ events per minute); access to 1.
-2B events                   
-
--   Established capabilities for clients by perform trends analysis and alerting         
-
--   Improved cross-platform enablement and security (windows,
-iPad,
-mobile) without needing VPN or PKI complexities                  
-
--   Adopted progressive,
+We reduced maintenance and support overhead,
+the hundred thousand lines of code were removed.
+We created ease of access,
+one-click sign in (SSO) with Azure AD,
+Public Secure and Google accounts                      
+We increased scalability,
+for example,
+audit/logging scales to five million plus events per minute.
+access to  events
+We established capabilities for clients by perform trends analysis and alerting.        
+We improved cross-platform enablement and security (windows, iPad,
+mobile) without needing VPN or PKI complexities.                 
+We adopted progressive,
 modern methodologies and technologies and increased confidence in cloud migration delivery                      
+We observed a cultural and behavioral shift
+&mdash;
+continuous delivery
+&mdash;
+and demonstrated highly effective ‘balanced team’ with increased levels of collaboration and shared responsibility                
 
--   Observed a cultural and behavioral shift (i.
-e.
-continuous delivery) and demonstrated highly effective ‘balanced team’ with increased levels of collaboration and shared responsibility                
+-->
 
 
 
+We created a detailed process to move three layer systems from a legacy infrastructure to the cloud.
+We thoroughly documented the stages from UNIX/IBM/AIX to RHEL and then to GoCloud for cloud deployment and maintenance.
 
+We wrote our reusable business plan in strict conformity with *GO-ITS 25.21 Cloud First Principles and Security Requirements*,
+The Ontario Public Service (OPS) security and compliance standard.
 
+We proved that RHEL is the best Linux platform for the level of support the Ministry requires and ease of use,
+making it our go-to solution for cloud migrations from UNIX variants.
 
-Red Hat is a non-commercial platform.
-GNU License.
-The SRED is the process.
+The plan we created includes new ITS GoCloud infrastructure,
+decommissioning existing Common Cluster Platform (CCP),
+adopting Cloud technology,
+performance tuning,
+and setting up a Disaster Recovery Plan (DRP) inclusive of infrastructure.
+We wrote and planned the DRP,
+in terms of infrastructure and responsiveness,
+in line with a mission critical application in the financial sector.
+We sequentially migrated
+applications,
+data,
+conceptually ported to the cloud,
+developed sprints to migrate with no application interruption between legacy and cloud.  
+We automated delivery team automation.
+
+In short,
+we developed a methodology so extensive it constitutes a best-in-class migration from UNIX to the cloud with Linux as the connector.
+The plans and steps to realize this now constitute a competitive advantage for us in a marketplace rich with legacy UNIX applications,
+specifically on IBM,
+looking to migrate to the cloud.
+
+We provided invaluable knowledge and experience to the Ministry,
+which they can now share with the Ontario Public Sector for more defined Requests for Proposals (RFPs) from vendors.
+We have also given ourselves a marked advantage in this marketplace because we can respond to RFPs with more precision and acumen than any vendor who has not realized a UNIX to cloud legacy migration.
