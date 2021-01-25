@@ -1,463 +1,205 @@
-**Item of SR&ED work**
+SG Legacy System Modernization Program T661
+=============================================    
 
-One page per project is ideal. Bullet form is sufficient
+### What scientific or technological uncertainties did you attempt to overcome? (Maximum 350 words)      
 
-+-----------------------------------+-----------------------------------+
-| **SRED Project Name**             | SG Legacy System Modernization    |
-|                                   | Program                           |
-+===================================+===================================+
-| **Key Contacts**                  | Amit Koul, VP Digital & IT        |
-+-----------------------------------+-----------------------------------+
-| **Project**                       | SG Legacy System Modernization    |
-|                                   | Program                           |
-+-----------------------------------+-----------------------------------+
-| **Sub-project**                   | n/a                               |
-+-----------------------------------+-----------------------------------+
-| **Start date**                    | Aug 2018                          |
-+-----------------------------------+-----------------------------------+
-| **End Date**                      | Aug 2019                          |
-+-----------------------------------+-----------------------------------+
-| ***Technical Advancement ***      | ***PROJECT BACKGROUND:***         |
-|                                   |                                   |
-|                                   | *What was the state of the common |
-|                                   | body of knowledge at the company  |
-|                                   | in respect to the technology      |
-|                                   | surrounding the obstacle at the   |
-|                                   | start of the project? (include    |
-|                                   | technical platform, and the       |
-|                                   | improvement sought or achieved)*  |
-|                                   |                                   |
-|                                   | *(Include all activities and due  |
-|                                   | diligence (for example,           |
-|                                   | literature search, technology     |
-|                                   | review)*                          |
-|                                   |                                   |
-|                                   | Established in 2005, Stargate     |
-|                                   | Logistics is fast growing company |
-|                                   | in transportation industry        |
-|                                   | providing                         |
-|                                   | transportation/logistics services |
-|                                   | across North America.             |
-|                                   |                                   |
-|                                   | In today’s customer-centric,      |
-|                                   | digitized way doing business,     |
-|                                   | Stargate was under constant       |
-|                                   | pressure to remain competitive,   |
-|                                   | deliver quality customer service, |
-|                                   | and find innovative ways to       |
-|                                   | optimize their operations. The    |
-|                                   | following is a list of specific   |
-|                                   | challenges that were impacting    |
-|                                   | the operations and profitability  |
-|                                   | of the company                    |
-|                                   |                                   |
-|                                   | -   increasing operational costs  |
-|                                   |                                   |
-|                                   | -   manual business processes     |
-|                                   |                                   |
-|                                   | -   outdated legacy systems       |
-|                                   |                                   |
-|                                   | -   stricter regulations imposed  |
-|                                   |     by federal, provincial, state |
-|                                   |     and local authorities         |
-|                                   |                                   |
-|                                   | -   environmental issues          |
-|                                   |                                   |
-|                                   | -   driver shortage and retention |
-|                                   |                                   |
-|                                   | -   lack of a technology strategy |
-|                                   |     & implementation              |
-|                                   |                                   |
-|                                   | ***4. Was the overall approach    |
-|                                   | undertaken for the purpose of     |
-|                                   | achieving a scientific or a       |
-|                                   | technological advancement?        |
-|                                   | Explain.***                       |
-|                                   |                                   |
-|                                   | -   ***Advancements can occur in  |
-|                                   |     knowledge of new techniques,  |
-|                                   |     but also in our understanding |
-|                                   |     how best to use them and      |
-|                                   |     which solutions, techniques,  |
-|                                   |     are appropriate for which     |
-|                                   |     purposes. ***                 |
-|                                   |                                   |
-|                                   | **Strategy:**                     |
-|                                   |                                   |
-|                                   | Stargate appointed TSI to         |
-|                                   | complete a comprehensive end to   |
-|                                   | end assessment of their industry  |
-|                                   | and business operations and       |
-|                                   | devise an overall business        |
-|                                   | transformation strategy to        |
-|                                   | achieve the following business    |
-|                                   | objectives                        |
-|                                   |                                   |
-|                                   | -   Fleet Visibility and Tracking |
-|                                   |                                   |
-|                                   | -   Increase Operational          |
-|                                   |     Efficiency                    |
-|                                   |                                   |
-|                                   | -   Decrease Operating Expenses   |
-|                                   |                                   |
-|                                   | -   Increase Compliance and       |
-|                                   |     Safety                        |
-|                                   |                                   |
-|                                   | -   Modernize Fleet Management &  |
-|                                   |     Maintenance                   |
-|                                   |                                   |
-|                                   | **Scope:**                        |
-|                                   |                                   |
-|                                   | To address the above challenges   |
-|                                   | and meet the company’s business   |
-|                                   | objectives, TSI established the   |
-|                                   | SGL Modernization Program with    |
-|                                   | the following scope:              |
-|                                   |                                   |
-|                                   | -   End to end review and         |
-|                                   |     assessment of current         |
-|                                   |     business processes,           |
-|                                   |     technology and organizational |
-|                                   |     structure                     |
-|                                   |                                   |
-|                                   | -   Understanding and             |
-|                                   |     documentation of requirements |
-|                                   |     for the future state          |
-|                                   |                                   |
-|                                   | -   Design, Development and       |
-|                                   |     Delivery of Integrated        |
-|                                   |     solutions for                 |
-|                                   |                                   |
-|                                   |     1.  Dispatch Management       |
-|                                   |                                   |
-|                                   |     2.  Fleet Management          |
-|                                   |                                   |
-|                                   |     3.  Human Resource Management |
-|                                   |                                   |
-|                                   |     4.  Finance Management        |
-|                                   |                                   |
-|                                   |     5.  Warehousing               |
-|                                   |                                   |
-|                                   |     6.  Repairs and Maintenance   |
-|                                   |                                   |
-|                                   | For the SGL Modernization         |
-|                                   | Program, TSI leveraged            |
-|                                   | partnerships with the following   |
-|                                   | technology vendors and            |
-|                                   | proprietary software companies in |
-|                                   | order to successfully implement   |
-|                                   | integrations using various APIs.  |
-|                                   |                                   |
-|                                   | -   Microsoft for Azure Cloud     |
-|                                   |     services                      |
-|                                   |                                   |
-|                                   | -   Samsara for GPS tracking      |
-|                                   |     devices                       |
-|                                   |                                   |
-|                                   | -   IngramMicro &                 |
-|                                   |                                   |
-|                                   | -   Various software vendor       |
-|                                   |                                   |
-|                                   | As part of this engagement, TSI   |
-|                                   | fully resourced the Program Team  |
-|                                   | with the following key roles      |
-|                                   |                                   |
-|                                   | -   Business/Systems Analysts     |
-|                                   |                                   |
-|                                   | -   Solution Architect            |
-|                                   |                                   |
-|                                   | -   Technical Lead                |
-|                                   |                                   |
-|                                   | -   Software Engineers            |
-|                                   |                                   |
-|                                   | -   Middleware/Integration        |
-|                                   |     Specialist                    |
-|                                   |                                   |
-|                                   | -   Database Administrators       |
-|                                   |                                   |
-|                                   | -   Test Engineers                |
-|                                   |                                   |
-|                                   | -   Project Manager               |
-|                                   |                                   |
-|                                   | -   Training Lead                 |
-|                                   |                                   |
-|                                   | -   Organization Change           |
-|                                   |     Management Lead               |
-|                                   |                                   |
-|                                   | **Application Integration **      |
-|                                   |                                   |
-|                                   | Key challenges was integration    |
-|                                   | with various applications which   |
-|                                   | were all developed/bought from    |
-|                                   | various vendors without           |
-|                                   | understanding the integration     |
-|                                   | complexities.                     |
-+-----------------------------------+-----------------------------------+
-| **Activities**                    | ***2. Did the effort involve      |
-|                                   | formulating hypotheses            |
-| (*approaches,*                    | specifically aimed at reducing or |
-|                                   | eliminating that uncertainty?     |
-| *Iterations,*                     | Explain.***                       |
-|                                   |                                   |
-| *outcome, success, failures)*     | TSI deployed multiple strategies  |
-|                                   | in order to meet project          |
-|                                   | objectives and overcome issues    |
-|                                   | involving scope and timing:       |
-|                                   |                                   |
-|                                   | First and foremost, TSI worked    |
-|                                   | with the client to ensure key     |
-|                                   | decisions regarding scope,        |
-|                                   | schedule and budget were clearly  |
-|                                   | understood, documented and        |
-|                                   | communicated to various client    |
-|                                   | and TSI resources. This helped to |
-|                                   | clear ambiguity around the extent |
-|                                   | of features and functionality     |
-|                                   | that the solutions would deliver. |
-|                                   |                                   |
-|                                   | Secondly, TSI maintained steady   |
-|                                   | and continual focus on            |
-|                                   | Stakeholder Engagement at all     |
-|                                   | levels by                         |
-|                                   |                                   |
-|                                   | -   Consistent and regular        |
-|                                   |     communication about the       |
-|                                   |     progress of the program to    |
-|                                   |     stakeholders with a clear     |
-|                                   |     identification of risk and    |
-|                                   |     issues along with accountable |
-|                                   |     owners                        |
-|                                   |                                   |
-|                                   | -   Tailoring of communication    |
-|                                   |     styles to address various     |
-|                                   |     types of stakeholders (senior |
-|                                   |     management vs front line      |
-|                                   |     staff)                        |
-|                                   |                                   |
-|                                   | -   Constantly applying a ‘seek   |
-|                                   |     to understand’ attitude       |
-|                                   |     client contacts so that       |
-|                                   |     solutions being offered would |
-|                                   |     address their pain points     |
-|                                   |     head-on.                      |
-|                                   |                                   |
-|                                   | Thirdly, deploying a strong       |
-|                                   | executive leadership presence and |
-|                                   | governance through an Executive   |
-|                                   | Steering Committee that comprised |
-|                                   | of the client and TSI’s           |
-|                                   | executives.                       |
-|                                   |                                   |
-|                                   | -   The ESC received frequent     |
-|                                   |     updates on the overall status |
-|                                   |     progress of program           |
-|                                   |     deliverables                  |
-|                                   |                                   |
-|                                   | -   Any obstacles and challenges  |
-|                                   |     impeding progress were        |
-|                                   |     escalated through the         |
-|                                   |     appropriate channels for      |
-|                                   |     quick resolution              |
-|                                   |                                   |
-|                                   | Finally, strong collaboration and |
-|                                   | partnership with vendors,         |
-|                                   | including frequent checkpoints to |
-|                                   | ensure vendors were meeting their |
-|                                   | target deadlines.                 |
-|                                   |                                   |
-|                                   | ***3. Was the overall approach    |
-|                                   | adopted consistent with a         |
-|                                   | systematic investigation or       |
-|                                   | search, including formulating and |
-|                                   | testing the hypotheses by         |
-|                                   | experiment or analysis?           |
-|                                   | Explain.***                       |
-|                                   |                                   |
-|                                   | Our processes and methods for     |
-|                                   | knowledge transfer focused on     |
-|                                   | ensuring the cost of ineffective  |
-|                                   | transfer is mitigated. To         |
-|                                   | facilitate knowledge transfers    |
-|                                   | from/to our IT experts to our     |
-|                                   | clients’ permanent employees we   |
-|                                   | employed a multitude of methods   |
-|                                   | to meet each customer’s           |
-|                                   | individual needs.                 |
-|                                   |                                   |
-|                                   | We worked with the client to      |
-|                                   | understand and document knowledge |
-|                                   | transfer requirements and agreed  |
-|                                   | to methods of delivery            |
-|                                   | (documentation, presentations,    |
-|                                   | tool demos, process walkthroughs  |
-|                                   | etc.)                             |
-|                                   |                                   |
-|                                   | The client was responsible for    |
-|                                   | ensuring adequate resources/time  |
-|                                   | for knowledge transfer and        |
-|                                   | associated tasks was allocated to |
-|                                   | ensure timely completion.         |
-|                                   |                                   |
-|                                   | Every step was taken to address   |
-|                                   | gaps in knowledge requirements    |
-|                                   | and approach was tailored to meet |
-|                                   | the unique needs of the knowledge |
-|                                   | recipients. Knowledge methods     |
-|                                   | included, but were not limited    |
-|                                   | to:                               |
-|                                   |                                   |
-|                                   | -   Training (Classroom and       |
-|                                   |     Virtual)                      |
-|                                   |                                   |
-|                                   | -   Shadowing                     |
-|                                   |                                   |
-|                                   | -   Coaching                      |
-|                                   |                                   |
-|                                   | -   Knowledge repository          |
-|                                   |                                   |
-|                                   | -   Desktop process and procedure |
-|                                   |     updates                       |
-|                                   |                                   |
-|                                   | -   Short-form content (job ads,  |
-|                                   |     quick reference guides)       |
-|                                   |                                   |
-|                                   | Through out the Knowledge         |
-|                                   | Transfer processes we collected   |
-|                                   | feedback to ensure end-users were |
-|                                   | able improve knowledge            |
-|                                   | capabilities (e.g. lessons        |
-|                                   | learned/observed, periodic        |
-|                                   | surveys, feedback, after action   |
-|                                   | reviews).                         |
-|                                   |                                   |
-|                                   | ***5. Was a record of the         |
-|                                   | hypotheses tested and the results |
-|                                   | kept as the work progressed?      |
-|                                   | Explain.***                       |
-|                                   |                                   |
-|                                   | *When describing work, focus on   |
-|                                   | the following:*                   |
-|                                   |                                   |
-|                                   | -   *Chronological Milestones of  |
-|                                   |     the process (initial design,  |
-|                                   |     different versions of         |
-|                                   |     prototype development, alpha  |
-|                                   |     testing, beta testing,        |
-|                                   |     black-box testing etc.) *     |
-|                                   |                                   |
-|                                   | -   *Barriers /challenges         |
-|                                   |     encountered and how they were |
-|                                   |     solved (or not solved)*       |
-|                                   |                                   |
-|                                   | -   *What results were obtained?  |
-|                                   |     What conclusions were drawn?  |
-|                                   |     What happened next? *         |
-|                                   |                                   |
-|                                   | *Also identify/describe the work  |
-|                                   | done by subcontractors (if        |
-|                                   | applicable).*                     |
-|                                   |                                   |
-|                                   | *Include all activities (for      |
-|                                   | example,initial designs,          |
-|                                   | experiments, analysis, data       |
-|                                   | collection, prototype             |
-|                                   | design/testing/modification, all  |
-|                                   | testing, small scale and large    |
-|                                   | scale beta testing and their      |
-|                                   | results, re-work due to problems, |
-|                                   | re-design, etc.)*                 |
-|                                   |                                   |
-|                                   | *Provide dates by month if        |
-|                                   | possible (example: “the version   |
-|                                   | was developed by June 2017")*     |
-|                                   |                                   |
-|                                   | Yes, we did not keep timesheets   |
-|                                   | but overall spent well over 2,000 |
-|                                   | effort hours                      |
-+-----------------------------------+-----------------------------------+
-| **Major Technological             | ***1. Was there a scientific or a |
-| Obstacles,**                      | technological uncertainty?***     |
-|                                   |                                   |
-| **Issues**                        | -   *Explain the Specific         |
-|                                   |     constraints and technological |
-|                                   |     challenges, they are often    |
-|                                   |     due to the specific nature of |
-|                                   |     the product, which            |
-|                                   |     technologies are to be used,  |
-|                                   |     and/or the setting in which   |
-|                                   |     the software is to be used. * |
-|                                   |                                   |
-|                                   | -   *What were the technical      |
-|                                   |     issues / challenges /         |
-|                                   |     limitations /constraints in   |
-|                                   |     this setting? *               |
-|                                   |                                   |
-|                                   | *(Underline technology issues,    |
-|                                   | not product functions and         |
-|                                   | features.) *                      |
-|                                   |                                   |
-|                                   | -   ***Need to understand the     |
-|                                   |     specific constraints or       |
-|                                   |     technological barriers ***    |
-|                                   |                                   |
-|                                   | -   ***Use specific technical     |
-|                                   |     terminology*\                 |
-|                                   |     ***Examples of constraints:*  |
-|                                   |                                   |
-|                                   |     -   *Volume of data (Process  |
-|                                   |         more than 150 terabytes   |
-|                                   |         of data)*                 |
-|                                   |                                   |
-|                                   |     -   *Footprint (Consume less  |
-|                                   |         than 100k of memory)*     |
-|                                   |                                   |
-|                                   |     -   *Scalability (Gracefully  |
-|                                   |         adapt to                  |
-|                                   |         increase/decrease of      |
-|                                   |         load)*                    |
-|                                   |                                   |
-|                                   |     -   *Response time (Requests  |
-|                                   |         performed within 100ms)*  |
-|                                   |                                   |
-|                                   |     -   *Concurrency (Handle      |
-|                                   |         1,000 users               |
-|                                   |         simultaneously)*          |
-|                                   |                                   |
-|                                   |     -   *Synchronization          |
-|                                   |         (Synchronize with a       |
-|                                   |         sessionless system)*      |
-|                                   |                                   |
-|                                   |     -   *Stability (Mean Time     |
-|                                   |         Between Failure &gt; 1    |
-|                                   |         year)*                    |
-|                                   |                                   |
-|                                   |     -   *Legacy & Compatibility   |
-|                                   |         Issues (Work seamlessly   |
-|                                   |         with legacy data model)*  |
-|                                   |                                   |
-|                                   |     -   *Open Source Tools and    |
-|                                   |         Plug-ins did not work as  |
-|                                   |         intended (Needed to       |
-|                                   |         develop new uses/extend   |
-|                                   |         capabilities*             |
-|                                   |                                   |
-|                                   | <!-- -->                          |
-|                                   |                                   |
-|                                   | -   Integrated Dispatch           |
-|                                   |     Management, GPS Tracking and  |
-|                                   |     Account systems togethers     |
-|                                   |                                   |
-|                                   | -   Reduced the billing &         |
-|                                   |     invoicing time by 60%         |
-|                                   |                                   |
-|                                   | -   Provided real time access to  |
-|                                   |     load tracking                 |
-|                                   |                                   |
-|                                   | -   Reduced the on-boarding time  |
-|                                   |     by 80%                        |
-|                                   |                                   |
-|                                   | -   Reduced \# of systems within  |
-|                                   |     the company from 12 to 4      |
-+-----------------------------------+-----------------------------------+
+<!--
+The approach to this SRED application is *process as patent*. The client required an ERP that maximized data aggregation. The process produced a hybrid ERP for the transport and logistics industry.
+
+This was more of a cultural shift than a technology upgrade. The management of the process is a work of art, commensurate with breaking down and moving the entire Barnum Bailey Circus by train in the dead of night.
+
+It involved knowledge exchange on a day-by-day basis. It required training material and knowledge transfer at every level of the company, its departments, employees, managers, and stakeholders.
+
+The SRED application is the creation of a process and a system for technology shifts that are truly cultural shifts for all members of an organization.
+-->
+
+We were presented with a vast modernization project in Stargate Logistics.
+They sought an open consultancy on the modernization of their logistics and trucking operation.
+
+We had to look at the business as a whole.
+What could technology do for the project,
+and what could modern data aggregation and analysis mean for them.
+There was an industry standard to achieve in the fusion between the Global Positioning System (GPS) and vehicle tracking.
+
+Many vendors in the marketplace provide these services.
+The problem was that nobody had approached the logistics market as its own Enterprise Resource Planning (ERP) platform within an Internet of Things (IoT) functionality.
+We wanted to move everything onto the cloud.
+We wanted to harvest all their existing functionality and data schemes,
+and we wanted to bring in new devices to expand precision,
+capability,
+and analysis to the business with new tools and device-based data inputs.
+This entailed replicating everything on the existing logistics system in a new way in a cloud environment.
+
+Many uncertainties existed about continuity of basic systems operation and data retention.
+Existing systems were calibrated to real-time data gathering.
+Many of the other systems operated in a real-time way,
+as is to be expected in transport and logistics.
 
 
+Stargate was under constant pressure to remain competitive,
+deliver quality customer service,
+and find innovative ways to optimize operations.
+Modernization became necessary for survival.
+The challenges impacting the operations and profitability of the company included:
+increasing operational costs,
+manual business processes,    
+outdated legacy systems,       
+stricter regulations imposed by federal,
+provincial,
+state,
+and local authorities,
+environmental issues,          
+driver shortage and retention,
+and
+&mdash;
+most important of all
+&mdash;
+the lack of a technology strategy and implementation.
+
+We set about to achieve the following business objectives:
+fleet visibility and tracking,
+increase operational efficiency,
+decrease operating expenses,   
+increase compliance and safety,    
+modernize fleet management and maintenance.   
+
+
+
+
+Our strategy lay in planning an ERP system that modernized the logistics and transport capabilities for our client in such a way that we also created a process and tool set that could be resold in the same marketplace,
+a marketplace invariably going to IoT logistics systems.
+The uncertainties lay in planning and implementing the new system alongside the old system while maintaining the basic operational integrity of the existing system/process
+&mdash;
+it's a lot like the trick of getting the tablecloth out from under the porcelain tableware without breaking anything.
+
+
+
+
+
+### What work did you perform in the tax year to overcome the scientific or technological uncertainties described in line 242?
+
+
+
+To address the above challenges and meet the company’s business objectives, we established the SGL Modernization Program with the following scope:
+an end to end review and assessment of current business processes,
+technology,
+and organizational structure,
+an understanding and documentation of requirements for the future strategy,
+a design,
+development and delivery of integrated solutions for
+dispatch management,       
+fleet management,          
+human resource management,
+finance management,       
+warehousing,               
+repairs and maintenance.
+
+For the SGL Modernization Program,
+we had to find a suite of technology vendors and proprietary software to integrate various APIs.
+
+We had to research options for compatibility and performance.
+We selected Microsoft Azure&trade; for cloud services.
+The client existed in a Microsoft environment upon commencement.
+Staying with Microsoft was a logical choice for them.
+The Azure API allowed all needed hooks to integrate existing functionality.
+We selected Samsara&trade; for GPS Tracking devices.
+It had an open API that allowed us to blend with Azure.
+We selected IngramMicro&trade; for supply chain efficiency and tracking.
+They also had an open API that allowed us the freedom to work with Azure and Samsara.
+
+We fully resourced the program team with the following key roles:
+business/systems analysts,     
+solution architect,            
+technical lead,                
+software engineers,            
+middleware/integration specialist,
+database administrators,       
+test engineers,                
+project manager,               
+training lead,                 
+organization change.
+
+The organizational effort involved was the bulk of the uncertainty overcome.
+The effort lay in timing,
+sequence,
+and constructive consecutive workforces meeting at milestones to transition from old to new,
+whether it be the database layer,
+the applications,
+mapping,
+tracking,
+timekeeping,
+and safety systems integrated,
+
+We worked to mitigate workflow stoppages by anticipating issues of scope and timing.
+We ensured key decisions regarding scope,
+schedule,
+and budget were clearly understood,
+documented,
+and communicated to all parties.
+This helped to clear ambiguity around the extent of features and functionality that the solutions would deliver.
+We maintained steady and continual focus on stakeholder engagement at all levels.
+We maintained consistent and regular communication about the progress of the program to stakeholders with a clear identification of risk and issues along with accountable owners.
+We tailored communication styles to address various types of stakeholders
+&mdash;
+senior management versus front line staff
+&mdash;   
+We applied a seek to understand attitude so solutions offered addressed pain points head-on.  
+
+Everything was done through a strong executive leadership presence.
+The project was governed by an steering committee comprised of Stargate and our company.
+The committee received frequent updates on the overall status progress of program deliverables.                  
+Any obstacles and challenges impeding progress were escalated through the appropriate channels for quick resolution.            
+Strong collaboration and partnership with vendors,
+including frequent checkpoints to ensure vendors were meeting their target  deadlines.
+
+
+Our processes and methods for knowledge transfer focused on ensuring the cost of ineffective transfer is mitigated.
+To facilitate knowledge transfers from/to our IT experts to our clients’ permanent employees we employed a multitude of methods to meet each customer’s individual needs.
+We worked with the client to understand and document knowledge transfer requirements and agreed upon methods of delivery.       
+
+The client was responsible for ensuring adequate resources/time for knowledge transfer and associated tasks was allocated to ensure timely completion.
+Every step was taken to address gaps in knowledge requirements and approach was tailored to meet the unique needs of the knowledge recipients.
+Knowledge methods included,
+but were not limited to:    
+training (classroom and virtual),  
+shadowing,
+coaching,  
+knowledge repository,          
+desktop process and procedure updates,   
+short-form content (job ads, quick reference guides).  
+
+### What scientific or technological advancements did you achieve or attempt to achieve as a result of the work described in line 244? (Maximum 350 words)
+
+We created an ERP system in IoT space.
+We concatenated APIs into an operative cloud based logistics and transport framework:
+Azure,
+Samsara,
+and IngramMicro,
+combining the best of available technologies for a comprehensive cloud based system that operates with the robustness of an ERP with a focus on transport and logistics,
+replete with all the micro-management within those general parameters:
+supply chain integrity and rerouting,
+material safety data sheet logging and geographic location of all regulated materials.
+We took the transport and logistics industry as a whole and trimmed every unnecessary expense away by streamlining the chain of custody,
+reducing or in many cases eliminating lost time,
+and maintain optimal fleet operability by data driven analysis guiding maintenance and parts replacements based on kilometers traveled and conditions traveled in,
+including weather.
+
+The planning itself was a milestone seamless operation,
+a change of culture so expansive the management plan included the delivery of knowledge transfer to in-house IT staff,
+training for employees,
+managers,
+and stakeholders,
+including comprehensive documentation,
+tutorials,
+and training.
+
+We integrated Dispatch Management,
+GPS Tracking and Account systems together,
+reducing the billing and invoicing time by sixty percent.         
+We provided real time access to load tracking,                 
+reduced the on-boarding time by eighty percent,
+and reduced the number of systems in the company from twelve to four.
+
+Most importantly,
+we created a project map within the transport and logistics space that can be sold as specialized and experienced cultural renovators for new technology in an ever evolving business,
+transport and logistics.
